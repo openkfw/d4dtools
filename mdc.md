@@ -93,3 +93,8 @@ https://school-of-data.github.io/mobile-datacollection/index.html
 https://getodk.github.io/xforms-spec/
 - KfW Terms of Reference for project geo data 
 collection > [RMMV Guidebook Annex 3](https://www.kfw-entwicklungsbank.de/Service/Publications-Videos/Publications-by-topic/Digitalisation/RMMV-Guidebook/)
+
+# Licence
+![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
