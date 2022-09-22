@@ -95,9 +95,9 @@ https://getodk.github.io/xforms-spec/
 collection > [RMMV Guidebook Annex 3](https://www.kfw-entwicklungsbank.de/Service/Publications-Videos/Publications-by-topic/Digitalisation/RMMV-Guidebook/)
 
 # Licence
-![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## Rights And Permissions as given by KfW
 The material in this work is subject to copyright. Because KfW Development Bank encourages dissemination of its knowledge, this work may be reproduced, in whole or in part, for noncommercial purposes as long as full attribution to this work is given.
