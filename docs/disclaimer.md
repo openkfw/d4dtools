@@ -1,3 +1,8 @@
+---
+layout: page
+title: Disclaimer
+permalink: /disclaimer/
+---
 # Disclaimer
 This Fact Sheet was developed for all practitioners in preparing and implementing Financial Cooperation (FC) projects and provides them with assistance and examples of how to manage, monitor, and verify FC projects remotely.
 This Fact Sheet was carefully drafted by KfW, its advisers, and experts on the topics covered reflecting the extensive experience gained in KfW’s own FC projects. The material and information provided in this Fact Sheet are however general in nature. It can only provide an initial general overview and some broad practitioner guidelines over relevant aspects, risks, and issues that typically occur in this context and that KfW deems to be generally of interest and importance when dealing with such types of projects and questions. It does not constitute any form of legal, technical, or other advice and therefore does not purport to replace such legal, technical, or other advice for a specific project or question by a user.
