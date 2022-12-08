@@ -1,16 +1,20 @@
-# Mobile Data Collection Tools (MDC)
+---
+layout: page
+title: Mobile Data Collection Tools (MDC)
+permalink: /mdc/
+---
 
-## Definition
+# Definition
 Mobile Data Collection (MDC) tools are used for collecting qualitative and quantitative information from the field 
 via mobile devices such as a smart-phones, tablets, or GPS trackers
 
-## How to Select a Mobile Data Collection  Tool or Platform?
+# How to Select a Mobile Data Collection  Tool or Platform?
 
-### Step 1: Check the Digital Principles
+## Step 1: Check the Digital Principles
 The [Digital Principles](https://digitalprinciples.org/resource/howto-choose-mobile-data-collection-plaform/) provide guidance on how 
 to choose an MDC platform.
 
-### Step 2: What Information Do I Need?
+## Step 2: What Information Do I Need?
 MDC tools can capture, organize, store, and transmit multiple media types that are collected in the 
 field, including text, photos, audio, and video files 
 together with corresponding (automatically generated) meta-data such as geo location, time stamp, 
@@ -22,7 +26,7 @@ validation status, and author. MDC can be used for:
 - Geo tags and geo shapes (GPS-based)
 - Digital signatures/fingerprints  (e.g., on consent forms)
 
-### Step 3: Which Special Features Do I Need to Consider?
+## Step 3: Which Special Features Do I Need to Consider?
 -  Many MDC tools come with an offline functionality that enables users to collect data in environments with low bandwidth or no internet 
 connection by storing data locally on the device 
 and enabling the upload once the device is connected again (always highly recommended). 
@@ -77,7 +81,7 @@ tools.
 used to collect information about water supply 
 systems and wells.
 
-## Links to Further Sources
+# Links to Further Sources
 - Online catalog of data collection tools: 
 http://impacttrackertech.kopernik.info/digital-data-platform
 - Overview on MDC & MDC platforms: 
@@ -99,6 +103,4 @@ collection > [RMMV Guidebook Annex 3](https://www.kfw-entwicklungsbank.de/Servic
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-[Disclaimer](https://github.com/openkfw/d4dtools/blob/6-cleaner-licencing-display/disclaimer.md)
-
-
+[Disclaimer](disclaimer.md)
