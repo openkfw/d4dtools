@@ -105,7 +105,7 @@ Deforestation and Forest Degradation (REDD) can be used to
 further disaggregate georeferenced data types.
 
 ## Legal Aspects
-Human rights risks: In countries with human rights issues or in 
+**Human rights risks**: In countries with human rights issues or in 
 conflict settings, project location data containing exact GPS 
 coordinates could be used against the population or vulnerable 
 parts thereof, such as minorities. This information could be misused for targeting them via discriminatory policies, (state) terror 
@@ -114,7 +114,7 @@ location by an international donor could increase such a risk.
 Careful attention to data protection and data security (below) is 
 required so as not to risk harming individuals or groups.
 
-Intellectual property rights for using the GIS information must 
+**Intellectual property rights** for using the GIS information must 
 be secured, thereby avoiding liability for infringement on such 
 rights, whether intended or not. Such infringements could include 
 failure to control access to geo-data or tools, resulting in the illegal use of the data or tools by others. Users must familiarize 
@@ -126,7 +126,7 @@ their general Terms of Services and their Additional Terms of
 Services for Maps and/or Satellite Services. Those terms prohibit 
 certain conduct, including copying the content or “mass downloading” content (even content from projects that was mass-uploaded before).
 
-Data Protection: Combining descriptive data with precise location data is the cornerstone of many types of spatial analyses. 
+**Data Protection**: Combining descriptive data with precise location data is the cornerstone of many types of spatial analyses. 
 But when locations are easily linked to identities of individuals, 
 households or farms, there is potential for violating personal privacy. Avoid the inadvertent collection of personal data. Only 
 strictly relevant personal data should be collected and processed 
@@ -136,7 +136,7 @@ pixilation).
 
 Data security requirements can also arise from applicable 
 data protection regulations (local and/or GDPR) or the 
-above-mentioned human rights risks, which stipulate basic security requirements for storing and processing of exact GPS coordinates.  Entities may be required under those rules and/or conditions to ensure the ongoing confidentiality, integrity, availability, 
+above-mentioned human rights risks, which stipulate basic security requirements for storing and processing of exact GPS coordinates.  Entities may be required under those rules and/or conditions to ensure the ongoing confidentiality, integrity, availability, 
 and resilience of storing and processing systems and services 
 (technical and organizational measures).
 More information on legal aspects can be found here:
