@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Building Information Modeling (BIM)
 
 ## Definition
@@ -22,7 +26,7 @@ approach, within which the following modules are included:
 
 ... and going back to programming.
 
-## Step 1: Select Data Solution Level
+### Step 1: Select Data Solution Level
 BIM can also be categorized according to their level of complexity (described by the number of dimensions “D” covered): 
 
 - **3D design and planning**: includes 3D laser scanning, computer-aided design modeling, visualization, clash detection, 
@@ -34,7 +38,7 @@ detailed cost estimates, multi-phased cost estimation, value analysis, and chang
 - **7D facility management**: incudes life cycle BIM strategies, BIM as built, BIM embedded manuals, cost estimation, value 
 analysis, and change management.
 
-## Step 2: What Information Do I Need?
+### Step 2: What Information Do I Need?
 BIM software can provide various functionality and information:
 - **view** information (see details of a building, show and hide  parts, observe a 360 degree model, for example to be used 
 for cost estimation)
@@ -48,7 +52,7 @@ for cost estimation)
 - **export** the Industrial Foundation Class (IFC) files as ifcXML and ifcZIP files .
 
 
-## Step 3: What Do I Need to Consider When Acquiring a BIM?
+### Step 3: What Do I Need to Consider When Acquiring a BIM?
 The inclusion of BIM at project planning is a key to success and 
 mandatory in a growing number of countries. KfW has already 
 gained substantial expertise internally. Lessons from past 
@@ -102,7 +106,7 @@ planning of the hydropower plant (34.5 MW)
 - [buildingSMART/ IFC](https://technical.buildingsmart.org/standards/ifc/)
 - [Construction Operations Building Information Exchange (COBie)](https://www.bimpedia.eu/-/1390-cobie)
 
-# Licence
+## Licence
 ![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
