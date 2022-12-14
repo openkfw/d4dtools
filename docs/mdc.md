@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Mobile Data Collection Tools (MDC)
-permalink: /mdc/
+comments: true
 ---
 
 # Definition

@@ -6,9 +6,11 @@ theme:
     - navigation.instant
     - navigation.tracking
     - toc.follow
-  
+  custom_dir: overrides
+
 repo_url: https://github.com/openkfw/d4dtools
 edit_uri: edit/main/docs/
+
 nav:
   - Introduction: "index.md"
   - "mdc.md"
