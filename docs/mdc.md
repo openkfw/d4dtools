@@ -85,8 +85,7 @@ in > [RMMV Guidebook Section 2.3.1](https://www.kfw-entwicklungsbank.de/Service/
 - In an urban Water and Sanitation project [in Mali (PAEPMA; PN: 32219), a smartphone app](https://www.kfw-entwicklungsbank.de/ipfz/Projektdatenbank/Programm-kleinst%C3%A4dtische-Wasser--und-Sanit%C3%A4rversorgung-32219.htm) was used to collect information about water supply systems and wells.
 
 ## Links to Further Sources
-- Online catalog of data collection tools: 
-http://impacttrackertech.kopernik.info/digital-data-platform
+- [Online catalog of data collection tools](http://impacttrackertech.kopernik.info/digital-data-platform) 
 - Overview on MDC & MDC platforms: 
 https://www.betterevaluation.org/en/evaluation-options/mobile_data_collection
 - Evaluation Framework and Comparison of 
