@@ -40,6 +40,7 @@ analysis, and change management.
 
 ### Step 2: What Information Do I Need?
 BIM software can provide various functionality and information:
+
 - **view** information (see details of a building, show and hide  parts, observe a 360 degree model, for example to be used 
 for cost estimation)
 - **edit** information (smart revision management, warnings, revision comparison)
@@ -69,17 +70,13 @@ actors who use open-source BIM more frequently (see [RMMV Guidebook Section 2.2.
 ## Interoperability Requirements
 BIM information is only useful if it can be shared between all 
 the relevant stakeholders involved in the project, hence interoperability is crucial in the industry:
-- **Planning and construction phase**: buildingSMART is an 
-international organization aiming to improve information 
-exchange in the building construction industry by establishing 
-IFCs as global open data standard formats (ISO 16739: 2013) 
+
+- **Planning and construction phase**: buildingSMART is an  international organization aiming to improve information 
+exchange in the building construction industry by establishing  IFCs as global open data standard formats (ISO 16739: 2013) 
 for BIM.
-- **Operation and maintenance**: the Construction Operations 
-Building information exchange (COBie) is an international 
-standard for asset management (equipment capture and 
-record lists, product data sheets, warranties, spare parts lists, 
-and preventive maintenance schedules). It is used once a built 
-asset is in service.
+- **Operation and maintenance**: the Construction Operations Building information exchange (COBie) is an international 
+standard for asset management (equipment capture and record lists, product data sheets, warranties, spare parts lists, 
+and preventive maintenance schedules). It is used once a built asset is in service.
 
 ## Legal Aspects
 Use of BIM must be reflected in the project’s construction and 

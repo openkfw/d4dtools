@@ -39,20 +39,20 @@ procedures).
 For this to work, both tools must be interoperable (highly recommended if a R/MIS exists or is planned).
 
 ### Software Cost Structure Model
-Tools can be differentiated along the dimension open source vs. proprietary > RMMV Guidebook Section 2.2.2. While most
-Open Data Kit (ODK)-based solutions are open source, most customized tools, which are often an integral part of an
-overarching R/MIS system, are usually based on proprietary source code. The following three categories can be differen-
-tiated:
+Tools can be differentiated along the dimension open source vs. proprietary ([RMMV Guidebook Section 2.2.2](https://www.kfw-entwicklungsbank.de/Service/Publications-Videos/Publications-by-topic/Digitalisation/RMMV-Guidebook/)). While most Open Data Kit (ODK)-based solutions are open source, most customized tools, which are often an integral part of an
+overarching R/MIS system, are usually based on proprietary source code. The following three categories can be differentiated:
+
 - Customized tools
 - Modifiable off-the-shelf tools (MOTS)
 - Commercial off-the-shelf tools (COTS)
-For pros and cons of these three options, please go to the > Fact Sheet (Remote) Management Information Systems
-(R/MIS). In case no R/MIS exists (yet), an open-source-based tool (e.g., KoBo Toolbox) is recommended.
+
+For pros and cons of these three options, please go to the  [Fact Sheet (Remote) Management Information Systems
+(R/MIS)](https://www.kfw-entwicklungsbank.de/Service/Publications-Videos/Publications-by-topic/Digitalisation/Fact-Sheets/). In case no R/MIS exists (yet), an open-source-based tool (e.g., [KoBo Toolbox](https://www.kobotoolbox.org/)) is recommended.
 
 ## Interoperability Requirements
-In which formats and structures should data be  stored in mobile collection tools to allow for an exchange with other systems? 
-- ODK is a standard format for exchanging data between MDC tools and/or R/MIS. The standard is an XLS-based form description on which many 
-compatible tools can be based.
+In which formats and structures should data be  stored in mobile collection tools to allow for an exchange with other systems?
+
+- ODK is a standard format for exchanging data between MDC tools and/or R/MIS. The standard is an XLS-based form description on which many compatible tools can be based.
 - If they exist, sector-specific open data standards should be considered in addition.
 
 ## Legal Aspects 
@@ -86,19 +86,11 @@ in > [RMMV Guidebook Section 2.3.1](https://www.kfw-entwicklungsbank.de/Service/
 
 ## Links to Further Sources
 - [Online catalog of data collection tools](http://impacttrackertech.kopernik.info/digital-data-platform) 
-- Overview on MDC & MDC platforms: 
-https://www.betterevaluation.org/en/evaluation-options/mobile_data_collection
-- Evaluation Framework and Comparison of 
-Mobile Survey Tools for Rural Water and 
-Sanitation Monitoring
-https://www.ncbi.nlm.nih.gov/pmc/articles/
-PMC5036673/
-- Guide on how to do mobile data collection: 
-https://school-of-data.github.io/mobile-datacollection/index.html
-- How to link offline data collection to a MIS: 
-https://getodk.github.io/xforms-spec/
-- KfW Terms of Reference for project geo data 
-collection > [RMMV Guidebook Annex 3](https://www.kfw-entwicklungsbank.de/Service/Publications-Videos/Publications-by-topic/Digitalisation/RMMV-Guidebook/)
+- [Overview on MDC & MDC platforms](https://www.betterevaluation.org/en/evaluation-options/mobile_data_collection) 
+- [Evaluation Framework and Comparison of Mobile Survey Tools for Rural Water and Sanitation Monitoring](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5036673/)
+- [Guide on how to do mobile data collection](https://school-of-data.github.io/mobile-datacollection/index.html) 
+- [How to link offline data collection to a MIS](https://getodk.github.io/xforms-spec/)
+- KfW Terms of Reference for project geo data collection in [RMMV Guidebook Annex 3](https://www.kfw-entwicklungsbank.de/Service/Publications-Videos/Publications-by-topic/Digitalisation/RMMV-Guidebook/)
 
 ## Licence
 ![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
