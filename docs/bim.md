@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Building Information Modeling (BIM)
 
 ## Definition
@@ -22,7 +26,7 @@ approach, within which the following modules are included:
 
 ... and going back to programming.
 
-## Step 1: Select Data Solution Level
+### Step 1: Select Data Solution Level
 BIM can also be categorized according to their level of complexity (described by the number of dimensions “D” covered): 
 
 - **3D design and planning**: includes 3D laser scanning, computer-aided design modeling, visualization, clash detection, 
@@ -34,8 +38,9 @@ detailed cost estimates, multi-phased cost estimation, value analysis, and chang
 - **7D facility management**: incudes life cycle BIM strategies, BIM as built, BIM embedded manuals, cost estimation, value 
 analysis, and change management.
 
-## Step 2: What Information Do I Need?
+### Step 2: What Information Do I Need?
 BIM software can provide various functionality and information:
+
 - **view** information (see details of a building, show and hide  parts, observe a 360 degree model, for example to be used 
 for cost estimation)
 - **edit** information (smart revision management, warnings, revision comparison)
@@ -48,7 +53,7 @@ for cost estimation)
 - **export** the Industrial Foundation Class (IFC) files as ifcXML and ifcZIP files .
 
 
-## Step 3: What Do I Need to Consider When Acquiring a BIM?
+### Step 3: What Do I Need to Consider When Acquiring a BIM?
 The inclusion of BIM at project planning is a key to success and 
 mandatory in a growing number of countries. KfW has already 
 gained substantial expertise internally. Lessons from past 
@@ -65,17 +70,13 @@ actors who use open-source BIM more frequently (see [RMMV Guidebook Section 2.2.
 ## Interoperability Requirements
 BIM information is only useful if it can be shared between all 
 the relevant stakeholders involved in the project, hence interoperability is crucial in the industry:
-- **Planning and construction phase**: buildingSMART is an 
-international organization aiming to improve information 
-exchange in the building construction industry by establishing 
-IFCs as global open data standard formats (ISO 16739: 2013) 
+
+- **Planning and construction phase**: buildingSMART is an  international organization aiming to improve information 
+exchange in the building construction industry by establishing  IFCs as global open data standard formats (ISO 16739: 2013) 
 for BIM.
-- **Operation and maintenance**: the Construction Operations 
-Building information exchange (COBie) is an international 
-standard for asset management (equipment capture and 
-record lists, product data sheets, warranties, spare parts lists, 
-and preventive maintenance schedules). It is used once a built 
-asset is in service.
+- **Operation and maintenance**: the Construction Operations Building information exchange (COBie) is an international 
+standard for asset management (equipment capture and record lists, product data sheets, warranties, spare parts lists, 
+and preventive maintenance schedules). It is used once a built asset is in service.
 
 ## Legal Aspects
 Use of BIM must be reflected in the project’s construction and 
@@ -102,7 +103,7 @@ planning of the hydropower plant (34.5 MW)
 - [buildingSMART/ IFC](https://technical.buildingsmart.org/standards/ifc/)
 - [Construction Operations Building Information Exchange (COBie)](https://www.bimpedia.eu/-/1390-cobie)
 
-# Licence
+## Licence
 ![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
