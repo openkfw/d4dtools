@@ -1,8 +1,12 @@
 # Disclaimer
 These Fact Sheets were developed for all practitioners in preparing and implementing Financial Cooperation (FC) projects and provides them with assistance and examples of how to manage, monitor, and verify FC projects remotely.
+
 These Fact Sheets were carefully drafted by KfW, its advisers, and experts on the topics covered reflecting the extensive experience gained in KfW’s own FC projects. The material and information provided in them Fact Sheet are however general in nature. It can only provide an initial general overview and some broad practitioner guidelines over relevant aspects, risks, and issues that typically occur in this context and that KfW deems to be generally of interest and importance when dealing with such types of projects and questions. It does not constitute any form of legal, technical, or other advice and therefore does not purport to replace such legal, technical, or other advice for a specific project or question by a user.
+
 Before entering into any of the activities contemplated in these Fact Sheets, any Fact Sheet user should first seek advice for themselves as they deem necessary and should not solely rely upon the material and information given herein as a basis for making any business, legal, or other decision. Any use of the material or information provided in this Fact Sheet for specific projects is at the user’s own risk.
-Due to the general nature of the Fact Sheets, conclusions drawn from them always need to be adjusted to the specific needs and design of the respective project context. KfW can therefore not be held liable for any use and any conclusions drawn from this Fact Sheet.
+
+Due to the general nature of the Fact Sheets, conclusions drawn from them always need to be adjusted to the specific needs and design of the respective project context. KfW can therefore not be held liable for any use and any conclusions drawn from these Fact Sheets.
+
 KfW makes no representation and excludes to the fullest extent permitted by applicable law any responsibility or liability for these Fact Sheets, their content, or any errors or omissions made in the content of these Fact Sheets. The information contained in these Fact Sheets is provided for information purposes only and on an “as is” basis with no guarantees of completeness, accuracy, usefulness, or timeliness.
 
 
