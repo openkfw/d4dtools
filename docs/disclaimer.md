@@ -11,10 +11,15 @@ KfW makes no representation and excludes to the fullest extent permitted by appl
 
 
 # Main author & publisher
+
 2022 KfW Development Bank
+
 Palmengartenstrasse 5 – 9
+
 60325 Frankfurt am Main, Germany
+
 Phone: +49 69 7431 0
+
 Fax: +49 69 7431 2944
 
 This work is a product of the staff of KfW Development Bank with external contributions. The findings, interpretations, and conclusions expressed in this work do not necessarily reflect the views of KfW Development Bank, its Board of Executive Directors, or the governments they represent. KfW Development Bank does not guarantee the accuracy of the data included in this work. The boundaries, colors, denominations, and other information shown on any map in this work do not imply any judgment on the part of KfW Development Bank concerning the legal status of any territory or the endorsement or acceptance of such boundaries.
