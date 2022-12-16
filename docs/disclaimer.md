@@ -6,7 +6,7 @@ Due to the general nature of the Fact Sheets, conclusions drawn from them always
 KfW makes no representation and excludes to the fullest extent permitted by applicable law any responsibility or liability for these Fact Sheets, their content, or any errors or omissions made in the content of these Fact Sheets. The information contained in these Fact Sheets is provided for information purposes only and on an “as is” basis with no guarantees of completeness, accuracy, usefulness, or timeliness.
 
 
-# Main author & publisher: 
+# Main author & publisher
 2022 KfW Development Bank
 Palmengartenstrasse 5 – 9
 60325 Frankfurt am Main, Germany
