@@ -36,7 +36,7 @@ and 3D printing.
 detailed cost estimates, multi-phased cost estimation, value analysis, and change management.
 - **6D sustainability**: includes conceptual and detailed energy analysis, sustainable element tracking, and LEED tracking. 
 - **7D facility management**: incudes life cycle BIM strategies, BIM as built, BIM embedded manuals, cost estimation, value 
-analysis, and change management.
+analysis, and change management...
 
 ### Step 2: What Information Do I Need?
 BIM software can provide various functionality and information:
