@@ -120,21 +120,20 @@ pixilation).
 - In the crop production project PABSO (PN: 27495) in Burkina Faso, geospatial analysis was used to analyze vegetation and road networks.
 - In the [water and sanitation program RANC-EE (PN: 30343)](https://www.kfw-entwicklungsbank.de/ipfz/Projektdatenbank/Wasserver--und-Abwasserentsorgungsprogramm-Zentralamerika-II-30343.htm) in Central America, a GIS was used to map networks and conditions to reduce water loss.
 - In [“REDD Early Mover” project (PN: 29763)](https://www.kfw-entwicklungsbank.de/ipfz/Projektdatenbank/REDD-Early-Mover-29763.htm
-) in Ecuador, a GIS, Satellite Imagery and Third-Party Monitoring are used to enable the Ministry of Environment to monitor forest degradation 
+) in Ecuador, a GIS, Satellite Imagery and Third-Party Monitoring are used to enable the Ministry of Environment to monitor forest degradation 
 and carbon emissions.
 
 ## Links to Further Sources
-- KfW Terms of Reference for project geo data collection: 
-[> RMMV Guidebook Annex 3](https://www.kfw-entwicklungsbank.de/Service/Publications-Videos/Publications-by-topic/Digitalisation/RMMV-Guidebook/).
-- GIS Encyclopedia in Wikipedia: http://wiki.gis.com/wiki/index.php/Main_Page
--  Geospatial is not GIS (GIS vs geospatial definitions): 
-[https://www.forbes.com/sites/forbestechcouncil/2019/03/21/geospatial-is-not-gis/](https://www.forbes.com/sites/forbestechcouncil/2019/03/21/geospatial-is-not-gis/)
-- List of Limitations or Challenges of GIS: 
-[https://grindgis.com/remote-sensing/limitations-or-challenges-of-gis](https://grindgis.com/remote-sensing/limitations-or-challenges-of-gis
-)
-- List of open-source GIS applications 
-[https://www.gislounge.com/open-source-gis-applications/](https://www.gislounge.com/open-source-gis-applications/
-)
+- [KfW Terms of Reference for project geo data collection](https://www.kfw-entwicklungsbank.de/Service/Publications-Videos/Publications-by-topic/Digitalisation/RMMV-Guidebook/).
+- [GIS Encyclopedia in Wikipedia](http://wiki.gis.com/wiki/index.php/Main_Page)
+- [Geospatial is not GIS, GIS vs geospatial definitions](https://www.forbes.com/sites/forbestechcouncil/2019/03/21/geospatial-is-not-gis/)
+- [List of Limitations or Challenges of GIS](https://grindgis.com/remote-sensing/limitations-or-challenges-of-gis)
+- [List of open-source GIS applications](https://www.gislounge.com/open-source-gis-applications)
 
+# Licence
+![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+[Disclaimer](disclaimer.md)
 
