@@ -1,9 +1,8 @@
-## Fact Sheet Technical Tool Type
+---
+comments: true
+---
 
-# Geospatial Tools /GIS
-
-#### Relevance of this Tool Type within the Project Cycle: Feasibility Study, Implementation, Start of Operation, Final Review and Ex-Post Evaluation
-
+# Geospatial Tools and GIS
 ## Definition 
 
 For this fact sheet, geospatial tools encompass geographic information systems (GIS) as desktop and web-based (webmapping) 
@@ -20,12 +19,12 @@ in communities—either because of decentralization processes or
 for projects needing multilayered visualization and handling of
 specific location-based services.
 
-## Step 1: Check the Digital Principles
+### Step 1: Check the Digital Principles
 Before designing/ selecting any geospatial tool or GIS, the 
-nine Principles for Digital Development should be considered: 
-https://digitalprinciples.org
+nine [Principles for Digital Development](https://digitalprinciples.org) should be considered.
 
-## Step 2: What Types of Data Should I Consider?
+
+### Step 2: What Types of Data Should I Consider?
 GIS software can process any data that contains geocoordinates. 
 These can be represented by two main types of geospatial data: 
 vector (map) data or raster (image) data. This data can be visualized in a map and be referenced to images, sensor data, features, 3D models, and socio-economic and environmental data. 
@@ -37,7 +36,7 @@ show changes over time (graphical or temporal variables) using
 multimedia formats and technologies such as: SVG, Java, Quicktime, etc.). Near real-time maps display a live phenomenon, using 
 sensors. Customizable web maps (such as Open Layer Framework, Yahoo! Maps, or Google Maps) offer embedding in thirdparty webpages and/or map-based services (route planner, location marking, etc.) 
 
-## Step 3: What Information Do I Need?
+### Step 3: What Information Do I Need?
 Geospatial tools process georeferenced geospatial data on sites, 
 locations, attributes, and cross-sectoral information within a 
 given geographical area through multidimensional layers that 
@@ -56,7 +55,7 @@ geospatial tools make use of recent technological and webmapping developments an
 animation; real-time feed; personalization via filtering, symbolization, and styling; and collaboration and can be combined with 
 web-based cloud processing and analysis of geospatial data.
 
-## Step 4: What Should I Consider When Acquiring Geospatial 
+### Step 4: What Should I Consider When Acquiring Geospatial 
 Data and Software Tools?
 Due to the variety and increasing importance of applications for 
 geospatial data, a multitude of open, freely downloadable, geospatial data sources exists online that can be used for project-level analysis [> Fact Sheet Data sources (incl. Open Data and Big Data)](https://www.kfw-entwicklungsbank.de/Service/Publications-Videos/Publications-by-topic/Digitalisation/Fact-Sheets/).
@@ -129,13 +128,6 @@ and carbon emissions.
 - [Geospatial is not GIS, GIS vs geospatial definitions](https://www.forbes.com/sites/forbestechcouncil/2019/03/21/geospatial-is-not-gis/)
 - [List of Limitations or Challenges of GIS](https://grindgis.com/remote-sensing/limitations-or-challenges-of-gis)
 - [List of open-source GIS applications](https://www.gislounge.com/open-source-gis-applications)
-
-# Licence
-![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
-
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-[Disclaimer](disclaimer.md)
 
 ## Licence
 ![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
