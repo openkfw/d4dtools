@@ -2,12 +2,12 @@
 
 Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on [openkfw.github.io/d4dtools](https://openkfw.github.io/d4dtools/) :sparkles:.
 
-You can contribute to the **d4tools**  content and site in several ways. Our small, but mighty :muscle: docs team is maintaining this repo; to preserve our bandwidth, off topic conversations will be closed.
+You can contribute to the **d4dtools**  content and site in several ways. Our small, but mighty :muscle: docs team is maintaining this repo; to preserve our bandwidth, off topic conversations will be closed.
 
 ## :mega: Discussions
 Discussions are where we have conversations.
 
-If you'd like help troubleshooting a docs PR you're working on, have a great new idea, or want to share something amazing you've learned in our docs, join us in [discussions](https://github.com/openkfw/d4dtools/discussions/).
+If you'd like help troubleshooting a doc's PR you're working on, have a great new idea, or want to share something amazing you've learned in our docs, join us in [discussions](https://github.com/openkfw/d4dtools/discussions/).
 
 ## :lady_beetle: Issues
 [Issues](https://docs.github.com/en/github/managing-your-work-on-github/about-issues) are used to track tasks that contributors can help with. If an issue has a triage label, we haven't reviewed it yet, and you shouldn't begin work on it.
@@ -53,7 +53,8 @@ Now you are part of the **d4dtools** community. Thank you for your contributions
 
 If you would like to contribute a new fact sheet, please make sure that it is complete and properly formatted. All fact sheets should include a title, a brief introduction, and a list of bullet points or numbered points outlining the key information.
 
-- Before contributing, please take a moment to check that your contribution fits within the scope of the project. Our project is a collection of fact sheets, so we are looking for contributions that are factual, well-researched, and unbiased. Ideally you open an [issue](https://github.com/openkfw/d4dtools/issues) to discuss if the fact sheet is fitting. We might be already working on one but did not quite finish it.
+- Before contributing, please take a moment to check that your contribution fits within the scope of the project. We recommend you check out the already existing collection of fact sheets, before starting a new one. 
+Our project is a collection of fact sheets, so we are looking for contributions that are factual, well-researched, and unbiased. Ideally you open an [issue](https://github.com/openkfw/d4dtools/issues) to discuss if the fact sheet is fitting. We might be already working on one but did not quite finish it.
 - Please make sure to follow proper citation guidelines when including information from external sources. All sources should be properly cited in the text and listed in a references section at the end of the fact sheet.
 - When submitting a contribution, please include a brief description of the changes you have made. This will help us understand the purpose of your contribution and ensure that it is properly reviewed. This should happen through a pull request as described just above.
 
