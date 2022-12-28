@@ -16,7 +16,7 @@ If you've found something in the content or the website that should be updated, 
 
 ### Create a new issue
 
-If you spot a problem with the docs, search if an issue already exists. If a related issue doesn't exist, you can open a [new issue](https://github.com/openkfw/d4dtools/issues/new).
+If you spot a problem with the docs, search if an [issue already exists](https://github.com/openkfw/d4dtools/issues). If a related issue doesn't exist, you can open a [new issue](https://github.com/openkfw/d4dtools/issues/new).
 
 ### Solve an issue
 
