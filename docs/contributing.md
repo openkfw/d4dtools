@@ -56,3 +56,7 @@ If you would like to contribute a new fact sheet, please make sure that it is co
 - Before contributing, please take a moment to check that your contribution fits within the scope of the project. Our project is a collection of fact sheets, so we are looking for contributions that are factual, well-researched, and unbiased. Ideally you open an [issue](https://github.com/openkfw/d4dtools/issues) to discuss if the fact sheet is fitting. We might be already working on one but did not quite finish it.
 - Please make sure to follow proper citation guidelines when including information from external sources. All sources should be properly cited in the text and listed in a references section at the end of the fact sheet.
 - When submitting a contribution, please include a brief description of the changes you have made. This will help us understand the purpose of your contribution and ensure that it is properly reviewed. This should happen through a pull request as described just above.
+
+## Attribution
+
+These contribution guidelines are adapted from the contribution guidelines for Github docs, available online [on the github](https://github.com/github/docs/blob/main/CONTRIBUTING.md).
