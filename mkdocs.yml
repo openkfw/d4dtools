@@ -13,10 +13,16 @@ edit_uri: edit/main/docs/
 
 nav:
   - Introduction: "index.md"
-  - "mdc.md"
-  - "gis.md"
-  - "bim.md"
   - "disclaimer.md"
+  - Contributing: "contributing.md"
+  - "Fact sheets":
+    - "mdc.md"
+    - "gis.md"
+    - "bim.md"
 
 markdown_extensions:
-    - toc
+  - toc
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
