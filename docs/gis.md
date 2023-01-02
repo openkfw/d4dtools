@@ -62,6 +62,7 @@ Due to the variety and increasing importance of applications for
 geospatial data, a multitude of open, freely downloadable, geospatial data sources exists online that can be used for project-level analysis [> Fact Sheet Data sources (incl. Open Data and Big Data)](https://www.kfw-entwicklungsbank.de/Service/Publications-Videos/Publications-by-topic/Digitalisation/Fact-Sheets/).
 Should data be collected first-hand to meet specific information needs, geospatial data collection can be incorporated into project monitoring via several tools presented in other > Fact Sheets (see below).
 For the **processing and managing** of georeferenced geospatial data, several software solutions exist: 
+
 -  open-source geospatial tools are available on the market, such as QGIS, GRASS GIS, ESA-SNAP, ILWIS, and gVSIG.
 - roprietary GIS tools are also available but require careful elabo-ration of licensing costs during and after project implementation (e.g., ESRI ARCGIS, ERDAS, and Ecognition).
 
@@ -72,18 +73,20 @@ Google Earth may be of use.
 The following **challenges** should be considered when using 
 geo-spatial data for project planning, implementation, and 
 monitoring or verification:
-a) the availability of (updated) data
-b) adequate data storage, hardware, and IT infrastructure
-c) inter-institutional cooperation in terms of data exchange
-d) access to the internet
-e) adequate training of project implementers/monitors in 
+
+1. the availability of (updated) data
+2. adequate data storage, hardware, and IT infrastructure
+3. inter-institutional cooperation in terms of data exchange
+4. access to the internet
+5. adequate training of project implementers/monitors in 
 the target regions to increase sustainability
-f) access to appropriate software
+6. access to appropriate software
 
 
 ## Interoperability Requirements
 The following standards/requirements should be considered as 
 part of the setup of any geospatial tool: 
+
 - File formats for handling vector and raster data are manifold. 
 Industry standards are recommended for georeferenced data 
 exchange, such as KML, GeoTIFF, GeoJSON, SHP, GPX, GPKG, 
@@ -117,6 +120,7 @@ pixilation).
 **Data security requirements** can also arise from applicable data protection regulations (local and/or GDPR) or the above-mentioned human rights risks, which stipulate basic security requirements for storing and processing of exact GPS coordinates.  Entities may be required under those rules and/or conditions to ensure the ongoing confidentiality, integrity, availability, and resilience of storing and processing systems and services (technical and organizational measures). More information on legal aspects can be found here: [> RMMV Guidebook Section 2.3](https://www.kfw-entwicklungsbank.de/Service/Publications-Videos/Publications-by-topic/Digitalisation/RMMV-Guidebook/)
 
 ## Project Examples/Use Cases
+
 - In the crop production project PABSO (PN: 27495) in Burkina Faso, geospatial analysis was used to analyze vegetation and road networks.
 - In the [water and sanitation program RANC-EE (PN: 30343)](https://www.kfw-entwicklungsbank.de/ipfz/Projektdatenbank/Wasserver--und-Abwasserentsorgungsprogramm-Zentralamerika-II-30343.htm) in Central America, a GIS was used to map networks and conditions to reduce water loss.
 - In [“REDD Early Mover” project (PN: 29763)](https://www.kfw-entwicklungsbank.de/ipfz/Projektdatenbank/REDD-Early-Mover-29763.htm
