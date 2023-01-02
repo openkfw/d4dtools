@@ -41,6 +41,7 @@ Geospatial tools process georeferenced geospatial data on sites,
 locations, attributes, and cross-sectoral information within a 
 given geographical area through multidimensional layers that 
 can be combined with project data or isolated according to analysis requirements, for example
+
 -  **Assessment of risks**/vulnerability of populations to disasters, 
 conflicts, or diseases
 - **Planning of infrastructure** projects, for example, electricity 
