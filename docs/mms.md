@@ -216,3 +216,10 @@ Since MMS tools allow **tracking of employees**, legal restrictions on the use o
 -   [List of Open Source MMS software](https://www.goodfirms.co/blog/the-7-best-free-and-open-source-cmms-software)
 
 -   [Interoperability Framework for BIM and MMS (pdf)](https://pure.port.ac.uk/ws/portalfiles/portal/10837153/Developing_an_Interoperability_Framework_for_Building_Information_Models_and_Facilities_Management_Systems_CCC_2018_Proceedings.pdf)
+
+## Licence
+![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+[Disclaimer](disclaimer.md)
