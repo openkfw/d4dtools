@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Cameras (Terrestrial Observation)
 
 ## Definition
