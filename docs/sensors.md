@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Sensors / SmartMeters (Internet of Things)
 
 ## Definition
@@ -203,3 +207,10 @@ data but is fully algorithmetically generated). Example: [dweet.io](https://dwee
 -   [Disposable sensors](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.201806739 )
 -   [Open sensor datasets](https://data.world/datasets/sensors )
 -   [Commercial use of data sets](https://datarade.ai/data-categories/iot-data)
+
+## Licence
+![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+[Disclaimer](disclaimer.md)
