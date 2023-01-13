@@ -234,3 +234,10 @@ R / MIS are useful for tracking infrastructure quality and the progress of compl
 -   KfW Terms of Reference for project geo data collection [> RMMV Guidebook Annex 3](https://www.kfw-entwicklungsbank.de/Service/Publications-Videos/Publications-by-topic/Digitalisation/RMMV-Guidebook/)
 
 -   Health management information system: [www.openimis.org](https://getodk.github.io/xforms-spec/)
+
+## Licence
+![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+[Disclaimer](disclaimer.md)
