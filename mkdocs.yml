@@ -19,6 +19,7 @@ nav:
     - "mdc.md"
     - "gis.md"
     - "bim.md"
+    - "elearning.md"
 
 markdown_extensions:
   - toc
