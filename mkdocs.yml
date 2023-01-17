@@ -19,8 +19,8 @@ nav:
     - "mdc.md"
     - "gis.md"
     - "bim.md"
+    - "mms.md"
     - "elearning.md"
-
 markdown_extensions:
   - toc
   - attr_list
