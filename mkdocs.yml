@@ -19,8 +19,13 @@ nav:
     - "mdc.md"
     - "gis.md"
     - "satellites.md"
+    - "collaboration.md"
     - "bim.md"
-
+    - "drones.md"
+    - "cst.md"
+    - "mms.md"
+    - "elearning.md"
+    
 markdown_extensions:
   - toc
   - attr_list
