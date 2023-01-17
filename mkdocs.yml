@@ -20,7 +20,7 @@ nav:
     - "gis.md"
     - "collaboration.md"
     - "bim.md"
-
+    - "mms.md"
 markdown_extensions:
   - toc
   - attr_list
