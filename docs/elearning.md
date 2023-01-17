@@ -72,7 +72,7 @@ comments: true
   File-sharing tools may also contribute to sharing content with and
   between learners.
 
-**Learning Management Systems (LMS)**
+ **Learning Management Systems (LMS)**
 
   LMS are online software that can be customized to create courses for
   learners to study at their own pace and attend live courses. Among the
@@ -82,7 +82,7 @@ comments: true
   assignment grading. Most solutions include a mobile application.
   Several open-source options exist (e.g., Moodle, Opigno).
 
-**Massive Open Online Courses (MOOCs)**
+ **Massive Open Online Courses (MOOCs)**
 
   MOOCs are courses that are made available online to a large audience.
   Course material and lectures are usually provided at no additional
@@ -108,7 +108,7 @@ and so on. The German Ministry for Economic Cooperation and Develop- ment
   [CourseWare](https://ocw.mit.edu/search/?q=remote%20monitoring&t=Developmental%20Economics&t=Community%20Development&t=Global%20Poverty&t=International%20Development&t=Surveying)
   (GIS), and [OPEN.ED@PSU](https://roam.libraries.psu.edu/) (GIS).
 
-**Mixed eLearning approaches**
+ **Mixed eLearning approaches**
 
   To create the necessary preconditions for successful learning in
   ecosystems with low availability of IT infrastructure, internet
