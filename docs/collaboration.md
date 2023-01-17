@@ -16,10 +16,9 @@ comments: true
   Collaboration tools can support one or a combination of the fol-
   lowing categories:
 
--   **Communication** and **interaction** (including phone and video calls), instant group or one-on-one messaging and conferenc- ing,
-  voting, brainstorming and digital whiteboarding:
+- **Communication** and **interaction** (including phone and video calls), instant group or one-on-one messaging and conferencing, voting, brainstorming and digital whiteboarding:
 
--  **File sharing/document management**
+-  **File sharing / document management**
 
 -   **Collaboration** for complex interdependent work [see Fact Sheet Building Information Modeling (BIM)](bim.md)
 
