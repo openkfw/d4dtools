@@ -125,18 +125,9 @@ radio, TV, or online or direct engagement in bounded crowdsourcing. Further cons
     allows for data collection via SMS, social media, and direct upload
     of data by the crowd. **SMS**-based systems offer the crowd a
     two-way communication to select relevant information or optional
-    answers similar to surveys. Similarly, **Unstructured Supplementary Service Data (SSD)** solutions allow the crowd to select options in pre-designed protocols and the project to receive brief survey data. **IVR** allows the crowd to
- interact with an automated host system to provide data input via voice recognition. This is increasingly part of
- open-source systems and an advantage in contexts of low literacy
- (Exampe: Decentralisation Programme Togo). Translating and sharing
- the tools in local languages may be necessary, for which crowdsourcing
- can also be used. Besides open-source, mobile-based solutions, new
- tools can also be developed at high initial investment costs, see [(Remote) Management Information Systems (R/MIS) "Customized Software"](rmis.md).
+    answers similar to surveys. Similarly, **Unstructured Supplementary Service Data (SSD)** solutions allow the crowd to select options in pre-designed protocols and the project to receive brief survey data. **IVR** allows the crowd to interact with an automated host system to provide data input via voice recognition. This is increasingly part of open-source systems and an advantage in contexts of low literacy (Exampe: Decentralisation Programme Togo). Translating and sharing the tools in local tools can also be developed at high initial investment costs, see [(Remote) Management Information Systems (R/MIS) "Customized Software"](rmis.md).
 
--   **Social media:** Popular social media services can either work as a channel to engage crowds via mobile-based applications or directly used to collect data and feedback. The advantage of using
- social media directly is the high degree of familiarity and frequent
- visits to social media platforms, which facilitates crowd
- participation.
+-   **Social media:** Popular social media services can either work as a channel to engage crowds via mobile-based applications or directly used to collect data and feedback. The advantage of using social media directly is the high degree of familiarity and frequent visits to social media platforms, which facilitates crowd participation.
 
 ## Tools for Bounded crowdsourcing
 
