@@ -6,17 +6,8 @@ comments: true
 
 ## Definition
  
-  A sensor is a device that monitors changes by converting signals
-  (input) continuously and automatically from analog objects into a
-  digital interface (output). Technological developments have empowered
-  sensor connectivity through cloud/remote access, forming a global
-  infrastructure of physical and virtual, internet-connected objects called the **Internet of Things (IoT)**. A smart sensor measures and combines signal conditioning and signal
-  processing within one device. For example: a *SmartMeter*
-  monitors electric energy consumption in (near) real-time, communicates with a central system or smart grid, and shares usage data
-  with consumers and providers for billing, data analytics, customer
-  targeting, and rate recommendations. Similarly, a *Smart Water Meter*
-  provides high-resolution readings, demand forecasting, scarcity
-  prevention and leak notification.
+  A sensor is a device that monitors changes by converting signals (input) continuously and automatically from analog objects into a digital interface (output). Technological developments have empowered sensor connectivity through cloud/remote access, forming a global infrastructure of physical and virtual, internet-connected objects called the **Internet of Things (IoT)**. A smart sensor measures and combines signal conditioning and signal processing within one device. For example: a *SmartMeter*
+  monitors electric energy consumption in (near) real-time, communicates with a central system or smart grid, and shares usage data with consumers and providers for billing, data analytics, customer targeting, and rate recommendations. Similarly, a *Smart Water Meter* provides high-resolution readings, demand forecasting, scarcity prevention and leak notification.
 
 ## How to Employ Sensors
 ### Step 1: Check the Legal Framework
@@ -40,32 +31,22 @@ comments: true
 -   **Power plants:** remote monitoring (input/output parameter),
     steering of energy generation, and controling:
 
-    -   Sensors measure parameters such as oil, air,and device temperatures, the speed of turning parts (turbine, motors), the
-  physical characteristics and chemical composition of fuels, and gases
-  and exhaust emissions.
-    -   Sensors measure optical and acoustic parameters, among others, to remotely control power plants that have limited or no
-  operation personnel at the power plant site.
+    -   Sensors measure parameters such as oil, air,and device temperatures, the speed of turning parts (turbine, motors), the physical characteristics and chemical composition of fuels, and gases and exhaust emissions.
+    -   Sensors measure optical and acoustic parameters, among others, to remotely control power plants that have limited or no operation personnel at the power plant site.
 
-    -   SmartMeter data can be used by the energy plant itself to detect/reconfigure and reroute in case of power loss, reducing
-  maintenance costs.
+    -   SmartMeter data can be used by the energy plant itself to detect/reconfigure and reroute in case of power loss, reducing maintenance costs.
 
--   **Electricity (Smart) Grid:** sensors for measuring conditions in the electricity transmission and distribution grid (e.g., voltage,
-  frequency, temperature, etc.)
+-   **Electricity (Smart) Grid:** sensors for measuring conditions in the electricity transmission and distribution grid (e.g., voltage, frequency, temperature, etc.)
 
 -  **Energy efficiency and reliability**:
 
-    -   Sensors applied to various energy captors/processors
-          (electric/gas generators, water turbines, windwheels, solar
-          panels/street lighting, etc.) measure, monitor, and steer
-          energy sources.
+    -   Sensors applied to various energy captors/processors (electric/gas generators, water turbines, windwheels, solar panels /street lighting, etc.) measure, monitor, and steer energy sources.
 
     -   Power suppliers use sensors to gather insights and offer incentives to users to use energy at non-peak times to reduce the costs of building greater capacities.
 
 #### Water sector
 
--   **Wastewater and drinking water treatment plants:** sensors measure
-    water quality and flow to remotely monitor and steer treatment,
-    inlet- and outlet water quality, and support operations.
+-   **Wastewater and drinking water treatment plants:** sensors measure water quality and flow to remotely monitor and steer treatment, inlet- and outlet water quality, and support operations.
 
 -   **Water and wastewater networks:** sensors are used to monitor network conditions (flow metering and pressure sensors) and
   steering (via valves, pumps).
@@ -73,17 +54,13 @@ comments: true
 - **Meterological and hydrological networks**:
 
     -   Sensors measure hydrological situations (precipitation, evaporation, temperature, river runoff, sunshine hours, etc.).
+    -   Sensors measure water quality and quantity (levels of groundwater and surface waters in reservoirs and water quality parameters).
 
-    -   Sensors measure water quality and quantity (levels of groundwater and surface waters in reservoirs and water quality
-  parameters).
-
--   Remote data transfer (mobile cards, internet), remote control, analysis of the meterological, and hydrological data in
-  computer-based systems.
+-   Remote data transfer (mobile cards, internet), remote control, analysis of the meterological, and hydrological data in computer-based systems.
 
 #### Mobility sector
 
--   **Network capacity:** sensors monitor load in interconnected
-    charging stations for e-vehicles.
+-   **Network capacity:** sensors monitor load in interconnected charging stations for e-vehicles.
 
 -   **Traffic:** sensors can help in incident reporting and response, traffic directions, and parking management. They can also measure air pollution.
 
@@ -103,9 +80,7 @@ comments: true
  
  type of **connection**: wired/wireless
  
-  **functional** requirements (offline usage and range, solarpower,
-  calibration resolution, repeatability, interferences, environmen- tal
-  conditions, maintenance, etc.)
+  **functional** requirements (offline usage and range, solarpower, calibration resolution, repeatability, interferences, environmental conditions, maintenance, etc.)
  
   **non-functional** attributes (e.g., longevity, interoperability, scalability, wireless protocols, compliance with safety standards,
   etc.)
@@ -122,14 +97,8 @@ comments: true
   centralized /decentralized facilities.
 
 ### Procurement of Sensor Data
-Sensor datasets are siloed, often proprietary, and treated as
-the exclusive preserve of the organizations collecting them.
-However, traffic and meterological data is often available
-for free (universities/cities).
-If the application of sensors is not possible and no publicly
-available datasets exist or are accessible, the use of tools
-modeling synthetic datasets can be explored (meaning generated by a computer simulation that approximates real
-data but is fully algorithmetically generated). Example: [dweet.io](https://dweet.io/)
+Sensor datasets are siloed, often proprietary, and treated as the exclusive preserve of the organizations collecting them.
+However, traffic and meterological data is often available for free (universities/cities). If the application of sensors is not possible and no publicly available datasets exist or are accessible, the use of tools modeling synthetic datasets can be explored (meaning generated by a computer simulation that approximates real data but is fully algorithmetically generated). Example: [dweet.io](https://dweet.io/)
 
 
 ### Risks and challenges to keep in mind:
