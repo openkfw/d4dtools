@@ -18,6 +18,7 @@ nav:
   - "Fact sheets":
     - "mdc.md"
     - "gis.md"
+    - "sensors.md"
     - "collaboration.md"
     - "bim.md"
     - "drones.md"
