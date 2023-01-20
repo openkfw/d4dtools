@@ -67,12 +67,7 @@ search engine for open geodata sets called [mapme](https://mapme.shinyapps.io/ge
     data products will need to be purchased under commercial licenses
     from EO industry platforms directly (see [Links below](#links-to-further-sources)) or using image broker services.
 
--   **Satellite Image data** from public or commercial sources **can be
-    procured at various processing levels**, also saving several
-    preprocessing steps and thus time and cost (the pre- processing levels include radiometric, atmospheric, geometric
-  corrections and orthorectification using DEM). This will ensure the
-  correct geolocalization of the images and the correct atmospheric
-  effects.
+- **Satellite Image data** from public or commercial sources **can be procured at various processing levels**, also saving several preprocessing steps and thus time and cost (the pre- processing levels include radiometric, atmospheric, geometric corrections and orthorectification using DEM). This will ensure the correct geolocalization of the images and the correct atmospheric effects.
 
 -   **Specialized image processing and GIS experts** might have to be recruited to process and interpret the data.
 
@@ -225,10 +220,7 @@ publicly available satellite data was used to supervise construction, verify and
 
 -   [MAXAR](https://www.maxar.com) platform
 
--   [Planet explorer platform](https://www.planet.com/explorer): access
-    granted by the Norwegian government through the NICFI initiative to
-    preserve tropical forests and support  the climate agenda on the AFOLU sector, offering imagery with spatial
-  resolution up to 4 m.
+- [Planet explorer platform](https://www.planet.com/explorer): access granted by the Norwegian government through the NICFI initiative to preserve tropical forests and support  the climate agenda on the AFOLU sector, offering imagery with spatial resolution up to 4 m.
  
 ## Licence
 ![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
