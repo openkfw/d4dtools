@@ -76,16 +76,15 @@ R / MIS are useful for tracking infrastructure quality and the progress of compl
 *Advantages:*
 
  - Customized to reflect the exact needs, structures, and features
- - Suitable for complex project setups with a high number of users and
- access / approval levels
+ - Suitable for complex project setups with a high number of users and access / approval levels
  - Connectors for exchange with other tools can be programmed
  -  Usually lower or no licensing costs (none if open source) -- Usually higher costs for (initial) setup (compared to off-the-shelf tools)
 
 *Disadvantages:*
 
--   Setup requires IT expert resources
--   Usually longer implementing period
--   Ongoing costs for support and maintenance
+- Setup requires IT expert resources
+- Usually longer implementing period
+- Ongoing costs for support and maintenance
 
  *Potentially suitable for Case B (if existing R / MIS is already
  customized or self-developed), Case C (if complex project, many
@@ -106,13 +105,10 @@ R / MIS are useful for tracking infrastructure quality and the progress of compl
 
 *Disadvantages:*
 
--  Customizations possible only by the vendor (if proprietary)
--   Setup and customizations require IT expert resources
-
--   Ongoing costs for support and maintenance
-
--   License costs based on time, user numbers, and support (if
-    proprietary)
+- Customizations possible only by the vendor (if proprietary)
+- Setup and customizations require IT expert resources
+- Ongoing costs for support and maintenance
+- License costs based on time, user numbers, and support (if proprietary)
 
  *Potentially suitable for all cases if the project's / PEA's proce-
  dures being digitalized / established are not too complex and do not
@@ -130,10 +126,7 @@ R / MIS are useful for tracking infrastructure quality and the progress of compl
 
 ## Interoperability Requirements
 
- In which formats and structures should data be stored in the R / MIS to allow for an exchange with others relevant to the pro- ject / organization? In general, the R / MIS must fit into the already
- existing IT architecture and with the existing IT knowledge of the PEA
- and country. The following data standards should be consid- ered as
- part of the setup of any R / MIS:
+ In which formats and structures should data be stored in the R / MIS to allow for an exchange with others relevant to the project / organization ? In general, the R / MIS must fit into the already existing IT architecture and with the existing IT knowledge of the PEA and country. The following data standards should be considered as part of the setup of any R / MIS:
 
 -   Consider (project-specific) required file formats (e.g., CSV, XLS,
     KML, JSON) or Application Programming Interfaces (API) for data
@@ -166,31 +159,21 @@ R / MIS are useful for tracking infrastructure quality and the progress of compl
  unlawful use, unauthorized modification or duplication, and other
  forms of unauthorized access and use by technical means regular backup of data appropriate security of hardware
 
- If the software is provided as web-based service (SaaS), the provider should be contractually obliged to take appropriate organizational and technical precautions to prevent disruptions to the
- availability, integrity, authenticity, and confidentiality of their IT
- systems, components, and processes essential to the functioning of the
- critical infrastructures they operate. The provider should implement
- data backup concepts, ensuring the protection of data against loss due
- to system-related failures.
+ If the software is provided as web-based service (SaaS), the provider should be contractually obliged to take appropriate organizational and technical precautions to prevent disruptions to the availability, integrity, authenticity, and confidentiality of their IT  systems, components, and processes essential to the functioning of the  critical infrastructures they operate. The provider should implement  data backup concepts, ensuring the protection of data against loss due to system-related failures.
 
 **Data protection:** Wherever possible, the collection of personal data by
  the R / MIS-owner (data controller) should be avoided. If this is
  impossible, the main principles of data protection must be adhered to,
  that is, personal data shall:
 
- be processed lawfully, fairly, and in a transparent manner in relation
+ - be processed lawfully, fairly, and in a transparent manner in relation
  to the person
-
- be used only for the legitimate purpose in relation to the project
-
- be limited to what is necessary in relation towthe purposes for the
+- be used only for the legitimate purpose in relation to the project
+- be limited to what is necessary in relation towthe purposes for the
  project
-
- be accurate and, where necessary, kept up to date
-
- not be kept longer than is necessary for the purposes of the project
-
- be securely stored, including protection against unauthorized or
+- be accurate and, where necessary, kept up to date
+- not be kept longer than is necessary for the purposes of the project
+- be securely stored, including protection against unauthorized or
  unlawful processing and against accidental loss
 
  In case KfW (or persons acting on behalf of it) are (also) process-
@@ -210,15 +193,9 @@ R / MIS are useful for tracking infrastructure quality and the progress of compl
     in Niger, a Health-MIS (HMIS) was created to visualize, monitor and
     manage financial data and billing. The HMIS was based on the national system and additional data collected via tablet.
 
--   In the [Regional Infrastructure Fonds
-     KhyberPakhtunkhwa](https://www.kfw-entwicklungsbank.de/ipfz/Projektdatenbank/Regionaler-Infrastrukturfonds-f%C3%BCr-Khyper-Pakhtunkhwa-30272.htm), [(RIF-KP; PN:
- 30272)](https://www.kfw-entwicklungsbank.de/ipfz/Projektdatenbank/Regionaler-Infrastrukturfonds-f%C3%BCr-Khyper-Pakhtunkhwa-30272.htm), an RMIS was set up to get real time information on the
- implementation progress regarding physical completion of works and use of funds.
+-   In the [Regional Infrastructure Fonds KhyberPakhtunkhwa (RIF-KP; PN: 30272)](https://www.kfw-entwicklungsbank.de/ipfz/Projektdatenbank/Regionaler-Infrastrukturfonds-f%C3%BCr-Khyper-Pakhtunkhwa-30272.htm), an RMIS was set up to get real time information on the implementation progress regarding physical completion of works and use of funds.
 
--   In the [Hydropower and Renewable Energy Project (HRE;
-    PN:](https://www.kfw-entwicklungsbank.de/ipfz/Projektdatenbank/Entwicklung-von-Wasserkraft-und-erneuerbaren-Energien-in-der-North-Western-Frontier-Province-27138.htm)
-    [27138)](https://www.kfw-entwicklungsbank.de/ipfz/Projektdatenbank/Entwicklung-von-Wasserkraft-und-erneuerbaren-Energien-in-der-North-Western-Frontier-Province-27138.htm)
-    in Pakistan, an RMIS / Utility Information System (incl. power
+-   In the [Hydropower and Renewable Energy Project (HRE; PN:27138)](https://www.kfw-entwicklungsbank.de/ipfz/Projektdatenbank/Entwicklung-von-Wasserkraft-und-erneuerbaren-Energien-in-der-North-Western-Frontier-Province-27138.htm) in Pakistan, an RMIS / Utility Information System (incl. power
     generation sensors & mobile revenue & maintenance data collection)
     was installed.
 
