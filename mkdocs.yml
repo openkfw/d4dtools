@@ -18,9 +18,12 @@ nav:
   - "Fact sheets":
     - "mdc.md"
     - "gis.md"
+    - "satellites.md"
+    - "sensors.md"
     - "collaboration.md"
     - "bim.md"
     - "cameras.md"
+    - "rmis.md"
     - "drones.md"
     - "cst.md"
     - "mms.md"
