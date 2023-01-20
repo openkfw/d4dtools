@@ -42,8 +42,7 @@ comments: true
 
 -   **Feature mapping** (e.g., buildings, roads, landcover, and water extent)
 
--   **Change Detection** (e.g., urban growth, deforestation, agricultural expansion, bio-diversity monitoring, climate vulnerability,
-    and glacier melting)
+-   **Change Detection** (e.g., urban growth, deforestation, agricultural expansion, bio-diversity monitoring, climate vulnerability, and glacier melting)
 
 -   **Elevation or Digital Elevation Models** (DEM) (e.g., 3D terrain models for flood risk and 3D urban models)
 
@@ -57,16 +56,8 @@ comments: true
   type of satellite image suitable for your case and analysis. Your
   options:
 
--   **Open and free-access satellite data:** this includes most of
-    optical and radar satellites from public-funded satellite missions
-    from the EU and the US (such as, Landsat, Sentinel or  ASTER). These data are available with high and low resolutions under
-  free and open data policies and are accessible through several
-  platforms (e.g., through the USGS, the Landsat mission, and Copernicus
-  Access Hubs) (see [Links below](#links-to-further-sources)). The [Fact Sheets Geospatial Tools and Data Sources](gis.md) provide
-further information regarding free and open access to satel-
-lite imagery. KfW’s evaluation department has initiated a
-search engine for open geodata sets called [mapme](https://mapme.
-shinyapps.io/geodata)
+-   **Open and free-access satellite data:** this includes most of optical and radar satellites from public-funded satellite missions from the EU and the US (such as, Landsat, Sentinel or  ASTER). These data are available with high and low resolutions under free and open data policies and are accessible through several platforms (e.g., through the USGS, the Landsat mission, and Copernicus Access Hubs) (see [Links below](#links-to-further-sources)). The [Fact Sheets Geospatial Tools and Data Sources](gis.md) provide further information regarding free and open access to satellite imagery. KfW’s evaluation department has initiated a
+search engine for open geodata sets called [mapme](https://mapme.shinyapps.io/geodata)
 
 -   **Commercial satellite data** (privately funded or sometimes
     publicly funded missions accessible for free under restricted terms
@@ -212,8 +203,7 @@ shinyapps.io/geodata)
     satellite images were used to evaluate increases in the numbers of
     trucks and upgraded buildings.
 
--   In an [irrigation project in Mali (PN:
-    39309)](https://www.kfw-entwicklungsbank.de/ipfz/Projektdatenbank/UnterstÃ¼tzung-des-nationalen-Programms-zur-nachhaltigen-KleinbewÃ¤sserungslandwirtschaft-in-Timbuktu-und-Mopti-39309.htm),
+-   In an [irrigation project in Mali (PN:39309)](https://www.kfw-entwicklungsbank.de/ipfz/Projektdatenbank/UnterstÃ¼tzung-des-nationalen-Programms-zur-nachhaltigen-KleinbewÃ¤sserungslandwirtschaft-in-Timbuktu-und-Mopti-39309.htm),
 publicly available satellite data was used to supervise construction, verify and estimate crop yield, and maintain an alarm system of cultivated (rice) areas.
 
 ## Links to Further Sources
