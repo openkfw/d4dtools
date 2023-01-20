@@ -15,20 +15,13 @@ comments: true
  
 ## How to Select a Camera ?
 ### Step 1: Are Special Camera Features to be Considered?
- Most cameras and smartphones allow for storing and extracting **geographical
-  information** along with the photos (highly recommended).
+ Most cameras and smartphones allow for storing and extracting **geographical information** along with the photos (highly recommended).
  
-  Most allow for **streaming** captured photos/videos automatically to
-  a server in a predefined **frequency** (useful for documenting
-  progress on project sites with mounted cameras).
+ Most allow for **streaming** captured photos/videos automatically to a server in a predefined **frequency** (useful for documenting progress on project sites with mounted cameras).
  
-  Some allow for capturing **spherical** photos/videos (which can be
-  used for creating a VR site visit). These photos require compatible
-  players or head-mounted displays to be viewed.
+Some allow for capturing **spherical** photos/videos (which can be used for creating a VR site visit). These photos require compatible players or head-mounted displays to be viewed.
  
-  Some [Mobile Data Collection (MDC)](mdc.md) tools work by
-  using the camera of the mobile device to directly link the captured
-  images/videos with other collected information.
+Some [Mobile Data Collection (MDC)](mdc.md) tools work by using the camera of the mobile device to directly link the captured images/videos with other collected information.
 
 ### Step 2: What Information Do I Need?
 
