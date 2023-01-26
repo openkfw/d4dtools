@@ -5,6 +5,7 @@ theme:
   features:
     - navigation.instant
     - navigation.tracking
+    - navigation.expand
     - toc.follow
   custom_dir: overrides
 
@@ -16,22 +17,24 @@ nav:
   - "disclaimer.md"
   - Contributing: "contributing.md"
   - "Fact sheets":
-    - "mdc.md"
-    - "gis.md"
-    - "satellites.md"
-    - "sensors.md"
-    - "collaboration.md"
     - "bim.md"
     - "cameras.md"
-    - "rmis.md"
-    - "drones.md"
+    - "collaboration.md"
     - "cst.md"
-    - "mms.md"
+    - "drones.md"
     - "elearning.md"
+    - "gis.md"
+    - "mms.md"
+    - "mdc.md"
+    - "rmis.md"
+    - "satellites.md"
+    - "sensors.md"
+
     
 markdown_extensions:
   - toc
   - attr_list
+  - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
