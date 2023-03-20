@@ -4,9 +4,9 @@ comments: true
 
 # FAQ on the technology
 
-On this page, we answer some of the most frequent questions that people have concerning the website etc.
+On this page, we answer some of the most frequent questions that people have concerning the website and its features.
 
-## Question: I heard that this website is on the github. What does this mean ?
+## Question: I heard that this website is on the GitHub. What does this mean ?
 
 [GitHub](https://github.com/) is an online software development platform. It's used for storing, tracking, and collaborating on software projects. We use it enable a simple, transparent exchange concerning the content of this website within the wider eco-system of development cooperation.
 
@@ -37,6 +37,10 @@ We are trying to make it as simple as possible to contribute through comments an
 
 Reuse and sharing are strongly encouraged and one of the main goals of the effort. This is explicitly allowed by the licence of this website, which is a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/). Have a look on their website, if you are unsure.
 
-## Question: I have another question. Where can I ask it ?
+## Question: What if I would like to contribute, have important information or would like to provide an update on something?
+
+All contributions to the project are welcome and strongly encouraged. We wrote an extensive [contributing guide](contributing.md) to guide you through the process.
+ 
+## I have another question. Where can I ask it ?
 
 Please write it in the comments section and we will try to solve it.
