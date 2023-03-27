@@ -16,6 +16,7 @@ nav:
   - Introduction: "index.md"
   - "disclaimer.md"
   - Contributing: "contributing.md"
+  - FAQ: "tech-faq.md"
   - "Fact sheets":
     - "bim.md"
     - "cameras.md"
