@@ -7,6 +7,7 @@ theme:
     - navigation.tracking
     - navigation.expand
     - toc.follow
+    - navigation.indexes
   custom_dir: overrides
 
 repo_url: https://github.com/openkfw/d4dtools
@@ -30,6 +31,9 @@ nav:
     - "rmis.md"
     - "satellites.md"
     - "sensors.md"
+  - "Climate adaptation":
+    - climate-adaptation/index.md
+    - climate-adaptation/mobile-tools.md
 
     
 markdown_extensions:
