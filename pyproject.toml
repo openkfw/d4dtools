@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "d4dtools"
+version = "0.1.0"
+description = "This repository contains the documentation website code and Markdown source files for d4dtools. They are Fact Sheets on Technical and Digital Tool Types used in Financial Cooperation."
+authors = ["Your Name <you@example.com>"]
+license = "CC-BY-NC-SA-4.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+mkdocs-material = "^9.5.48"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
