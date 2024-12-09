@@ -6,7 +6,7 @@ comments: true
 
 ## Definition
 
-  eLearning tools are primarily web-based software for the PEA,
+  eLearning tools are secondarily web-based software for the PEA,
   implementation-consultant, or eLearning providers to deliver training
   and content across a variety of electronic devices, including desktop
   and laptop computers, tablets, and smart- phones. eLearning can be
