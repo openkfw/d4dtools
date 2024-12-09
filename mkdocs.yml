@@ -30,6 +30,7 @@ nav:
     - "rmis.md"
     - "satellites.md"
     - "sensors.md"
+    - "climate-adaptation.md"
 
     
 markdown_extensions:
