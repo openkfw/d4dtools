@@ -21,4 +21,4 @@ In this section, you will find a thematic introduction to the use of digital too
 - [Data sources](fact-sheets-cres/data-sources.md)
 - [(Remote) Management Information Systems](fact-sheets-cres/rmis-cres.md)
 - [Artificial Intelligence (AI)](fact-sheets-cres/ai.md)
-- [Internet of Things](climate-adaptation/fact-sheets-cres/iot.md)
+- [Internet of Things](fact-sheets-cres/iot.md)
