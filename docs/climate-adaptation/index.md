@@ -14,11 +14,12 @@ In this section, you will find a thematic introduction to the use of digital too
 
 ## [Factsheets](fact-sheets-cres/Index.md)
 
-- [Digital Twins/ Building Information Modeling (BIM)](fact-sheets-cres/digital-twins.md)
-- [Mobile tools](fact-sheets-cres/mobile-tools.md)
-- [Communication and collaboration tools](fact-sheets-cres/communication.md)
-- [Geographic Information Systems (GIS) and Remote Sensing](fact-sheets-cres/eot.md)
-- [Data sources](fact-sheets-cres/data-sources.md)
-- [(Remote) Management Information Systems](fact-sheets-cres/rmis-cres.md)
 - [Artificial Intelligence (AI)](fact-sheets-cres/ai.md)
-- [Internet of Things](fact-sheets-cres/iot.md)
+- [Data sources](fact-sheets-cres/data-sources.md)
+- [Mobile tools](fact-sheets-cres/mobile-tools.md)
+- [(Remote) Management Information Systems](fact-sheets-cres/rmis-cres.md)
+- [Internet of Things (IoT)](fact-sheets-cres/iot.md)
+- [Digital Twins](fact-sheets-cres/digital-twins.md)
+- [Earth observation tools](fact-sheets-cres/eot.md)
+- [Communication and collaboration tools](fact-sheets-cres/communication.md)
+
