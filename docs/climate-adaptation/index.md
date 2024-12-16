@@ -14,7 +14,7 @@ In this section, you will find a thematic introduction to the use of digital too
 
 ## [Factsheets](fact-sheets-cres/Index.md)
 
-- [Digital Twins/ Building Information Modeling (BIM)](fact-sheets-cres/digital-twin.md)
+- [Digital Twins/ Building Information Modeling (BIM)](fact-sheets-cres/digital-twins.md)
 - [Mobile tools](fact-sheets-cres/mobile-tools.md)
 - [Communication and collaboration tools](fact-sheets-cres/communication.md)
 - [Geographic Information Systems (GIS) and Remote Sensing](fact-sheets-cres/eot.md)
