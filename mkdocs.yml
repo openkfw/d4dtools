@@ -31,6 +31,7 @@ nav:
     - "rmis.md"
     - "satellites.md"
     - "sensors.md"
+<<<<<<< HEAD
   - "Climate resilience":
     - climate-resilience/index.md
     - "Introduction":
@@ -49,6 +50,28 @@ nav:
       - climate-resilience/fact-sheets-cres/iot.md
       - climate-resilience/fact-sheets-cres/integration.md
       
+=======
+  - "Climate adaptation":
+    - climate-adaptation/index.md
+    - "Introduction":
+      - Introduction/index.md
+      - solutions-resilience.md
+      - opportunities.md
+      - challenges.md
+    - "Fact sheets":
+      - fact-sheets-cres/Index.md
+      - ai.md
+      - data-sources.md
+      - mobile-tools.md
+      - rmis-cres.md
+      - iot.md
+      - digital-twins.md
+      - eot.md
+      - communication.md
+      
+    - climate-adaptation/mobile-tools.md
+
+>>>>>>> 4514d7b (Updating mkdocs.yml to include subfolders of climate-adaptation)
     
 markdown_extensions:
   - toc
