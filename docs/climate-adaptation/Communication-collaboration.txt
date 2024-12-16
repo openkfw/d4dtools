@@ -1,0 +1,36 @@
+---
+comments: true
+---
+
+# Communication and collaboration tools
+
+On this page we are going to talk about Communication and collaboration tools that can be used for climate resilience.
+
+**Text in progress**
+
+## Legal Aspects
+
+  The chosen **license model** of the eLearning tool must ensure
+  sufficient access to the eLearning tool (ideally open-source). The
+  license must also ensure that students may reasonably use the learning
+  materials for private study. The PEA has to warrant that constraints
+  of the respective license agreement are com- plied with---for example,
+  that inadmissable copying of material is prevented ( [RMMV Guidebook Section 2.2.2.](https://www.kfw-entwicklungsbank.de/Service/Publications-Videos/Publications-by-topic/Digitalisation/RMMV-Guidebook/))
+ 
+  **Data protection:** the personal data of the students must only be
+  collected and processed to the extent necessary for the training
+  purpose.
+ 
+  The eLearning tool must have adequate **security to protect the collected personal data** of the students, such as their names and
+  addresses. Flawed or inadequate data security puts the rights of
+  participants at risk, who should enjoy robust data pro- tection
+  allowing them to freelyl use the eLearning tool without fear of
+  negative personal consequences [RMMV Guidebook Section 2.3.1.](https://www.kfw-entwicklungsbank.de/Service/Publications-Videos/Publications-by-topic/Digitalisation/RMMV-Guidebook/)
+ 
+## Licence
+
+![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+[Disclaimer](disclaimer.md)
