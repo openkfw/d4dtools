@@ -86,6 +86,10 @@ On this page we are going to talk about mobile tools that can be used for climat
 
 ***Text in progress***
 
+### Integration with other technologies
+
+***Text in progress***
+
 ## Summary assessment
 
 ### Effectiveness overall
