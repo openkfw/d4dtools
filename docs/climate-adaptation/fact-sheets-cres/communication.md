@@ -86,7 +86,7 @@ On this page we are going to talk about Communication and collaboration tools th
 
 ***Text in progress***
 
-## Integration with other technologies
+### Integration with other technologies
 
 ***Text in progress***
 
