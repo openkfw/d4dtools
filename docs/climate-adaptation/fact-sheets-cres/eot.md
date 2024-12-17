@@ -86,6 +86,10 @@ On this page we are going to talk about GIS and remote sensing tools that can be
 
 ***Text in progress***
 
+### Integration with other technologies
+
+***Text in progress***
+
 ## Summary assessment
 
 ### Effectiveness overall
