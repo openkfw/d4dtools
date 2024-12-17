@@ -1,5 +1,6 @@
 ---
-comments: true
+hide:
+  - toc
 ---
 
 # Climate Resilience
