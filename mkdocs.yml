@@ -31,10 +31,24 @@ nav:
     - "rmis.md"
     - "satellites.md"
     - "sensors.md"
-  - "Climate adaptation":
-    - climate-adaptation/index.md
-    - climate-adaptation/mobile-tools.md
-
+  - "Climate resilience":
+    - climate-resilience/index.md
+    - "Introduction":
+      - intro.md
+      - solutions-resilience.md
+      - opportunities.md
+      - challenges.md
+    - "Fact sheets":
+      - ai.md
+      - data-sources.md
+      - digital-twins.md
+      - communication.md
+      - eot.md
+      - mobile-tools.md
+      - rmis-cres.md
+      - iot.md
+      - integration.md
+      
     
 markdown_extensions:
   - toc
