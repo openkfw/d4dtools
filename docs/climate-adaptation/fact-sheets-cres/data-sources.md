@@ -2,9 +2,7 @@
 comments: true
 ---
 
-# Data sources for climate resilience
-
-On this page we are going to talk about Data sources tools that can be used for climate resilience.
+# Data sources
 
 ## Short overview
 
