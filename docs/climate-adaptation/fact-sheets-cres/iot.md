@@ -4,8 +4,6 @@ comments: true
 
 # Internet of Things (IoT)
 
-On this page we are going to talk about IoT tools that can be used for climate resilience.
-
 ## Short overview
 
 ### General Description
