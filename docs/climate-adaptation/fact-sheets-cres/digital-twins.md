@@ -4,8 +4,6 @@ comments: true
 
 # Digital Twins
 
-On this page we are going to talk about Digital Twins tools that can be used for climate resilience.
-
 ## Short overview
 
 ### General Description
