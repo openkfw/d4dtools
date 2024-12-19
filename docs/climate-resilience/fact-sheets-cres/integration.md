@@ -2,7 +2,11 @@
 comments: true
 ---
 
-# Fact sheets
+# Summary on integration of solutions
+
+***Text in progress***
+
+## Legal Aspects
 
 ***Text in progress***
 
