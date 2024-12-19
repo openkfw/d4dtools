@@ -4,8 +4,6 @@ comments: true
 
 # Artificial Intelligence (AI)
 
-On this page we are going to talk about mobile tools that can be used for climate resilience.
-
 ## Short overview
 
 ### General Description
