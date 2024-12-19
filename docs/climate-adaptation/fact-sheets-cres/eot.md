@@ -4,8 +4,6 @@ comments: true
 
 # Geographic information system (GIS) and remote sensing
 
-On this page we are going to talk about GIS and remote sensing tools that can be used for climate resilience.
-
 ## Short overview
 
 ### General Description
