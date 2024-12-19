@@ -8,7 +8,6 @@ comments: true
 
     This fact sheet is still being finalized. Soon you will will be able to read about the use of Communication and collaboration tools for urban resilience. 
 
-
 ## Short overview
 
 ### General Description
