@@ -4,8 +4,6 @@ comments: true
 
 # (Remote) Management Information Systems (R/MIS)
 
-On this page we are going to talk about R/MIS tools that can be used for climate resilience.
-
 ## Short overview
 
 ### General Description
