@@ -31,15 +31,30 @@ nav:
     - "rmis.md"
     - "satellites.md"
     - "sensors.md"
-  - "Climate adaptation":
-    - climate-adaptation/index.md
-    - climate-adaptation/mobile-tools.md
-
+  - "Climate resilience":
+    - climate-resilience/index.md
+    - "Introduction":
+      - climate-resilience/Introduction/intro.md
+      - climate-resilience/Introduction/solutions-resilience.md
+      - climate-resilience/Introduction/opportunities.md
+      - climate-resilience/Introduction/challenges.md
+    - "Fact sheets":
+      - climate-resilience/fact-sheets-cres/ai.md
+      - climate-resilience/fact-sheets-cres/data-sources.md
+      - climate-resilience/fact-sheets-cres/digital-twins.md
+      - climate-resilience/fact-sheets-cres/communication.md
+      - climate-resilience/fact-sheets-cres/eot.md
+      - climate-resilience/fact-sheets-cres/mobile-tools.md
+      - climate-resilience/fact-sheets-cres/rmis-cres.md
+      - climate-resilience/fact-sheets-cres/iot.md
+      - climate-resilience/fact-sheets-cres/integration.md
+      
     
 markdown_extensions:
   - toc
   - attr_list
   - md_in_html
+  - admonition
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
