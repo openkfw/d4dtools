@@ -39,15 +39,15 @@ nav:
       - climate-resilience/introduction/opportunities.md
       - climate-resilience/introduction/challenges.md
     - "Fact sheets":
-      - fact-sheets-cres/introduction/ai.md
-      - fact-sheets-cres/introduction/data-sources.md
-      - fact-sheets-cres/introduction/digital-twins.md
-      - fact-sheets-cres/introduction/communication.md
-      - fact-sheets-cres/introduction/eot.md
-      - fact-sheets-cres/introduction/mobile-tools.md
-      - fact-sheets-cres/introduction/rmis-cres.md
-      - fact-sheets-cres/introduction/iot.md
-      - fact-sheets-cres/introduction/integration.md
+      - climate-resilience/fact-sheets-cres/ai.md
+      - climate-resilience/fact-sheets-cres/data-sources.md
+      - climate-resilience/fact-sheets-cres/digital-twins.md
+      - climate-resilience/fact-sheets-cres/communication.md
+      - climate-resilience/fact-sheets-cres/eot.md
+      - climate-resilience/fact-sheets-cres/mobile-tools.md
+      - climate-resilience/fact-sheets-cres/rmis-cres.md
+      - climate-resilience/fact-sheets-cres/iot.md
+      - climate-resilience/fact-sheets-cres/integration.md
       
     
 markdown_extensions:
