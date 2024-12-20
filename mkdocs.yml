@@ -34,10 +34,10 @@ nav:
   - "Climate resilience":
     - climate-resilience/index.md
     - "Introduction":
-      - climate-resilience/introduction/intro.md
-      - climate-resilience/introduction/solutions-resilience.md
-      - climate-resilience/introduction/opportunities.md
-      - climate-resilience/introduction/challenges.md
+      - climate-resilience/Introduction/intro.md
+      - climate-resilience/Introduction/solutions-resilience.md
+      - climate-resilience/Introduction/opportunities.md
+      - climate-resilience/Introduction/challenges.md
     - "Fact sheets":
       - climate-resilience/fact-sheets-cres/ai.md
       - climate-resilience/fact-sheets-cres/data-sources.md

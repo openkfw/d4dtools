@@ -119,4 +119,4 @@ comments: true
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-[Disclaimer](d4dtools/docs/disclaimer.md)
+[Disclaimer](../../disclaimer.md)
