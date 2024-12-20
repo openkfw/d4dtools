@@ -4,6 +4,10 @@ comments: true
 
 # Geographic information system (GIS) and remote sensing
 
+!!! info inline end "Work in progress"
+
+    This fact sheet is still being finalized. Soon you will will be able to read about the use of Geographic information systems (GIS) and remote sensing for urban resilience. 
+
 ## Short overview
 
 ### General Description

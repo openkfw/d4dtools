@@ -4,6 +4,10 @@ comments: true
 
 # (Remote) Management Information Systems (R/MIS)
 
+!!! info inline end "Work in progress"
+
+    This fact sheet is still being finalized. Soon you will will be able to read about the use of R/MIS for urban resilience. 
+
 ## Short overview
 
 ### General Description

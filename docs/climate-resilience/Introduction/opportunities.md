@@ -4,6 +4,10 @@ comments: true
 
 # Opportunities 
 
+!!! info inline end "Work in progress"
+
+    This fact sheet is still being finalized. Soon you will will be able to read about the opportunities of digital tools for urban resilience. 
+
 ***Text in progress***
 
 ## Licence

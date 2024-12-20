@@ -4,6 +4,10 @@ comments: true
 
 # Introduction to urban resilience
 
+!!! info inline end "Work in progress"
+
+    This page is still being finalized. Soon you will will be able to read about urban resilience. 
+
 ***Text in progress***
 
 ### Further readings

@@ -4,6 +4,10 @@ comments: true
 
 # Artificial Intelligence (AI)
 
+!!! info inline end "Work in progress"
+
+    This fact sheet is still being finalized. Soon you will will be able to read about the use of AI for urban resilience. 
+
 ## Short overview
 
 ### General Description

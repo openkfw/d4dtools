@@ -4,6 +4,10 @@ comments: true
 
 # Summary on integration of solutions
 
+!!! info inline end "Work in progress"
+
+    This fact sheet is still being finalized. Soon you will will be able to read about the integration of different digital technologies for urban resilience. 
+
 ***Text in progress***
 
 ## Legal Aspects
