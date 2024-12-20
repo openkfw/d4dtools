@@ -17,14 +17,14 @@ In this section, you will find a thematic introduction to the use of digital too
 ## Factsheets
 
 The identified key digital technologies are categorized into eight clusters presented afterwards. Each cluster is detailed through a table that provides an overview of:  
-- the concept with a general description of the technology; 
-- the potential for climate change adaptation (CCA) and disaster risk management (DRM); 
-- possibilities of application in DRM or CCA measures or to address different climate hazards; 
-- examples of real-world implementations; 
-- technology requirements; 
-- possible integration with other technologies; 
-- general assessment regarding the solution's effectiveness and efficiency; 
-- key challenges, limitations and recommendations to optimize the use of the technology. 
+- the concept with a general description of the technology
+- the potential for climate change adaptation (CCA) and disaster risk management (DRM)
+- possibilities of application in DRM or CCA measures or to address different climate hazards
+- examples of real-world implementations
+- technology requirements
+- possible integration with other technologies
+- general assessment regarding the solution's effectiveness and efficiency
+- key challenges, limitations and recommendations to optimize the use of the technology
 
 The aim of these tables is to provide a comprehensive overview of available technologies and to assess their implementation in specific climate hazards and related measures. 
 
