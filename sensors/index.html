@@ -1,0 +1,1745 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../satellites/">
+      
+      
+        <link rel="next" href="../climate-resilience/">
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.49">
+    
+    
+      
+        <title>Sensors / SmartMeters (Internet of Things) - D4D tools</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.6f8fc17f.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#sensors-smartmeters-internet-of-things" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="D4D tools" class="md-header__button md-logo" aria-label="D4D tools" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            D4D tools
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Sensors / SmartMeters (Internet of Things)
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/openkfw/d4dtools" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="D4D tools" class="md-nav__button md-logo" aria-label="D4D tools" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    D4D tools
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/openkfw/d4dtools" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introduction
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../disclaimer/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Disclaimer
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../contributing/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Contributing
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tech-faq/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    FAQ
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Fact sheets
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Fact sheets
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../bim/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Building Information Modeling (BIM)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cameras/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cameras (Terrestrial Observation)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../collaboration/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Collaboration tools
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cst/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Crowdsourcing Tools
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../drones/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Drones / UAV (Airborne Observation)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../elearning/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    eLearning Tools
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../gis/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Geospatial Tools and GIS
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mms/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Maintenance Management Systems (MMS)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mdc/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mobile Data Collection Tools (MDC)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rmis/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    (Remote) Management Information Systems
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../satellites/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Earth Observation via Satellites
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Sensors / SmartMeters (Internet of Things)
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Sensors / SmartMeters (Internet of Things)
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#definition" class="md-nav__link">
+    <span class="md-ellipsis">
+      Definition
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-to-employ-sensors" class="md-nav__link">
+    <span class="md-ellipsis">
+      How to Employ Sensors
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="How to Employ Sensors">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#step-1-check-the-legal-framework" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 1: Check the Legal Framework
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-2-what-information-do-i-need" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 2: What Information Do I Need?
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Step 2: What Information Do I Need?">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#energy-sector" class="md-nav__link">
+    <span class="md-ellipsis">
+      Energy sector
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#water-sector" class="md-nav__link">
+    <span class="md-ellipsis">
+      Water sector
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mobility-sector" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mobility sector
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#biodiversityenvironment-sector" class="md-nav__link">
+    <span class="md-ellipsis">
+      Biodiversity/Environment sector
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-3-what-do-i-need-to-consider-when-acquiring-sen-sors" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 3: What Do I Need to Consider When Acquiring Sen- sors?
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#procurement-of-sensor-data" class="md-nav__link">
+    <span class="md-ellipsis">
+      Procurement of Sensor Data
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#risks-and-challenges-to-keep-in-mind" class="md-nav__link">
+    <span class="md-ellipsis">
+      Risks and challenges to keep in mind:
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#legal-aspects" class="md-nav__link">
+    <span class="md-ellipsis">
+      Legal Aspects
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#project-examples-use-cases" class="md-nav__link">
+    <span class="md-ellipsis">
+      Project Examples / Use Cases
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#links-to-further-sources" class="md-nav__link">
+    <span class="md-ellipsis">
+      Links to Further Sources
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#licence" class="md-nav__link">
+    <span class="md-ellipsis">
+      Licence
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../climate-resilience/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Climate resilience
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_6" id="__nav_6_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Climate resilience
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_2" id="__nav_6_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Introduction
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_2">
+            <span class="md-nav__icon md-icon"></span>
+            Introduction
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/Introduction/intro/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introduction to urban resilience
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/Introduction/solutions-resilience/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Digital solutions for building urban resilience
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/Introduction/opportunities/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Opportunities
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/Introduction/challenges/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Challenges and limitations of urban digital solutions
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_3" id="__nav_6_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Fact sheets
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_3">
+            <span class="md-nav__icon md-icon"></span>
+            Fact sheets
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/fact-sheets-cres/ai/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artificial Intelligence (AI)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/fact-sheets-cres/data-sources/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Data sources
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/fact-sheets-cres/digital-twins/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Digital Twins
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/fact-sheets-cres/communication/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Communication and collaboration tools
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/fact-sheets-cres/eot/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Geographic information system (GIS) and remote sensing
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/fact-sheets-cres/mobile-tools/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mobile tools for climate adaptation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/fact-sheets-cres/rmis-cres/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    (Remote) Management Information Systems (R/MIS)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/fact-sheets-cres/iot/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Internet of Things (IoT)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/fact-sheets-cres/integration/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Summary on integration of solutions
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#definition" class="md-nav__link">
+    <span class="md-ellipsis">
+      Definition
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-to-employ-sensors" class="md-nav__link">
+    <span class="md-ellipsis">
+      How to Employ Sensors
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="How to Employ Sensors">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#step-1-check-the-legal-framework" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 1: Check the Legal Framework
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-2-what-information-do-i-need" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 2: What Information Do I Need?
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Step 2: What Information Do I Need?">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#energy-sector" class="md-nav__link">
+    <span class="md-ellipsis">
+      Energy sector
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#water-sector" class="md-nav__link">
+    <span class="md-ellipsis">
+      Water sector
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mobility-sector" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mobility sector
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#biodiversityenvironment-sector" class="md-nav__link">
+    <span class="md-ellipsis">
+      Biodiversity/Environment sector
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-3-what-do-i-need-to-consider-when-acquiring-sen-sors" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 3: What Do I Need to Consider When Acquiring Sen- sors?
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#procurement-of-sensor-data" class="md-nav__link">
+    <span class="md-ellipsis">
+      Procurement of Sensor Data
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#risks-and-challenges-to-keep-in-mind" class="md-nav__link">
+    <span class="md-ellipsis">
+      Risks and challenges to keep in mind:
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#legal-aspects" class="md-nav__link">
+    <span class="md-ellipsis">
+      Legal Aspects
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#project-examples-use-cases" class="md-nav__link">
+    <span class="md-ellipsis">
+      Project Examples / Use Cases
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#links-to-further-sources" class="md-nav__link">
+    <span class="md-ellipsis">
+      Links to Further Sources
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#licence" class="md-nav__link">
+    <span class="md-ellipsis">
+      Licence
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+<h1 id="sensors-smartmeters-internet-of-things">Sensors / SmartMeters (Internet of Things)</h1>
+<h2 id="definition">Definition</h2>
+<p>A sensor is a device that monitors changes by converting signals (input) continuously and automatically from analog objects into a digital interface (output). Technological developments have empowered sensor connectivity through cloud/remote access, forming a global infrastructure of physical and virtual, internet-connected objects called the <strong>Internet of Things (IoT)</strong>. A smart sensor measures and combines signal conditioning and signal processing within one device. For example: a <em>SmartMeter</em>
+  monitors electric energy consumption in (near) real-time, communicates with a central system or smart grid, and shares usage data with consumers and providers for billing, data analytics, customer targeting, and rate recommendations. Similarly, a <em>Smart Water Meter</em> provides high-resolution readings, demand forecasting, scarcity prevention and leak notification.</p>
+<h2 id="how-to-employ-sensors">How to Employ Sensors</h2>
+<h3 id="step-1-check-the-legal-framework">Step 1: Check the Legal Framework</h3>
+<p>Depending on usage and connectivity, sensors may require some
+  regulation to ensure explicit consent and hedge privacy breaches given
+  the growing concerns around fine-grained information collected by
+  smart meters exposing individual behavior (private activity, daily
+  routine, etc.) which need to be proactively accounted for with
+  built-in controls masking personal behavior patterns.</p>
+<h3 id="step-2-what-information-do-i-need">Step 2: What Information Do I Need?</h3>
+<p>A wide array of sensors and SmartMeters can be used for project
+  management, (remote) monitoring, and verification. Their selec- tion
+  depends on the project's information needs and is mostly
+  sector-specific:</p>
+<h4 id="energy-sector">Energy sector</h4>
+<ul>
+<li>
+<p><strong>Power plants:</strong> remote monitoring (input/output parameter),
+    steering of energy generation, and controling:</p>
+<ul>
+<li>Sensors measure parameters such as oil, air,and device temperatures, the speed of turning parts (turbine, motors), the physical characteristics and chemical composition of fuels, and gases and exhaust emissions.</li>
+<li>
+<p>Sensors measure optical and acoustic parameters, among others, to remotely control power plants that have limited or no operation personnel at the power plant site.</p>
+</li>
+<li>
+<p>SmartMeter data can be used by the energy plant itself to detect/reconfigure and reroute in case of power loss, reducing maintenance costs.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Electricity (Smart) Grid:</strong> sensors for measuring conditions in the electricity transmission and distribution grid (e.g., voltage, frequency, temperature, etc.)</p>
+</li>
+<li>
+<p><strong>Energy efficiency and reliability</strong>:</p>
+<ul>
+<li>
+<p>Sensors applied to various energy captors/processors (electric/gas generators, water turbines, windwheels, solar panels /street lighting, etc.) measure, monitor, and steer energy sources.</p>
+</li>
+<li>
+<p>Power suppliers use sensors to gather insights and offer incentives to users to use energy at non-peak times to reduce the costs of building greater capacities.</p>
+</li>
+</ul>
+</li>
+</ul>
+<h4 id="water-sector">Water sector</h4>
+<ul>
+<li>
+<p><strong>Wastewater and drinking water treatment plants:</strong> sensors measure water quality and flow to remotely monitor and steer treatment, inlet- and outlet water quality, and support operations.</p>
+</li>
+<li>
+<p><strong>Water and wastewater networks:</strong> sensors are used to monitor network conditions (flow metering and pressure sensors) and
+  steering (via valves, pumps).</p>
+</li>
+<li>
+<p><strong>Meterological and hydrological networks</strong>:</p>
+<ul>
+<li>Sensors measure hydrological situations (precipitation, evaporation, temperature, river runoff, sunshine hours, etc.).</li>
+<li>Sensors measure water quality and quantity (levels of groundwater and surface waters in reservoirs and water quality parameters).</li>
+</ul>
+</li>
+<li>
+<p>Remote data transfer (mobile cards, internet), remote control, analysis of the meterological, and hydrological data in computer-based systems.</p>
+</li>
+</ul>
+<h4 id="mobility-sector">Mobility sector</h4>
+<ul>
+<li>
+<p><strong>Network capacity:</strong> sensors monitor load in interconnected charging stations for e-vehicles.</p>
+</li>
+<li>
+<p><strong>Traffic:</strong> sensors can help in incident reporting and response, traffic directions, and parking management. They can also measure air pollution.</p>
+</li>
+</ul>
+<h4 id="biodiversityenvironment-sector">Biodiversity/Environment sector</h4>
+<ul>
+<li>
+<p><strong>Forest and ocean protection:</strong> sensors may be used to stop illegal
+    deforestation, protect endangered species, and track waste dumping.</p>
+</li>
+<li>
+<p><strong>Smart farming:</strong> sensors measure methane levels, air temperature, rainfall, soil moisture, soil pH, etc.</p>
+</li>
+</ul>
+<h3 id="step-3-what-do-i-need-to-consider-when-acquiring-sen-sors">Step 3: What Do I Need to Consider When Acquiring Sen- sors?</h3>
+<p>There are many platforms available on/offline for purchase-by- unit.
+  Users may choose sensors based on:</p>
+<p><strong>size</strong> (nano, micro, 2D, 3D, etc.)</p>
+<p>type of <strong>connection</strong>: wired/wireless</p>
+<p><strong>functional</strong> requirements (offline usage and range, solarpower, calibration resolution, repeatability, interferences, environmental conditions, maintenance, etc.)</p>
+<p><strong>non-functional</strong> attributes (e.g., longevity, interoperability, scalability, wireless protocols, compliance with safety standards,
+  etc.)</p>
+<p><strong>costs</strong> (can be mitigated by industry collaboration)</p>
+<p><strong>accuracy</strong> as precision requirements often drive up costs
+  exponentially. Sensors often require frequent calibration to assure
+  correct measurements, so you need to check if calibration services are
+  available locally.</p>
+<p><strong>disponsability.</strong> Sensors may offer many advantages: low-cost, easy-to-use, short-term or rapid single-point measurements, reliable
+  information and digital connectivity for availability to users and
+  centralized /decentralized facilities.</p>
+<h3 id="procurement-of-sensor-data">Procurement of Sensor Data</h3>
+<p>Sensor datasets are siloed, often proprietary, and treated as the exclusive preserve of the organizations collecting them.
+However, traffic and meterological data is often available for free (universities/cities). If the application of sensors is not possible and no publicly available datasets exist or are accessible, the use of tools modeling synthetic datasets can be explored (meaning generated by a computer simulation that approximates real data but is fully algorithmetically generated). Example: <a href="https://dweet.io/">dweet.io</a></p>
+<h3 id="risks-and-challenges-to-keep-in-mind">Risks and challenges to keep in mind:</h3>
+<ul>
+<li>
+<p>Need for high-quality products to avoid technology distrust and
+    bypassing</p>
+</li>
+<li>
+<p>Maintenance processes are dependent on supply chain disruption when
+    replacing spare parts</p>
+</li>
+<li>
+<p>Data quality requires expertise to ensure interlinking with multiple
+    data sources.</p>
+</li>
+<li>
+<p>Data control requires expertise to avoid security breaches or data
+    leaks in case of unproven encryption methods.</p>
+</li>
+</ul>
+<h2 id="legal-aspects">Legal Aspects</h2>
+<p><strong>Data protection:</strong> Smart meters provide insights into the con-
+  sumption patterns of private households and are thus sensitive in
+  terms of data privacy. Data transmission is only permitted for the
+  applications required for utility industry operations. The use of
+  personal data for other purposes will, depending on the applicable
+  law, require consent from consumers <a href="https://www.kfw-entwicklungsbank.de/Service/Publications-Videos/Publications-by-topic/Digitalisation/RMMV-Guidebook/">RMMV Guidebook Section 2.3.1</a></p>
+<p>In addition, <strong>data security requirements</strong> also arise from national
+  data protection regulations, which stipulate basic security
+  requirements to protect the collected personal data, such as
+  consumption, address, and names. Entities may be required under those
+  rules to ensure the ongoing confidentiality, integrity, availability,
+  and resilience of processing systems and services (technical and
+  organizational measures). They need to ensure that the IT security
+  measures are adequate to withstand attacks from hackers or cyber
+  warfare directed at critical infra-structure (see <a href="https://www.kfw-entwicklungsbank.de/Service/Publications-Videos/Publications-by-topic/Digitalisation/RMMV-Guidebook/">RMMV Guidebook Section 2.3.2</a>).</p>
+<h2 id="project-examples-use-cases">Project Examples / Use Cases</h2>
+<ul>
+<li>
+<p>In the energy project, <a href="https://www.kfw-entwicklungsbank.de/ipfz/Projektdatenbank/Green-Energy-Corridors-30420.htm">Green Energy Corridors in India
+    (GEC;</a>
+    <a href="https://www.kfw-entwicklungsbank.de/ipfz/Projektdatenbank/Green-Energy-Corridors-30420.htm">PN:
+    30420)</a>,
+    sensors are used to record data, like voltage or power, which are
+    transmitted to the control system SCADA.</p>
+</li>
+<li>
+<p>In the <a href="https://www.kfw-entwicklungsbank.de/ipfz/Projektdatenbank/Entwicklung-von-Wasserkraft-und-erneuerbaren-Energien-in-der-North-Western-Frontier-Province-27138.htm">Hydropower and Renewable Energy project in
+    Pakistan</a>
+    <a href="https://www.kfw-entwicklungsbank.de/ipfz/Projektdatenbank/Entwicklung-von-Wasserkraft-und-erneuerbaren-Energien-in-der-North-Western-Frontier-Province-27138.htm">(HRE; PN:
+    27138)</a>,
+    sensors are used to monitor offgrid mini- hydropower plants. The
+    open source-based power monitoring software was developed in a
+    GIZ-project.</p>
+</li>
+<li>
+<p>In the Hydromet Project in Jordan (Hydromet; PN: 29452), new
+    measuring stations for the collection of hydrological and
+    meteorological data were installed and commissioned. The measuring
+    stations transmit the data via mobile data net- works to a control
+    and server room.</p>
+</li>
+<li>
+<p>In the <a href="https://www.kfw-entwicklungsbank.de/ipfz/Projektdatenbank/Wasser--und-Klimamonitoring-II-30888.htm">Water and Climate Monitoring project II in Sambia
+    (PN:</a>
+    <a href="https://www.kfw-entwicklungsbank.de/ipfz/Projektdatenbank/Wasser--und-Klimamonitoring-II-30888.htm">30888)</a>,
+    existing hydrological and meteorological stations were
+    rehabilitated, groundwater boreholes for measuring ground- water
+    were drilled and an Integrated Water Resource Manage- ment
+    Information System was established.</p>
+</li>
+</ul>
+<h2 id="links-to-further-sources">Links to Further Sources</h2>
+<ul>
+<li><a href="https://link.springer.com/chapter/10.1007/978-1-4302-6014-1_6">Regulation Framework on Sensor Technologies</a></li>
+<li><a href="https://merltech.org/">Sensors as new Data Source in DC</a></li>
+<li><a href="https://www.researchgate.net/publication/304065637_Infrastructure_sensing">Infrastructure sensing</a></li>
+<li><a href="https://www.comserveonline.com/news-releases/middle-east-Â­africa-smart-meters-market-growth-analysis-outlook-by-trends-opportunities-and-forecast/10028252">Smart metering market trend analysis</a></li>
+<li><a href="https://www.techrepublic.com/resource-library/downloads/the-internet-of-wild-things-technology-and-the-battle-against-biodiversity-loss-and-climate-change-cover-story-pdf/">Biodiversity applications</a></li>
+<li><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/adma.201806739">Disposable sensors</a></li>
+<li><a href="https://data.world/datasets/sensors">Open sensor datasets</a></li>
+<li><a href="https://datarade.ai/data-categories/iot-data">Commercial use of data sets</a></li>
+</ul>
+<h2 id="licence">Licence</h2>
+<p><img alt="" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></p>
+<p>This work is licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)</a>.</p>
+<p><a href="../disclaimer/">Disclaimer</a></p>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+  <h2 id="__comments">Comments</h2>
+  <script src="https://giscus.app/client.js"
+        data-repo="openkfw/d4dtools"
+        data-repo-id="R_kgDOICBuyQ"
+        data-category="Website Discussions"
+        data-category-id="DIC_kwDOICBuyc4CTEi7"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
+
+  <!-- Synchronize Giscus theme with palette -->
+  <script>
+    var giscus = document.querySelector("script[src*=giscus]")
+
+    /* Set palette on initial load */
+    var palette = __md_get("__palette")
+    if (palette && typeof palette.color === "object") {
+      var theme = palette.color.scheme === "slate" ? "dark" : "light"
+      giscus.setAttribute("data-theme", theme) 
+
+
+    }
+
+    /* Register event handlers after documented loaded */
+    document.addEventListener("DOMContentLoaded", function() {
+      var ref = document.querySelector("[data-md-component=palette]")
+      ref.addEventListener("change", function() {
+        var palette = __md_get("__palette")
+        if (palette && typeof palette.color === "object") {
+          var theme = palette.color.scheme === "slate" ? "dark" : "light"
+
+          /* Instruct Giscus to change theme */
+          var frame = document.querySelector(".giscus-frame")
+          frame.contentWindow.postMessage(
+            { giscus: { setConfig: { theme } } },
+            "https://giscus.app"
+          )
+        }
+      })
+    })
+  </script>
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.instant", "navigation.tracking", "navigation.expand", "toc.follow", "navigation.indexes"], "search": "../assets/javascripts/workers/search.6ce7567c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.88dd0f4e.min.js"></script>
+      
+    
+  </body>
+</html>

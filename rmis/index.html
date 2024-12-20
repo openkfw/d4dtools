@@ -1,0 +1,1775 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../mdc/">
+      
+      
+        <link rel="next" href="../satellites/">
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.49">
+    
+    
+      
+        <title>(Remote) Management Information Systems - D4D tools</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.6f8fc17f.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#remote-management-information-systems" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="D4D tools" class="md-header__button md-logo" aria-label="D4D tools" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            D4D tools
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              (Remote) Management Information Systems
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/openkfw/d4dtools" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="D4D tools" class="md-nav__button md-logo" aria-label="D4D tools" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    D4D tools
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/openkfw/d4dtools" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introduction
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../disclaimer/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Disclaimer
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../contributing/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Contributing
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tech-faq/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    FAQ
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Fact sheets
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Fact sheets
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../bim/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Building Information Modeling (BIM)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cameras/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cameras (Terrestrial Observation)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../collaboration/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Collaboration tools
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cst/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Crowdsourcing Tools
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../drones/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Drones / UAV (Airborne Observation)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../elearning/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    eLearning Tools
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../gis/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Geospatial Tools and GIS
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mms/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Maintenance Management Systems (MMS)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mdc/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mobile Data Collection Tools (MDC)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    (Remote) Management Information Systems
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    (Remote) Management Information Systems
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#definition" class="md-nav__link">
+    <span class="md-ellipsis">
+      Definition
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-to-select-an-r-mis" class="md-nav__link">
+    <span class="md-ellipsis">
+      How to select an R / MIS?
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="How to select an R / MIS?">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#step-1-check-the-digital-principles" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 1: Check the Digital Principles
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-2-what-information-do-i-need" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 2: What Information Do I Need?
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-3-which-institutional-approach-to-select" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 3: Which Institutional Approach to Select
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#after-selecting-the-institutional-approach-you-need-to-consider-the-following-options-and-requirements" class="md-nav__link">
+    <span class="md-ellipsis">
+      After selecting the institutional approach, you need to consider the following options and requirements:
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="After selecting the institutional approach, you need to consider the following options and requirements:">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#types-of-hosting" class="md-nav__link">
+    <span class="md-ellipsis">
+      Types of Hosting
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#software-cost-structure-model" class="md-nav__link">
+    <span class="md-ellipsis">
+      Software cost structure model:
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Software cost structure model:">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#customized-software" class="md-nav__link">
+    <span class="md-ellipsis">
+      Customized software
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#modifiable-off-the-shelf-software-mots" class="md-nav__link">
+    <span class="md-ellipsis">
+      Modifiable off-the-shelf software (MOTS)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#commercial-off-the-shelf-software-cots" class="md-nav__link">
+    <span class="md-ellipsis">
+      Commercial off-the-shelf software (COTS)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#interoperability-requirements" class="md-nav__link">
+    <span class="md-ellipsis">
+      Interoperability Requirements
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#legal-aspects" class="md-nav__link">
+    <span class="md-ellipsis">
+      Legal Aspects
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#project-examples-use-cases" class="md-nav__link">
+    <span class="md-ellipsis">
+      Project Examples / Use Cases
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#links-to-further-sources" class="md-nav__link">
+    <span class="md-ellipsis">
+      Links to Further Sources
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#licence" class="md-nav__link">
+    <span class="md-ellipsis">
+      Licence
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../satellites/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Earth Observation via Satellites
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sensors/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sensors / SmartMeters (Internet of Things)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../climate-resilience/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Climate resilience
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_6" id="__nav_6_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Climate resilience
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_2" id="__nav_6_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Introduction
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_2">
+            <span class="md-nav__icon md-icon"></span>
+            Introduction
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/Introduction/intro/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introduction to urban resilience
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/Introduction/solutions-resilience/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Digital solutions for building urban resilience
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/Introduction/opportunities/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Opportunities
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/Introduction/challenges/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Challenges and limitations of urban digital solutions
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_3" id="__nav_6_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Fact sheets
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_3">
+            <span class="md-nav__icon md-icon"></span>
+            Fact sheets
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/fact-sheets-cres/ai/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artificial Intelligence (AI)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/fact-sheets-cres/data-sources/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Data sources
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/fact-sheets-cres/digital-twins/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Digital Twins
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/fact-sheets-cres/communication/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Communication and collaboration tools
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/fact-sheets-cres/eot/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Geographic information system (GIS) and remote sensing
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/fact-sheets-cres/mobile-tools/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mobile tools for climate adaptation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/fact-sheets-cres/rmis-cres/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    (Remote) Management Information Systems (R/MIS)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/fact-sheets-cres/iot/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Internet of Things (IoT)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/fact-sheets-cres/integration/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Summary on integration of solutions
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#definition" class="md-nav__link">
+    <span class="md-ellipsis">
+      Definition
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-to-select-an-r-mis" class="md-nav__link">
+    <span class="md-ellipsis">
+      How to select an R / MIS?
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="How to select an R / MIS?">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#step-1-check-the-digital-principles" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 1: Check the Digital Principles
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-2-what-information-do-i-need" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 2: What Information Do I Need?
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-3-which-institutional-approach-to-select" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 3: Which Institutional Approach to Select
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#after-selecting-the-institutional-approach-you-need-to-consider-the-following-options-and-requirements" class="md-nav__link">
+    <span class="md-ellipsis">
+      After selecting the institutional approach, you need to consider the following options and requirements:
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="After selecting the institutional approach, you need to consider the following options and requirements:">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#types-of-hosting" class="md-nav__link">
+    <span class="md-ellipsis">
+      Types of Hosting
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#software-cost-structure-model" class="md-nav__link">
+    <span class="md-ellipsis">
+      Software cost structure model:
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Software cost structure model:">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#customized-software" class="md-nav__link">
+    <span class="md-ellipsis">
+      Customized software
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#modifiable-off-the-shelf-software-mots" class="md-nav__link">
+    <span class="md-ellipsis">
+      Modifiable off-the-shelf software (MOTS)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#commercial-off-the-shelf-software-cots" class="md-nav__link">
+    <span class="md-ellipsis">
+      Commercial off-the-shelf software (COTS)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#interoperability-requirements" class="md-nav__link">
+    <span class="md-ellipsis">
+      Interoperability Requirements
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#legal-aspects" class="md-nav__link">
+    <span class="md-ellipsis">
+      Legal Aspects
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#project-examples-use-cases" class="md-nav__link">
+    <span class="md-ellipsis">
+      Project Examples / Use Cases
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#links-to-further-sources" class="md-nav__link">
+    <span class="md-ellipsis">
+      Links to Further Sources
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#licence" class="md-nav__link">
+    <span class="md-ellipsis">
+      Licence
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+<h1 id="remote-management-information-systems">(Remote) Management Information Systems</h1>
+<p>R / MIS are useful for tracking infrastructure quality and the progress of complex projects and / or those that involve many sites. Ideally, activity data is connected to indicators (outcome / impact) and risks.</p>
+<h2 id="definition">Definition</h2>
+<p>An R / MIS is a web-based or desktop software system used to
+ systematically collect, validate, store, manage, monitor, aggre- gate,
+ process, analyze, visualize, and / or publish data and informa- tion
+ on a project, a portfolio, or the core processes of an organi- zation
+ for monitoring and management purposes. It often offers interfaces to
+ mobile data collection tools.</p>
+<h2 id="how-to-select-an-r-mis">How to select an R / MIS?</h2>
+<h3 id="step-1-check-the-digital-principles">Step 1: Check the Digital Principles</h3>
+<p>Before designing or selecting any R / MIS, the nine  <a href="https://digitalprinciples.org">Principles for Digital Development</a> should be considered.</p>
+<h3 id="step-2-what-information-do-i-need">Step 2: What Information Do I Need?</h3>
+<p>Which type of information is required, with which frequency? Is the main purpose monitoring and / or management? The information
+ needs determine R / MIS modules and functionalities:</p>
+<ul>
+<li>Data collection (web / mobile, GPS-location, time stamp, pictures)</li>
+<li>Data management (data relations / validations)</li>
+<li>Data processing and analysis (aggregation / contribution to goals)</li>
+<li>Data visualization and publishing (dashboards, charts, maps)</li>
+<li>Import / export of data (manual / programming interfaces) Who has
+    access to which parts of the R / MIS also needs to be defined (the
+    license model of the R / MIS must ensure sufficient access to the
+    system).</li>
+</ul>
+<h3 id="step-3-which-institutional-approach-to-select">Step 3: Which Institutional Approach to Select</h3>
+<p>Before the selection of an adequate R / MIS software and the design of
+ the Terms of Reference, a decision is needed about which of the
+ following three cases is applicable:</p>
+<p><strong>Case A:</strong> A new R / MIS is designed as a (long-term) system to
+ digitalize the core processes of the Project Executing Agency (PEA) as
+ part of a digitalization / eGovernance project. This includes
+ generating the information relevant to the specific project(s).</p>
+<p><strong>Case B:</strong> The extension or integration of an already existing R / MIS of the PEA is designed to additionally manage or monitor the specific project(s).</p>
+<p><strong>Case C:</strong> A new R / MIS is designed solely for the monitoring or
+ management purposes of the specific project(s) and separately from
+ existing PEA systems.</p>
+<h2 id="after-selecting-the-institutional-approach-you-need-to-consider-the-following-options-and-requirements">After selecting the institutional approach, you need to consider the following options and requirements:</h2>
+<h3 id="types-of-hosting">Types of Hosting</h3>
+<ul>
+<li>
+<p>Hosting on the PEA / consultant's own server</p>
+</li>
+<li>
+<p>Cloud-based hosting of the R / MIS (Software-as-a-Service, SAAS)</p>
+</li>
+</ul>
+<h3 id="software-cost-structure-model">Software cost structure model:</h3>
+<p>Is an initial, one-time payment with no / low ongoing (license) costs
+ preferred? Can ongoing (license) costs be covered beyond the project
+ period? Are customizations possible?</p>
+<p>It must be decided which software category is appropriate for the
+ setup of the R / MIS. In all three categories, open- source and
+ proprietary solutions are available. In general, <strong>open-source solutions are preferable</strong> (<a href="https://www.kfw-entwicklungsbank.de/Service/Publications-Videos/Publications-by-topic/Digitalisation/RMMV-Guidebook/">&gt; RMMV Guidebook Section 2.2.2</a>).</p>
+<h4 id="customized-software">Customized software</h4>
+<p>Tailor-made solutions meeting the specific needs and requirements of a
+ project, portfolio, or organization.</p>
+<p><em>Advantages:</em></p>
+<ul>
+<li>Customized to reflect the exact needs, structures, and features</li>
+<li>Suitable for complex project setups with a high number of users and access / approval levels</li>
+<li>Connectors for exchange with other tools can be programmed</li>
+<li>Usually lower or no licensing costs (none if open source) -- Usually higher costs for (initial) setup (compared to off-the-shelf tools)</li>
+</ul>
+<p><em>Disadvantages:</em></p>
+<ul>
+<li>Setup requires IT expert resources</li>
+<li>Usually longer implementing period</li>
+<li>Ongoing costs for support and maintenance</li>
+</ul>
+<p><em>Potentially suitable for Case B (if existing R / MIS is already
+ customized or self-developed), Case C (if complex project, many
+ users), Case A (if complex procedures, many users, AND no good
+ sector-specific, off-the-shelf solutions exist).</em></p>
+<h4 id="modifiable-off-the-shelf-software-mots">Modifiable off-the-shelf software (MOTS)</h4>
+<p>Standard tools that can be modified on software source code level.</p>
+<p><em>Advantages:</em></p>
+<ul>
+<li>Fast setup as MOTS are based on available software solutions with
+ existing modules</li>
+<li>Customizations possible by the purchaser or by another party (if
+ open source)</li>
+</ul>
+<p><em>Disadvantages:</em></p>
+<ul>
+<li>Customizations possible only by the vendor (if proprietary)</li>
+<li>Setup and customizations require IT expert resources</li>
+<li>Ongoing costs for support and maintenance</li>
+<li>License costs based on time, user numbers, and support (if proprietary)</li>
+</ul>
+<p><em>Potentially suitable for all cases if the project's / PEA's proce-
+ dures being digitalized / established are not too complex and do not
+ require too much customization.</em></p>
+<h4 id="commercial-off-the-shelf-software-cots">Commercial off-the-shelf software (COTS)</h4>
+<p>Standard tools that can be used "as is" without the option to be
+ modified on software source code level.</p>
+<p>+ Available "out of the box" with basic functionality</p>
+<p>+ Suitable for simple project setups that do not require
+ customization</p>
+<h2 id="interoperability-requirements">Interoperability Requirements</h2>
+<p>In which formats and structures should data be stored in the R / MIS to allow for an exchange with others relevant to the project / organization ? In general, the R / MIS must fit into the already existing IT architecture and with the existing IT knowledge of the PEA and country. The following data standards should be considered as part of the setup of any R / MIS:</p>
+<ul>
+<li>Consider (project-specific) required file formats (e.g., CSV, XLS,
+    KML, JSON) or Application Programming Interfaces (API) for data
+    import and export</li>
+<li>KfW requires the export of geo-referenced project data (in KML or
+    XLS) according to a new template (see below) as part of its
+    regular reporting. This template also ensures compatibility of the
+    reporting with the International Aid Transparency Initiative (IATI)
+    Standard.</li>
+<li>The IATI standard is an XML-based set of rules and guidance for
+    publishing data of development and humanitarian organiza- tions to
+    improve their coordination, accountability, and effec- tiveness and
+    to increase the transparency of information on resources flowing
+    into developing countries. All BMZ-funded projects must provide
+    IATI-compatible data to KfW.</li>
+<li>Open Data Kit (ODK) is an XLS-based standard format for exchanging
+    data between R / MIS, mobile data collection, and other compatible
+    tools.</li>
+<li>Sector-specific open data standards also must be considered, if they
+    are applicable (e.g., EPA standard for environmental data;
+    <a href="http://www.epa.gov/data-standards">www.epa.gov/data-standards</a>).</li>
+</ul>
+<h2 id="legal-aspects">Legal Aspects</h2>
+<p><strong>Data Security:</strong> If a desktop software system is used, data secu-
+ rity should be warranted by ensuring:</p>
+<p>that the data are protected against unauthorized or accidental
+ destruction, accidental loss, technical defects, falsification, theft,
+ unlawful use, unauthorized modification or duplication, and other
+ forms of unauthorized access and use by technical means regular backup of data appropriate security of hardware</p>
+<p>If the software is provided as web-based service (SaaS), the provider should be contractually obliged to take appropriate organizational and technical precautions to prevent disruptions to the availability, integrity, authenticity, and confidentiality of their IT  systems, components, and processes essential to the functioning of the  critical infrastructures they operate. The provider should implement  data backup concepts, ensuring the protection of data against loss due to system-related failures.</p>
+<p><strong>Data protection:</strong> Wherever possible, the collection of personal data by
+ the R / MIS-owner (data controller) should be avoided. If this is
+ impossible, the main principles of data protection must be adhered to,
+ that is, personal data shall:</p>
+<ul>
+<li>be processed lawfully, fairly, and in a transparent manner in relation
+ to the person</li>
+<li>be used only for the legitimate purpose in relation to the project</li>
+<li>be limited to what is necessary in relation towthe purposes for the
+ project</li>
+<li>be accurate and, where necessary, kept up to date</li>
+<li>not be kept longer than is necessary for the purposes of the project</li>
+<li>be securely stored, including protection against unauthorized or
+ unlawful processing and against accidental loss</li>
+</ul>
+<p>In case KfW (or persons acting on behalf of it) are (also) process-
+ ing personal data, the privacy check in  <a href="https://www.kfw-entwicklungsbank.de/Service/Publications-Videos/Publications-by-topic/Digitalisation/RMMV-Guidebook/">&gt; RMMV Guidebook Section 2.3.1</a> must be followed.</p>
+<p>If R / MIS tools allow <strong>tracking of employees</strong>, legal restrictions
+ on the use of such tools may arise from applicable local laws. Some
+ privacy laws will give discretion to employers as to how far they can
+ go with their employee monitoring programs. In other cases, employers
+ will have to inform employees who are likely to be monitored or even
+ require employees to consent.</p>
+<h2 id="project-examples-use-cases">Project Examples / Use Cases</h2>
+<ul>
+<li>
+<p>In the project <a href="https://www.kfw-entwicklungsbank.de/ipfz/Projektdatenbank/Programm-Reproduktive-Gesundheit-28336.htm">Fond d'Achat (FANiger; PN:
+    28336)</a>
+    in Niger, a Health-MIS (HMIS) was created to visualize, monitor and
+    manage financial data and billing. The HMIS was based on the national system and additional data collected via tablet.</p>
+</li>
+<li>
+<p>In the <a href="https://www.kfw-entwicklungsbank.de/ipfz/Projektdatenbank/Regionaler-Infrastrukturfonds-f%C3%BCr-Khyper-Pakhtunkhwa-30272.htm">Regional Infrastructure Fonds KhyberPakhtunkhwa (RIF-KP; PN: 30272)</a>, an RMIS was set up to get real time information on the implementation progress regarding physical completion of works and use of funds.</p>
+</li>
+<li>
+<p>In the <a href="https://www.kfw-entwicklungsbank.de/ipfz/Projektdatenbank/Entwicklung-von-Wasserkraft-und-erneuerbaren-Energien-in-der-North-Western-Frontier-Province-27138.htm">Hydropower and Renewable Energy Project (HRE; PN:27138)</a> in Pakistan, an RMIS / Utility Information System (incl. power
+    generation sensors &amp; mobile revenue &amp; maintenance data collection)
+    was installed.</p>
+</li>
+</ul>
+<h2 id="links-to-further-sources">Links to Further Sources</h2>
+<ul>
+<li>How to calculate total software cost:
+    <a href="https://digitalprinciples.org/resource/howto-calculate-Â­total-cost-enterprise-software">https://digitalprinciples.org/resource/howto-calculate-total-</a>
+    <a href="https://digitalprinciples.org/resource/howto-calculate-Â­total-cost-enterprise-software">cost-enterprise-software</a></li>
+<li>Frequently used data analysis tools
+    <a href="http://impacttrackertech.kopernik.info/data-analysis-tools">http://impacttrackertech.kopernik.info/data-analysis-tools</a></li>
+<li>About the International Aid Transparency Initiative (IATI) Standard: <a href="https://iatistandard.org/en/about/iati-standard/">https://iatistandard.org/en/about/iati-standard/</a></li>
+<li>How to link offline data collection to an MIS: <a href="https://getodk.github.io/xforms-spec/">https://getodk.github.io/xforms-spec/</a></li>
+<li>
+<p>KfW Terms of Reference for project geo data collection <a href="https://www.kfw-entwicklungsbank.de/Service/Publications-Videos/Publications-by-topic/Digitalisation/RMMV-Guidebook/">&gt; RMMV Guidebook Annex 3</a></p>
+</li>
+<li>
+<p>Health management information system: <a href="https://getodk.github.io/xforms-spec/">www.openimis.org</a></p>
+</li>
+</ul>
+<h2 id="licence">Licence</h2>
+<p><img alt="" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></p>
+<p>This work is licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)</a>.</p>
+<p><a href="../disclaimer/">Disclaimer</a></p>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+  <h2 id="__comments">Comments</h2>
+  <script src="https://giscus.app/client.js"
+        data-repo="openkfw/d4dtools"
+        data-repo-id="R_kgDOICBuyQ"
+        data-category="Website Discussions"
+        data-category-id="DIC_kwDOICBuyc4CTEi7"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
+
+  <!-- Synchronize Giscus theme with palette -->
+  <script>
+    var giscus = document.querySelector("script[src*=giscus]")
+
+    /* Set palette on initial load */
+    var palette = __md_get("__palette")
+    if (palette && typeof palette.color === "object") {
+      var theme = palette.color.scheme === "slate" ? "dark" : "light"
+      giscus.setAttribute("data-theme", theme) 
+
+
+    }
+
+    /* Register event handlers after documented loaded */
+    document.addEventListener("DOMContentLoaded", function() {
+      var ref = document.querySelector("[data-md-component=palette]")
+      ref.addEventListener("change", function() {
+        var palette = __md_get("__palette")
+        if (palette && typeof palette.color === "object") {
+          var theme = palette.color.scheme === "slate" ? "dark" : "light"
+
+          /* Instruct Giscus to change theme */
+          var frame = document.querySelector(".giscus-frame")
+          frame.contentWindow.postMessage(
+            { giscus: { setConfig: { theme } } },
+            "https://giscus.app"
+          )
+        }
+      })
+    })
+  </script>
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.instant", "navigation.tracking", "navigation.expand", "toc.follow", "navigation.indexes"], "search": "../assets/javascripts/workers/search.6ce7567c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.88dd0f4e.min.js"></script>
+      
+    
+  </body>
+</html>

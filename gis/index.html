@@ -1,0 +1,1575 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../elearning/">
+      
+      
+        <link rel="next" href="../mms/">
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.49">
+    
+    
+      
+        <title>Geospatial Tools and GIS - D4D tools</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.6f8fc17f.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#geospatial-tools-and-gis" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="D4D tools" class="md-header__button md-logo" aria-label="D4D tools" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            D4D tools
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Geospatial Tools and GIS
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/openkfw/d4dtools" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="D4D tools" class="md-nav__button md-logo" aria-label="D4D tools" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    D4D tools
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/openkfw/d4dtools" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introduction
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../disclaimer/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Disclaimer
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../contributing/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Contributing
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tech-faq/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    FAQ
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Fact sheets
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Fact sheets
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../bim/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Building Information Modeling (BIM)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cameras/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cameras (Terrestrial Observation)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../collaboration/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Collaboration tools
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cst/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Crowdsourcing Tools
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../drones/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Drones / UAV (Airborne Observation)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../elearning/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    eLearning Tools
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Geospatial Tools and GIS
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Geospatial Tools and GIS
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#definition" class="md-nav__link">
+    <span class="md-ellipsis">
+      Definition
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Definition">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#step-1-check-the-digital-principles" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 1: Check the Digital Principles
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-2-what-types-of-data-should-i-consider" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 2: What Types of Data Should I Consider?
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-3-what-information-do-i-need" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 3: What Information Do I Need?
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-4-what-should-i-consider-when-acquiring-geospatial" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 4: What Should I Consider When Acquiring Geospatial
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#interoperability-requirements" class="md-nav__link">
+    <span class="md-ellipsis">
+      Interoperability Requirements
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#legal-aspects" class="md-nav__link">
+    <span class="md-ellipsis">
+      Legal Aspects
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#project-examplesuse-cases" class="md-nav__link">
+    <span class="md-ellipsis">
+      Project Examples/Use Cases
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#links-to-further-sources" class="md-nav__link">
+    <span class="md-ellipsis">
+      Links to Further Sources
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#licence" class="md-nav__link">
+    <span class="md-ellipsis">
+      Licence
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mms/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Maintenance Management Systems (MMS)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mdc/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mobile Data Collection Tools (MDC)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rmis/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    (Remote) Management Information Systems
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../satellites/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Earth Observation via Satellites
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sensors/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sensors / SmartMeters (Internet of Things)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../climate-resilience/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Climate resilience
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_6" id="__nav_6_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Climate resilience
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_2" id="__nav_6_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Introduction
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_2">
+            <span class="md-nav__icon md-icon"></span>
+            Introduction
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/Introduction/intro/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introduction to urban resilience
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/Introduction/solutions-resilience/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Digital solutions for building urban resilience
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/Introduction/opportunities/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Opportunities
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/Introduction/challenges/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Challenges and limitations of urban digital solutions
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_3" id="__nav_6_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Fact sheets
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_3">
+            <span class="md-nav__icon md-icon"></span>
+            Fact sheets
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/fact-sheets-cres/ai/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artificial Intelligence (AI)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/fact-sheets-cres/data-sources/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Data sources
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/fact-sheets-cres/digital-twins/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Digital Twins
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/fact-sheets-cres/communication/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Communication and collaboration tools
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/fact-sheets-cres/eot/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Geographic information system (GIS) and remote sensing
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/fact-sheets-cres/mobile-tools/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mobile tools for climate adaptation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/fact-sheets-cres/rmis-cres/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    (Remote) Management Information Systems (R/MIS)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/fact-sheets-cres/iot/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Internet of Things (IoT)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climate-resilience/fact-sheets-cres/integration/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Summary on integration of solutions
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#definition" class="md-nav__link">
+    <span class="md-ellipsis">
+      Definition
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Definition">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#step-1-check-the-digital-principles" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 1: Check the Digital Principles
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-2-what-types-of-data-should-i-consider" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 2: What Types of Data Should I Consider?
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-3-what-information-do-i-need" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 3: What Information Do I Need?
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-4-what-should-i-consider-when-acquiring-geospatial" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 4: What Should I Consider When Acquiring Geospatial
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#interoperability-requirements" class="md-nav__link">
+    <span class="md-ellipsis">
+      Interoperability Requirements
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#legal-aspects" class="md-nav__link">
+    <span class="md-ellipsis">
+      Legal Aspects
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#project-examplesuse-cases" class="md-nav__link">
+    <span class="md-ellipsis">
+      Project Examples/Use Cases
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#links-to-further-sources" class="md-nav__link">
+    <span class="md-ellipsis">
+      Links to Further Sources
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#licence" class="md-nav__link">
+    <span class="md-ellipsis">
+      Licence
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+<h1 id="geospatial-tools-and-gis">Geospatial Tools and GIS</h1>
+<h2 id="definition">Definition</h2>
+<p>For this fact sheet, geospatial tools encompass geographic information systems (GIS) as desktop and web-based (webmapping) 
+software. GIS software is a specialized tool designed to collect, 
+integrate, aggregate, store, edit, manipulate, analyze, manage, 
+share, and present different types of geospatial data in layers of 
+maps. Webmapping is the process of visualising and sharing maps 
+on the internet. The delimitation between web maps and GIS is 
+blurry: maps are often a presentation means in GIS but are 
+increasingly gaining analytical capabilities.
+Geospatial tools are particularly relevant for projects with a wide 
+geographic radius because of scattered infrastructure investments 
+in communities—either because of decentralization processes or 
+for projects needing multilayered visualization and handling of
+specific location-based services.</p>
+<h3 id="step-1-check-the-digital-principles">Step 1: Check the Digital Principles</h3>
+<p>Before designing/ selecting any geospatial tool or GIS, the 
+nine <a href="https://digitalprinciples.org">Principles for Digital Development</a> should be considered.</p>
+<h3 id="step-2-what-types-of-data-should-i-consider">Step 2: What Types of Data Should I Consider?</h3>
+<p>GIS software can process any data that contains geocoordinates. 
+These can be represented by two main types of geospatial data: 
+vector (map) data or raster (image) data. This data can be visualized in a map and be referenced to images, sensor data, features, 3D models, and socio-economic and environmental data. 
+Maps have shifted from manually made, one-off, static, paperprinted, and scanned images (in PNG, JPEG, TIFF, SVG, PDF, and SWF formats) towards web maps as more interactive and digital 
+savvy alternatives of visualizing and manipulating data on the 
+web. For example, dynamic and distributed maps are generated 
+upon upload thanks to database sources distributed through different servers containing different map layers. Animated maps 
+show changes over time (graphical or temporal variables) using 
+multimedia formats and technologies such as: SVG, Java, Quicktime, etc.). Near real-time maps display a live phenomenon, using 
+sensors. Customizable web maps (such as Open Layer Framework, Yahoo! Maps, or Google Maps) offer embedding in thirdparty webpages and/or map-based services (route planner, location marking, etc.) </p>
+<h3 id="step-3-what-information-do-i-need">Step 3: What Information Do I Need?</h3>
+<p>Geospatial tools process georeferenced geospatial data on sites, 
+locations, attributes, and cross-sectoral information within a 
+given geographical area through multidimensional layers that 
+can be combined with project data or isolated according to analysis requirements, for example</p>
+<ul>
+<li><strong>Assessment of risks</strong>/vulnerability of populations to disasters, 
+conflicts, or diseases</li>
+<li><strong>Planning of infrastructure</strong> projects, for example, electricity 
+grids, road construction layered with secluded homes, and 
+hard-to-reach schools</li>
+<li><strong>Visualization</strong> of wildlife, biodiversity, climate, and environmental issues, for example, deforestation and temperature 
+changes</li>
+<li><strong>Forecasting analysis</strong>, for example, crop exposition to floodprone areas</li>
+</ul>
+<p>For information visualization needs and monitoring purposes, 
+geospatial tools make use of recent technological and webmapping developments and offer enhanced functionalities, such as 
+animation; real-time feed; personalization via filtering, symbolization, and styling; and collaboration and can be combined with 
+web-based cloud processing and analysis of geospatial data.</p>
+<h3 id="step-4-what-should-i-consider-when-acquiring-geospatial">Step 4: What Should I Consider When Acquiring Geospatial</h3>
+<p>Data and Software Tools?
+Due to the variety and increasing importance of applications for 
+geospatial data, a multitude of open, freely downloadable, geospatial data sources exists online that can be used for project-level analysis <a href="https://www.kfw-entwicklungsbank.de/Service/Publications-Videos/Publications-by-topic/Digitalisation/Fact-Sheets/">&gt; Fact Sheet Data sources (incl. Open Data and Big Data)</a>.
+Should data be collected first-hand to meet specific information needs, geospatial data collection can be incorporated into project monitoring via several tools presented in other &gt; Fact Sheets (see below).
+For the <strong>processing and managing</strong> of georeferenced geospatial data, several software solutions exist: </p>
+<ul>
+<li>open-source geospatial tools are available on the market, such as QGIS, GRASS GIS, ESA-SNAP, ILWIS, and gVSIG.</li>
+<li>roprietary GIS tools are also available but require careful elabo-ration of licensing costs during and after project implementation (e.g., ESRI ARCGIS, ERDAS, and Ecognition).</li>
+</ul>
+<p>For <strong>collaboration, visualization, and presentation</strong> purposes, 
+geo-spatial tools such as OpenStreetMap, WikiMapia, and 
+Google Earth may be of use.</p>
+<p>The following <strong>challenges</strong> should be considered when using 
+geo-spatial data for project planning, implementation, and 
+monitoring or verification:</p>
+<ol>
+<li>the availability of (updated) data</li>
+<li>adequate data storage, hardware, and IT infrastructure</li>
+<li>inter-institutional cooperation in terms of data exchange</li>
+<li>access to the internet</li>
+<li>adequate training of project implementers/monitors in 
+the target regions to increase sustainability</li>
+<li>access to appropriate software</li>
+</ol>
+<h2 id="interoperability-requirements">Interoperability Requirements</h2>
+<p>The following standards/requirements should be considered as 
+part of the setup of any geospatial tool: </p>
+<ul>
+<li>File formats for handling vector and raster data are manifold. 
+Industry standards are recommended for georeferenced data 
+exchange, such as KML, GeoTIFF, GeoJSON, SHP, GPX, GPKG, 
+GIF, IMG, and JPEG.</li>
+<li>KfW will require the export of geo-referenced project data (in 
+KML or XLS) according to a new template as part of its regular reporting. This template also ensures compatibility of the 
+reporting with the International Aid Transparency Initiative 
+(IATI) Standard and the Open Geospatial Consortium (OGC) for 
+feature classes <a href="https://www.kfw-entwicklungsbank.de/Service/Publications-Videos/Publications-by-topic/Digitalisation/RMMV-Guidebook/">&gt; RMMV Guidebook Annex 3</a>.</li>
+<li>Additional standards /definitions /requirements from established international initiatives, such as the Open Geospatial 
+Consortium (OGC); feature classification of the Multinational 
+Geospatial Co-production Program (MGCP); land cover classification and mapping of the Land Cover Classification System 
+(LCCS) from the UN Food and Agriculture Organization (FAO), 
+and Copernicus EAGLE. For forests: Reducing Emissions from 
+Deforestation and Forest Degradation (REDD) can be used to 
+further disaggregate georeferenced data types.</li>
+</ul>
+<h2 id="legal-aspects">Legal Aspects</h2>
+<p><strong>Human rights risks</strong>: In countries with human rights issues or in conflict settings, project location data containing exact GPS coordinates could be used against the population or vulnerable parts thereof, such as minorities. This information could be misused for targeting them via discriminatory policies, (state) terror attacks, and so on. The funding of a specific infrastructure or location by an international donor could increase such a risk. Careful attention to data protection and data security (below) is required so as not to risk harming individuals or groups.</p>
+<p><strong>Intellectual property rights</strong> for using the GIS information must be secured, thereby avoiding liability for infringement on such rights, whether intended or not. Such infringements could include failure to control access to geo-data or tools, resulting in the illegal use of the data or tools by others. Users must familiarize themselves with the terms of use of the respective GIS tool.</p>
+<p>If commercial services, such as <strong>Google Maps and Google 
+Earth</strong>, for example, are employed, any use has to comply with their general Terms of Services and their Additional Terms of Services for Maps and/or Satellite Services. Those terms prohibit certain conduct, including copying the content or “mass downloading” content (even content from projects that was mass-uploaded before).</p>
+<p><strong>Data Protection</strong>: Combining descriptive data with precise location data is the cornerstone of many types of spatial analyses. 
+But when locations are easily linked to identities of individuals, households or farms, there is potential for violating personal privacy. Avoid the inadvertent collection of personal data. Only strictly relevant personal data should be collected and processed in line with the recommendations in the <a href="https://www.kfw-entwicklungsbank.de/Service/Publications-Videos/Publications-by-topic/Digitalisation/Fact-Sheets/">&gt; Fact Sheet Earth Observation via Satellites</a>.
+If initial data minimization is impossible, personal data must be anonymized (e.g., by redaction or 
+pixilation).</p>
+<p><strong>Data security requirements</strong> can also arise from applicable data protection regulations (local and/or GDPR) or the above-mentioned human rights risks, which stipulate basic security requirements for storing and processing of exact GPS coordinates.  Entities may be required under those rules and/or conditions to ensure the ongoing confidentiality, integrity, availability, and resilience of storing and processing systems and services (technical and organizational measures). More information on legal aspects can be found here: <a href="https://www.kfw-entwicklungsbank.de/Service/Publications-Videos/Publications-by-topic/Digitalisation/RMMV-Guidebook/">&gt; RMMV Guidebook Section 2.3</a></p>
+<h2 id="project-examplesuse-cases">Project Examples/Use Cases</h2>
+<ul>
+<li>In the crop production project PABSO (PN: 27495) in Burkina Faso, geospatial analysis was used to analyze vegetation and road networks.</li>
+<li>In the <a href="https://www.kfw-entwicklungsbank.de/ipfz/Projektdatenbank/Wasserver--und-Abwasserentsorgungsprogramm-Zentralamerika-II-30343.htm">water and sanitation program RANC-EE (PN: 30343)</a> in Central America, a GIS was used to map networks and conditions to reduce water loss.</li>
+<li>In <a href="https://www.kfw-entwicklungsbank.de/ipfz/Projektdatenbank/REDD-Early-Mover-29763.htm">“REDD Early Mover” project (PN: 29763)</a> in Ecuador, a GIS, Satellite Imagery and Third-Party Monitoring are used to enable the Ministry of Environment to monitor forest degradation 
+and carbon emissions.</li>
+</ul>
+<h2 id="links-to-further-sources">Links to Further Sources</h2>
+<ul>
+<li><a href="https://www.kfw-entwicklungsbank.de/Service/Publications-Videos/Publications-by-topic/Digitalisation/RMMV-Guidebook/">KfW Terms of Reference for project geo data collection</a>.</li>
+<li><a href="http://wiki.gis.com/wiki/index.php/Main_Page">GIS Encyclopedia in Wikipedia</a></li>
+<li><a href="https://www.forbes.com/sites/forbestechcouncil/2019/03/21/geospatial-is-not-gis/">Geospatial is not GIS, GIS vs geospatial definitions</a></li>
+<li><a href="https://grindgis.com/remote-sensing/limitations-or-challenges-of-gis">List of Limitations or Challenges of GIS</a></li>
+<li><a href="https://www.gislounge.com/open-source-gis-applications">List of open-source GIS applications</a></li>
+</ul>
+<h2 id="licence">Licence</h2>
+<p><img alt="" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></p>
+<p>This work is licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)</a>.</p>
+<p><a href="../disclaimer/">Disclaimer</a></p>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+  <h2 id="__comments">Comments</h2>
+  <script src="https://giscus.app/client.js"
+        data-repo="openkfw/d4dtools"
+        data-repo-id="R_kgDOICBuyQ"
+        data-category="Website Discussions"
+        data-category-id="DIC_kwDOICBuyc4CTEi7"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
+
+  <!-- Synchronize Giscus theme with palette -->
+  <script>
+    var giscus = document.querySelector("script[src*=giscus]")
+
+    /* Set palette on initial load */
+    var palette = __md_get("__palette")
+    if (palette && typeof palette.color === "object") {
+      var theme = palette.color.scheme === "slate" ? "dark" : "light"
+      giscus.setAttribute("data-theme", theme) 
+
+
+    }
+
+    /* Register event handlers after documented loaded */
+    document.addEventListener("DOMContentLoaded", function() {
+      var ref = document.querySelector("[data-md-component=palette]")
+      ref.addEventListener("change", function() {
+        var palette = __md_get("__palette")
+        if (palette && typeof palette.color === "object") {
+          var theme = palette.color.scheme === "slate" ? "dark" : "light"
+
+          /* Instruct Giscus to change theme */
+          var frame = document.querySelector(".giscus-frame")
+          frame.contentWindow.postMessage(
+            { giscus: { setConfig: { theme } } },
+            "https://giscus.app"
+          )
+        }
+      })
+    })
+  </script>
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.instant", "navigation.tracking", "navigation.expand", "toc.follow", "navigation.indexes"], "search": "../assets/javascripts/workers/search.6ce7567c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.88dd0f4e.min.js"></script>
+      
+    
+  </body>
+</html>
