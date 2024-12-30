@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+sidebar_label: Contributing Guide
+---
 # Welcome to d4dtools contributing guide
 
 Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on [openkfw.github.io/d4dtools](https://openkfw.github.io/d4dtools/) :sparkles:.

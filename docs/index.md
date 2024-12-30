@@ -1,6 +1,6 @@
 ---
-hide:
-  - toc
+sidebar_position: 1
+sidebar_label: Introduction
 ---
 
 # Welcome to D4D tools

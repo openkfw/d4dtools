@@ -1,3 +1,8 @@
+---
+sidebar_position: 5
+sidebar_label: Disclaimer
+---
+
 # Disclaimer
 
 These Fact Sheets were developed for all practitioners in preparing and implementing Financial Cooperation (FC) projects and provides them with assistance and examples of how to manage, monitor, and verify FC projects remotely.
