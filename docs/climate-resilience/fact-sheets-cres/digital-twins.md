@@ -6,115 +6,116 @@ comments: true
 
 !!! info inline end "Work in progress"
 
-    This fact sheet is still being finalized. Soon you will will be able to read about the use of Digital twins for urban resilience. 
+    This fact sheet is still being finalized. Soon you will will be able to read about the use of Digital twins for urban resilience.
 
 ## Short overview
 
 ### General Description
 
-***Text in progress***
+**_Text in progress_**
 
 ### Potential for Climate Change Adaptation
 
-***Text in progress***
+**_Text in progress_**
 
 ### Potential for Disaster Risk Management
 
-***Text in progress***
+**_Text in progress_**
 
 ## Application in different climate hazards
 
 ### Flooding (coastal, river, flash)
 
-***Text in progress***
+**_Text in progress_**
 
 ### Sea level rise
 
-***Text in progress***
+**_Text in progress_**
 
 ### Landslide
 
-***Text in progress***
+**_Text in progress_**
 
 ### Water scarcit/drought
 
-***Text in progress***
+**_Text in progress_**
 
 ### Strong winds (storms, cyclones, hurricanes)
 
-***Text in progress***
+**_Text in progress_**
 
 ### Forest/ bush fires
 
-***Text in progress***
+**_Text in progress_**
 
 ### Extreme heat temperatures (heat and cold)
 
-***Text in progress***
+**_Text in progress_**
 
 ### Subwater penetration
 
-***Text in progress***
+**_Text in progress_**
 
 ## Application in DRM/ CCA measures
 
-### Nature-based solutions 
+### Nature-based solutions
 
-***Text in progress***
+**_Text in progress_**
 
 ### Integrated coastal zone protection
 
-***Text in progress***
+**_Text in progress_**
 
 ### Stormwater management
 
-***Text in progress***
+**_Text in progress_**
 
 ### waste management
 
-***Text in progress***
+**_Text in progress_**
 
 ## Implementation
 
 ### Implementation example 1
 
-***Text in progress***
+**_Text in progress_**
 
 ### Implementation example 2
 
-***Text in progress***
+**_Text in progress_**
 
 ### Requirements
 
-***Text in progress***
+**_Text in progress_**
 
 ### Integration with other technologies
 
-***Text in progress***
+**_Text in progress_**
 
 ## Summary assessment
 
 ### Effectiveness overall
 
-***Text in progress***
+**_Text in progress_**
 
 ### Efficiency overall
 
-***Text in progress***
+**_Text in progress_**
 
 ### Challenges/ limitations
 
-***Text in progress***
+**_Text in progress_**
 
 ### Recommendations
 
-***Text in progress***
+**_Text in progress_**
 
 ## Legal Aspects
 
-***Text in progress***
+**_Text in progress_**
 
 ## Licence
+
 ![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).

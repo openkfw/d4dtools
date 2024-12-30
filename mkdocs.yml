@@ -19,37 +19,36 @@ nav:
   - Contributing: "contributing.md"
   - FAQ: "tech-faq.md"
   - "Fact sheets":
-    - "bim.md"
-    - "cameras.md"
-    - "collaboration.md"
-    - "cst.md"
-    - "drones.md"
-    - "elearning.md"
-    - "gis.md"
-    - "mms.md"
-    - "mdc.md"
-    - "rmis.md"
-    - "satellites.md"
-    - "sensors.md"
+      - "bim.md"
+      - "cameras.md"
+      - "collaboration.md"
+      - "cst.md"
+      - "drones.md"
+      - "elearning.md"
+      - "gis.md"
+      - "mms.md"
+      - "mdc.md"
+      - "rmis.md"
+      - "satellites.md"
+      - "sensors.md"
   - "Climate resilience":
-    - climate-resilience/index.md
-    - "Introduction":
-      - climate-resilience/Introduction/intro.md
-      - climate-resilience/Introduction/solutions-resilience.md
-      - climate-resilience/Introduction/opportunities.md
-      - climate-resilience/Introduction/challenges.md
-    - "Fact sheets":
-      - climate-resilience/fact-sheets-cres/ai.md
-      - climate-resilience/fact-sheets-cres/data-sources.md
-      - climate-resilience/fact-sheets-cres/digital-twins.md
-      - climate-resilience/fact-sheets-cres/communication.md
-      - climate-resilience/fact-sheets-cres/eot.md
-      - climate-resilience/fact-sheets-cres/mobile-tools.md
-      - climate-resilience/fact-sheets-cres/rmis-cres.md
-      - climate-resilience/fact-sheets-cres/iot.md
-      - climate-resilience/fact-sheets-cres/integration.md
-      
-    
+      - climate-resilience/index.md
+      - "Introduction":
+          - climate-resilience/Introduction/intro.md
+          - climate-resilience/Introduction/solutions-resilience.md
+          - climate-resilience/Introduction/opportunities.md
+          - climate-resilience/Introduction/challenges.md
+      - "Fact sheets":
+          - climate-resilience/fact-sheets-cres/ai.md
+          - climate-resilience/fact-sheets-cres/data-sources.md
+          - climate-resilience/fact-sheets-cres/digital-twins.md
+          - climate-resilience/fact-sheets-cres/communication.md
+          - climate-resilience/fact-sheets-cres/eot.md
+          - climate-resilience/fact-sheets-cres/mobile-tools.md
+          - climate-resilience/fact-sheets-cres/rmis-cres.md
+          - climate-resilience/fact-sheets-cres/iot.md
+          - climate-resilience/fact-sheets-cres/integration.md
+
 markdown_extensions:
   - toc
   - attr_list

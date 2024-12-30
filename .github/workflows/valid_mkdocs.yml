@@ -1,6 +1,5 @@
 name: test mkdocs build
 
-
 on:
   pull_request:
     branches:

@@ -31,7 +31,6 @@ Below you will find Fact Sheets on Technical and Digital Tool Types used in fina
 <figcaption><a href="cst">Crowdsourcing</a> can be used to quickly collect up-to-date information from many individuals at relatively low cost, especially from target groups.</figcaption>    
 </figure>
 
-
 <figure >
 <img src="icons/KfW_Drones.png" align = "left" width="100px"/>
 <figcaption><a href="drones">Drones</a> can be helpful in providing aerial imagery for monitoring
