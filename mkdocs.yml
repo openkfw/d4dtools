@@ -19,18 +19,18 @@ nav:
   - Contributing: "contributing.md"
   - FAQ: "tech-faq.md"
   - "Fact sheets":
-    - "bim.md"
-    - "cameras.md"
-    - "collaboration.md"
-    - "cst.md"
-    - "drones.md"
-    - "elearning.md"
-    - "gis.md"
-    - "mms.md"
-    - "mdc.md"
-    - "rmis.md"
-    - "satellites.md"
-    - "sensors.md"
+    - general/bim.md
+    - general/cameras.md
+    - general/collaboration.md
+    - general/cst.md
+    - general/drones.md
+    - general/elearning.md
+    - general/gis.md
+    - general/mms.md
+    - general/mdc.md
+    - general/rmis.md
+    - general/satellites.md
+    - general/sensors.md
   - "Climate resilience":
     - climate-resilience/index.md
     - "Introduction":
