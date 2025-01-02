@@ -47,7 +47,7 @@ function Feature({ title, Svg, description, url }: FeatureItem) {
         {url && (
           <p>
             <a href={url}>
-              Learn more
+              Learn more 
             </a>
           </p>
         )}
