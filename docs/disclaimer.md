@@ -28,3 +28,4 @@ This work is a product of the staff of KfW Development Bank with external contri
 
 ## Other contributors of the first version
 - Development Monitors LLC, Mainlevel Consulting AG, crisscrossed GmbH, Dentons, CUBE Agentur für Kommunikation. 
+- United Nations University - Institute for Environment and Human Security (UNU-EHS), Urban Futures and Sustainability Transformation Division (climate resilience tools)
