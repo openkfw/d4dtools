@@ -63,7 +63,13 @@ const config: Config = {
           type: "docSidebar",
           sidebarId: "tutorialSidebar",
           position: "left",
-          label: "Tutorial",
+          label: "General Factsheets",
+        },
+        {
+          type: 'doc',
+          position: 'left',
+          docId: 'climate-resilience/index',
+          label: 'Climate Resilience',
         },
         {
           href: "https://github.com/openkfw/d4dtools",

@@ -6,6 +6,7 @@ type FeatureItem = {
   title: string;
   Svg: React.ComponentType<React.ComponentProps<"svg">>;
   description: JSX.Element;
+  url?: string;
 };
 
 const FeatureList: FeatureItem[] = [
@@ -18,6 +19,7 @@ const FeatureList: FeatureItem[] = [
         development.
       </>
     ),
+    url: "docs/",
   },
   {
     title: "Climate resilience",
@@ -28,10 +30,12 @@ const FeatureList: FeatureItem[] = [
         specific factsheets on tools that support within this context.
       </>
     ),
+
+    url: "docs/climate-resilience/",
   },
 ];
 
-function Feature({ title, Svg, description }: FeatureItem) {
+function Feature({ title, Svg, description, url }: FeatureItem) {
   return (
     <div className={clsx("col col--4")}>
       <div className="text--center">
@@ -40,7 +44,15 @@ function Feature({ title, Svg, description }: FeatureItem) {
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
         <p>{description}</p>
+        {url && (
+          <p>
+            <a href={url}>
+              Learn more
+            </a>
+          </p>
+        )}
       </div>
+      
     </div>
   );
 }
@@ -48,8 +60,8 @@ function Feature({ title, Svg, description }: FeatureItem) {
 export default function HomepageFeatures(): JSX.Element {
   return (
     <section className={styles.features}>
-      <div className="container">
-        <div className="row">
+      <div className="container" style={{ display: 'flex', justifyContent: 'center' }}>
+        <div className="row justify-content-center" style={{ display: 'flex', justifyContent: 'center' }}>
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}
