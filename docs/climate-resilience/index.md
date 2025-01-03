@@ -48,5 +48,5 @@ The factsheets are the following:
 
 ## Summary on integration of different Tool Types
 
-- [Summary on integration of different Tool Types](fact-sheets-cres/integration.md)
+- [Summary on integration of different Tool Types](integration.md)
 
