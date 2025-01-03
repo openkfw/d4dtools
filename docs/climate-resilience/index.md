@@ -7,7 +7,7 @@ hide:
 
 !!! info inline end "Work in progress"
 
-    This section is still being finalized. Soon you will will be able to read about more about the use of digital tools for urban resilience. 
+    This section is still being finalized. Soon you will will be able to read more about the use of digital tools for urban resilience. 
 
 In this section, you will find a thematic introduction to the use of digital tools for urban resilience. The description of the field is accompanied by fact sheets on each selected technology. Each covers definitions, aplication areas, implementation examples, integration with other technologies, effectiveness, efficiency, challenges/limitations and recommendations. Across each introductory text and factsheet, you will find links to research and further resources on the topic.
 
@@ -20,7 +20,8 @@ In this section, you will find a thematic introduction to the use of digital too
 
 ## Factsheets
 
-The identified key digital technologies are categorized into eight clusters presented afterwards. Each cluster is detailed through a table that provides an overview of:  
+The identified key digital technologies are categorized into eight clusters presented afterwards. Each cluster is detailed through a table that provides an overview of: 
+
 - the concept with a general description of the technology
 - the potential for climate change adaptation (CCA) and disaster risk management (DRM)
 - possibilities of application in DRM or CCA measures or to address different climate hazards
@@ -44,5 +45,8 @@ The factsheets are the following:
 - [Mobile tools](fact-sheets-cres/mobile-tools.md)
 - [(Remote) Management Information Systems](fact-sheets-cres/rmis-cres.md)
 - [Internet of Things (IoT)](fact-sheets-cres/iot.md)
-- [Summary on integration of digital solutions](fact-sheets-cres/integration.md)
+
+## Summary on integration of different Tool Types
+
+- [Summary on integration of different Tool Types](integration.md)
 
