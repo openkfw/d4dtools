@@ -45,5 +45,8 @@ The factsheets are the following:
 - [Mobile tools](fact-sheets-cres/mobile-tools.md)
 - [(Remote) Management Information Systems](fact-sheets-cres/rmis-cres.md)
 - [Internet of Things (IoT)](fact-sheets-cres/iot.md)
-- [Summary on integration of digital solutions](fact-sheets-cres/integration.md)
+
+## Summary on integration of different Tool Types
+
+- [Summary on integration of different Tool Types](fact-sheets-cres/integration.md)
 
