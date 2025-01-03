@@ -47,7 +47,7 @@ nav:
       - climate-resilience/fact-sheets-cres/mobile-tools.md
       - climate-resilience/fact-sheets-cres/rmis-cres.md
       - climate-resilience/fact-sheets-cres/iot.md
-    - Summary on Integration of different Tool Types: climate-resilience/integration.md
+    - Summary on Integration of different Tool Types: "climate-resilience/integration.md"
 
 markdown_extensions:
   - toc
