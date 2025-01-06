@@ -217,4 +217,4 @@ R / MIS are useful for tracking infrastructure quality and the progress of compl
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-[Disclaimer](disclaimer.md)
+[Disclaimer](../disclaimer.md)
