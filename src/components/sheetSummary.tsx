@@ -1,5 +1,6 @@
 import useBaseUrl from "@docusaurus/useBaseUrl";
-
+import Link from '@docusaurus/Link'
+        
 interface SheetSummaryProps {
   imgPath: string;
   linkPath: string;
@@ -26,7 +27,7 @@ export function SheetSummary({
         }}
       />
       <div>
-        <a href={linkPath}>{title}</a> {description}.
+        <Link to={linkPath}>{title}</Link> {description}.
       </div>
       <div style={{ clear: "both" }}></div>
     </div>
