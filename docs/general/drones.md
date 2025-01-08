@@ -28,7 +28,7 @@ comments: true
   elevation models, and 3D models of terrain. Mapping is the most common
   and most popular drone application to date:
 
--   Capturing aerial imagery and making base maps of small areas (less than <15 square kilometres)
+-   Capturing aerial imagery and making base maps of small areas (less than 15 square kilometres)
 
 -   Collecting optical imagery where cloud cover precludes the use of
     satellites and airplanes

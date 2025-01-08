@@ -204,10 +204,9 @@ R / MIS are useful for tracking infrastructure quality and the progress of compl
 -   How to calculate total software cost:
     [https://digitalprinciples.org/resource/howto-calculate-total-](https://digitalprinciples.org/resource/howto-calculate-Â­total-cost-enterprise-software)
     [cost-enterprise-software](https://digitalprinciples.org/resource/howto-calculate-Â­total-cost-enterprise-software)
--   Frequently used data analysis tools
-    <http://impacttrackertech.kopernik.info/data-analysis-tools>
--   About the International Aid Transparency Initiative (IATI) Standard: <https://iatistandard.org/en/about/iati-standard/>
--   How to link offline data collection to an MIS: <https://getodk.github.io/xforms-spec/>
+-   Frequently [used data analysis tools](http://impacttrackertech.kopernik.info/data-analysis-tools)
+-   About the [International Aid Transparency Initiative (IATI) Standard](https://iatistandard.org/en/about/iati-standard/)
+-   How to link offline data [collection to an MIS](https://getodk.github.io/xforms-spec/)
 -   KfW Terms of Reference for project geo data collection [> RMMV Guidebook Annex 3](https://www.kfw-entwicklungsbank.de/Service/Publications-Videos/Publications-by-topic/Digitalisation/RMMV-Guidebook/)
 
 -   Health management information system: [www.openimis.org](https://getodk.github.io/xforms-spec/)
