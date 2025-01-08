@@ -28,7 +28,7 @@ comments: true
   elevation models, and 3D models of terrain. Mapping is the most common
   and most popular drone application to date:
 
--   Capturing aerial imagery and making base maps of small areas (less than <15 square kilometres)
+-   Capturing aerial imagery and making base maps of small areas (less than 15 square kilometres)
 
 -   Collecting optical imagery where cloud cover precludes the use of
     satellites and airplanes
@@ -143,8 +143,8 @@ comments: true
   vulnerable parts thereof, such as minorities. Especially in areas
   where drones are not known or where combat drones have been operating,
   drones may create fear among the population and, hence, operators are
-  required to inform the population before an operation starts [\  RMMV
-  Guidebook Section 2.3.3.](#_bookmark49)
+  required to inform the population before an operation starts [RMMV
+  Guidebook Section 2.3.3.](https://www.kfw-entwicklungsbank.de/Service/Publications-Videos/Publications-by-topic/Digitalisation/RMMV-Guidebook/).
  
   **Data protection:** Drones equipped with cameras have the poten- tial
   to violate privacy if individual persons are identifiable in the video
@@ -203,4 +203,4 @@ comments: true
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-[Disclaimer](disclaimer.md)
+[Disclaimer](../disclaimer.md)

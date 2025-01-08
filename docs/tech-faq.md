@@ -1,5 +1,6 @@
 ---
-comments: true
+sidebar_position: 3
+sidebar_label: FAQ
 ---
 
 # FAQ on the technology
@@ -16,7 +17,7 @@ Indeed, GitHub is mainly used for the work on complex software projects, like th
 
 ## Question: So how do you create the website ?
 
-1. We save the information as [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) files. They have a simple syntax compared to html and contain all the necessary information to render the website. 
+1. We save the information as [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) files. They have a simple syntax compared to html and contain all the necessary information to render the website.
 2. These markdown files are then translated into a website with the [mkdocs-material](https://squidfunk.github.io/mkdocs-material/) tool stack. A number of different tools exist, but this one felt like a stack, which is fairly easy to set up and provides great looking results. [Numerous alternatives](https://jamstack.org/generators/) that transform markdown into websites exist and everyone is free to choose their fitting tool.
 3. The generation of the website is automatically started whenever we change the content of the markdown files or the configuration within the repo. This is done through a [github action](https://github.com/features/actions) and fully automated.
 
@@ -26,7 +27,7 @@ Word documents are great for writing documents that are sent from one person to 
 
 - The docx format of word is tightly linked to microsoft products. Especially in contexts where licence costs are a major bottleneck, it would be great to have the information saved in a more flexible format.
 - In word files the layout is strongly intertwined with the content. This makes it harder to reuse and change the information without touching the layout.
-- pdf's are highly controlled final products, but features like comments, search etc are very hard to implement. 
+- pdf's are highly controlled final products, but features like comments, search etc are very hard to implement.
 - We expect the content of this website to continuously evolve. This is made much easier by working on a software development platform.
 
 ## Question: Are you sure that the technical complexity does not hinder further input ?
@@ -40,7 +41,7 @@ Reuse and sharing are strongly encouraged and one of the main goals of the effor
 ## Question: What if I would like to contribute, have important information or would like to provide an update on something?
 
 All contributions to the project are welcome and strongly encouraged. We wrote an extensive [contributing guide](contributing.md) to guide you through the process.
- 
+
 ## I have another question. Where can I ask it ?
 
 Please write it in the comments section and we will try to solve it.

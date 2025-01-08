@@ -4,114 +4,149 @@ comments: true
 
 # Geographic information system (GIS) and remote sensing
 
+!!! info inline end "Work in progress"
+
+    This fact sheet is still being finalized. Soon you will will be able to read about the use of Geographic information systems (GIS) and remote sensing for urban resilience.
+
 ## Short overview
 
 ### General Description
 
-***Text in progress***
+**_Text in progress_**
 
 ### Potential for Climate Change Adaptation
 
-***Text in progress***
+**_Text in progress_**
 
 ### Potential for Disaster Risk Management
 
-***Text in progress***
+**_Text in progress_**
 
 ## Application in different climate hazards
 
-### Flooding (coastal, river, flash)
+### Flooding
 
-***Text in progress***
+**_Text in progress_**
 
 ### Sea level rise
 
-***Text in progress***
+**_Text in progress_**
 
 ### Landslide
 
-***Text in progress***
+**_Text in progress_**
 
-### Water scarcit/drought
+### Water Scarcity/ Drought
 
-***Text in progress***
+**_Text in progress_**
 
-### Strong winds (storms, cyclones, hurricanes)
+### Strong Winds/ Storms
 
-***Text in progress***
+**_Text in progress_**
 
-### Forest/ bush fires
+### Forest/ Bush Fires
 
-***Text in progress***
+**_Text in progress_**
 
-### Extreme heat temperatures (heat and cold)
+### Extreme Temperatures
 
-***Text in progress***
+**_Text in progress_**
 
-### Subwater penetration
+### Subwater Penetration
 
-***Text in progress***
+**_Text in progress_**
 
 ## Application in DRM/ CCA measures
 
-### Nature-based solutions 
+### Nature-based solutions
 
-***Text in progress***
+**_Text in progress_**
 
-### Integrated coastal zone protection
+### Integrated Coastal Zone Protection
 
-***Text in progress***
+**_Text in progress_**
 
-### Stormwater management
+### Stormwater Management
 
-***Text in progress***
+**_Text in progress_**
 
-### waste management
+### Waste Management
 
-***Text in progress***
+**_Text in progress_**
 
-## Implementation
+## Relevance Within the Project Cycle
 
-### Implementation example 1
-
-***Text in progress***
+**_Text in progress_**
 
 ### Implementation example 2
 
-***Text in progress***
+**_Text in progress_**
 
 ### Requirements
 
-***Text in progress***
+**_Text in progress_**
 
 ### Integration with other technologies
 
-***Text in progress***
+**_Text in progress_**
 
 ## Summary assessment
 
 ### Effectiveness overall
 
-***Text in progress***
+**_Text in progress_**
 
 ### Efficiency overall
 
-***Text in progress***
+**_Text in progress_**
 
 ### Challenges/ limitations
 
-***Text in progress***
+**_Text in progress_**
 
 ### Recommendations
+## Technology Requirements
 
-***Text in progress***
+**_Text in progress_**
 
 ## Legal Aspects
 
 ***Text in progress***
+
+## Summary assessment
+
+### Overall Effectiveness
+
+***Text in progress***
+
+### Overall Efficiency
+
+***Text in progress***
+
+### Key Challenges and Limitations
+
+***Text in progress***
+
+### Recommendations to optimize the use of the digital tool
+
+***Text in progress***
+
+## Project Examples/ Use Cases
+
+***Text in progress***
+
+## Links to further sources
+
+***Text in progress***
+
+## Linkages to other Tool Types
+
+***Text in progress***
+
 ## Licence
+
 ![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-[Disclaimer](disclaimer.md)
+[Disclaimer](../../disclaimer.md)

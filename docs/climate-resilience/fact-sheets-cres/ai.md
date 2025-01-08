@@ -4,115 +4,128 @@ comments: true
 
 # Artificial Intelligence (AI)
 
+!!! info inline end "Work in progress"
+
+    This fact sheet is still being finalized. Soon you will will be able to read about the use of AI for urban resilience.
+
 ## Short overview
 
 ### General Description
 
-***Text in progress***
+**_Text in progress_**
 
 ### Potential for Climate Change Adaptation
 
-***Text in progress***
+**_Text in progress_**
 
 ### Potential for Disaster Risk Management
 
-***Text in progress***
+**_Text in progress_**
 
 ## Application in different climate hazards
 
-### Flooding (coastal, river, flash)
+### Flooding
 
-***Text in progress***
+**_Text in progress_**
 
 ### Sea level rise
 
-***Text in progress***
+**_Text in progress_**
 
 ### Landslide
 
-***Text in progress***
+**_Text in progress_**
 
-### Water scarcit/drought
+### Water Scarcity/ Drought
 
-***Text in progress***
+**_Text in progress_**
 
-### Strong winds (storms, cyclones, hurricanes)
+### Strong Winds/ Storms
 
-***Text in progress***
+**_Text in progress_**
 
-### Forest/ bush fires
+### Forest/ Bush Fires
 
-***Text in progress***
+**_Text in progress_**
 
-### Extreme heat temperatures (heat and cold)
+### Extreme Temperatures
 
-***Text in progress***
+**_Text in progress_**
 
-### Subwater penetration
+### Subwater Penetration
 
-***Text in progress***
+**_Text in progress_**
 
 ## Application in DRM/ CCA measures
 
-### Nature-based solutions 
+### Nature-based Solutions 
 
-***Text in progress***
+**_Text in progress_**
 
-### Integrated coastal zone protection
+### Integrated Coastal Zone Protection
 
-***Text in progress***
+**_Text in progress_**
 
-### Stormwater management
+### Stormwater Management
 
-***Text in progress***
+**_Text in progress_**
 
-### waste management
+### Waste Management
 
-***Text in progress***
+**_Text in progress_**
 
-## Implementation
+## Relevance Within the Project Cycle
 
-### Implementation example 1
+**_Text in progress_**
 
-***Text in progress***
+## Technology Requirements
 
-### Implementation example 2
-
-***Text in progress***
+**_Text in progress_**
 
 ### Requirements
 
-***Text in progress***
+**_Text in progress_**
 
 ### Integration with other technologies
+## Legal Aspects
 
-***Text in progress***
+**_Text in progress_**
 
 ## Summary assessment
 
-### Effectiveness overall
+### Overall Effectiveness
+
+**_Text in progress_**
+
+### Overall Efficiency
+
+**_Text in progress_**
+
+### Key Challenges and Limitations
+
+**_Text in progress_**
+
+### Recommendations to optimize the use of the digital tool
+
+**_Text in progress_**
+
+## Legal Aspects
+## Project Examples/ Use Cases
 
 ***Text in progress***
 
-### Efficiency overall
+## Links to further sources
 
 ***Text in progress***
 
-### Challenges/ limitations
+## Linkages to other Tool Types
 
-***Text in progress***
-
-### Recommendations
-
-***Text in progress***
-
-## Legal Aspects 
-
-***Text in progress***
+**_Text in progress_**
 
 ## Licence
+
 ![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-[Disclaimer](disclaimer.md)
+[Disclaimer](../../disclaimer.md)
