@@ -13,97 +13,97 @@ comments: true
 
 ### General Description
 
-**_Text in progress_**
+***Text in progress***
 
 ### Potential for Climate Change Adaptation
 
-**_Text in progress_**
+***Text in progress***
 
 ### Potential for Disaster Risk Management
 
-**_Text in progress_**
+***Text in progress***
 
 ## Application in different climate hazards
 
 ### Flooding
 
-**_Text in progress_**
+***Text in progress***
 
 ### Sea level rise
 
-**_Text in progress_**
+***Text in progress***
 
 ### Landslide
 
-**_Text in progress_**
+***Text in progress***
 
 ### Water Scarcity/ Drought
 
-**_Text in progress_**
+***Text in progress***
 
 ### Strong Winds/ Storms
 
-**_Text in progress_**
+***Text in progress***
 
 ### Forest/ Bush Fires
 
-**_Text in progress_**
+***Text in progress***
 
 ### Extreme Temperatures
 
-**_Text in progress_**
+***Text in progress***
 
 ### Subwater Penetration
 
-**_Text in progress_**
+***Text in progress***
 
 ## Application in DRM/ CCA measures
 
 ### Nature-based solutions
 
-**_Text in progress_**
+***Text in progress***
 
 ### Integrated Coastal Zone Protection
 
-**_Text in progress_**
+***Text in progress***
 
 ### Stormwater Management
 
-**_Text in progress_**
+***Text in progress***
 
 ### Waste Management
 
-**_Text in progress_**
+***Text in progress***
 
 ## Relevance Within the Project Cycle
 
-**_Text in progress_**
+***Text in progress***
 
 ## Technology Requirements
 
-**_Text in progress_**
+***Text in progress***
 
 ## Legal Aspects
 
-**_Text in progress_**
+***Text in progress***
 
 ## Summary assessment
 
 ### Overall Effectiveness
 
-**_Text in progress_**
+***Text in progress***
 
 ### Overall Efficiency
 
-**_Text in progress_**
+***Text in progress***
 
 ### Key Challenges and Limitations
 
-**_Text in progress_**
+***Text in progress***
 
 ### Recommendations to optimize the use of the digital tool
 
-**_Text in progress_**
+***Text in progress***
 
 ## Project Examples/ Use Cases
 
@@ -115,10 +115,9 @@ comments: true
 
 ## Linkages to other Tool Types
 
-**_Text in progress_**
+***Text in progress***
 
 ## Licence
-
 ![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).

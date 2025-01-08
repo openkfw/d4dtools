@@ -2,6 +2,7 @@
 
 This repository contains the documentation website code and Markdown source files for [d4dtools](https://openkfw.github.io/d4dtools/). They are Fact Sheets on Technical and Digital Tool Types used in Financial Cooperation.
 
+
 Use the table of contents icon on the top left corner of this document to get to a specific section of this guide quickly.
 
 ## Contributing
@@ -12,7 +13,7 @@ On the [d4dtools](https://openkfw.github.io/d4dtools/) site, you can click the m
 
 For more complex contributions, you can [open an issue](https://github.com/openkfw/d4dtools/issues) to describe the changes you'd like to see.
 
-If you're looking for a way to contribute, you can scan through our [existing issues](https://github.com/openkfw/d4dtools/issues) for something to work on.
+If you're looking for a way to contribute, you can scan through our [existing issues](https://github.com/openkfw/d4dtools/issues) for something to work on. 
 
 ### Join us in discussions
 
@@ -23,6 +24,7 @@ We use GitHub Discussions to talk about all sorts of topics related to documenta
 That's how you can easily become a member of the d4dtools community. :sparkles:
 
 ## License
+
 
 ![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 

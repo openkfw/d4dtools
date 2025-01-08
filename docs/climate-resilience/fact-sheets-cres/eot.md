@@ -7,108 +7,109 @@ comments: true
 :::info[Work in progress]
 
     This section is still being finalized. Soon you will will be able to read more about the use of digital tools for urban resilience. 
+    
 :::
 
 ## Short overview
 
 ### General Description
 
-**_Text in progress_**
+***Text in progress***
 
 ### Potential for Climate Change Adaptation
 
-**_Text in progress_**
+***Text in progress***
 
 ### Potential for Disaster Risk Management
 
-**_Text in progress_**
+***Text in progress***
 
 ## Application in different climate hazards
 
 ### Flooding
 
-**_Text in progress_**
+***Text in progress***
 
 ### Sea level rise
 
-**_Text in progress_**
+***Text in progress***
 
 ### Landslide
 
-**_Text in progress_**
+***Text in progress***
 
 ### Water Scarcity/ Drought
 
-**_Text in progress_**
+***Text in progress***
 
 ### Strong Winds/ Storms
 
-**_Text in progress_**
+***Text in progress***
 
 ### Forest/ Bush Fires
 
-**_Text in progress_**
+***Text in progress***
 
 ### Extreme Temperatures
 
-**_Text in progress_**
+***Text in progress***
 
 ### Subwater Penetration
 
-**_Text in progress_**
+***Text in progress***
 
 ## Application in DRM/ CCA measures
 
 ### Nature-based solutions
 
-**_Text in progress_**
+***Text in progress***
 
 ### Integrated Coastal Zone Protection
 
-**_Text in progress_**
+***Text in progress***
 
 ### Stormwater Management
 
-**_Text in progress_**
+***Text in progress***
 
 ### Waste Management
 
-**_Text in progress_**
+***Text in progress***
 
 ## Relevance Within the Project Cycle
 
-**_Text in progress_**
+***Text in progress***
 
 ### Implementation example 2
 
-**_Text in progress_**
+***Text in progress***
 
 ### Requirements
 
-**_Text in progress_**
+***Text in progress***
 
 ### Integration with other technologies
 
-**_Text in progress_**
+***Text in progress***
 
 ## Summary assessment
 
 ### Effectiveness overall
 
-**_Text in progress_**
+***Text in progress***
 
 ### Efficiency overall
 
-**_Text in progress_**
+***Text in progress***
 
 ### Challenges/ limitations
 
-**_Text in progress_**
+***Text in progress***
 
 ### Recommendations
 ## Technology Requirements
 
-**_Text in progress_**
+***Text in progress***
 
 ## Legal Aspects
 

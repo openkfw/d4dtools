@@ -9,11 +9,11 @@ comments: true
     This section is still being finalized. Soon you will will be able to read more about the use of digital tools for urban resilience. 
 :::
 
-**_Text in progress_**
+***Text in progress***
 
 ### Further readings
 
-**_Text in progress_**
+***Text in progress***
 
 ## Licence
 

@@ -7,6 +7,7 @@ comments: true
 :::info[Work in progress]
 
     This section is still being finalized. Soon you will will be able to read more about the use of digital tools for urban resilience. 
+    
 :::
 
 |                  | **Artificial Intelligence (AI)** | **Data Sources** | **Digital Twins** | **Communication and Communication tools** | **Earth Observation/ Geospatial Tools** | **Mobile tools for Climate Adaptation** | **(Remote) Management Information Systems (R/MIS)** | **Internet of Things (IoT)** |

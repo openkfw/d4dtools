@@ -7,108 +7,109 @@ comments: true
 :::info[Work in progress]
 
     This section is still being finalized. Soon you will will be able to read more about the use of digital tools for urban resilience. 
+
 :::
 
 ## Short overview
 
 ### General Description
 
-**_Text in progress_**
+***Text in progress***
 
 ### Potential for Climate Change Adaptation
 
-**_Text in progress_**
+***Text in progress***
 
 ### Potential for Disaster Risk Management
 
-**_Text in progress_**
+***Text in progress***
 
 ## Application in different climate hazards
 
 ### Flooding
 
-**_Text in progress_**
+***Text in progress***
 
 ### Sea level rise
 
-**_Text in progress_**
+***Text in progress***
 
 ### Landslide
 
-**_Text in progress_**
+***Text in progress***
 
 ### Water Scarcity/ Drought
 
-**_Text in progress_**
+***Text in progress***
 
 ### Strong Winds/ Storms
 
-**_Text in progress_**
+***Text in progress***
 
 ### Forest/ Bush Fires
 
-**_Text in progress_**
+***Text in progress***
 
 ### Extreme Temperatures
 
-**_Text in progress_**
+***Text in progress***
 
 ### Subwater Penetration
 
-**_Text in progress_**
+***Text in progress***
 
 ## Application in DRM/ CCA measures
 
 ### Nature-based solutions
 
-**_Text in progress_**
+***Text in progress***
 
 ### Integrated Coastal Zone Protection
 
-**_Text in progress_**
+***Text in progress***
 
 ### Stormwater Management
 
-**_Text in progress_**
+***Text in progress***
 
 ### Waste Management
 
-**_Text in progress_**
+***Text in progress***
 
 ## Relevance Within the Project Cycle
 
-**_Text in progress_**
+***Text in progress***
 
 ## Technology Requirements
 
-**_Text in progress_**
+***Text in progress***
 
 ### Requirements
 
-**_Text in progress_**
+***Text in progress***
 
 ### Integration with other technologies
 ## Legal Aspects
 
-**_Text in progress_**
+***Text in progress***
 
 ## Summary assessment
 
 ### Overall Effectiveness
 
-**_Text in progress_**
+***Text in progress***
 
 ### Overall Efficiency
 
-**_Text in progress_**
+***Text in progress***
 
 ### Key Challenges and Limitations
 
-**_Text in progress_**
+***Text in progress***
 
 ### Recommendations to optimize the use of the digital tool
 
-**_Text in progress_**
+***Text in progress***
 
 ## Project Examples/ Use Cases
 
@@ -120,7 +121,7 @@ comments: true
 
 ## Linkages to other Tool Types
 
-**_Text in progress_**
+***Text in progress***
 
 ## Licence
 
