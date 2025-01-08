@@ -4,9 +4,10 @@ comments: true
 
 # Digital solutions for building urban resilience
 
-!!! info inline end "Work in progress"
+:::info[Work in progress]
 
-    This fact sheet is still being finalized. Soon you will will be able to read about Digital solutions for building urban resilience.
+    This section is still being finalized. Soon you will will be able to read more about the use of digital tools for urban resilience. 
+:::
 
 **_Text in progress_**
 

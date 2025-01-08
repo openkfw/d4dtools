@@ -4,9 +4,10 @@ comments: true
 
 # Summary on integration of solutions
 
-!!! info inline end "Work in progress"
+:::info[Work in progress]
 
-    This fact sheet is still being finalized. Soon you will will be able to read about the integration of different digital technologies for urban resilience. 
+    This section is still being finalized. Soon you will will be able to read more about the use of digital tools for urban resilience. 
+:::
 
 |                  | **Artificial Intelligence (AI)** | **Data Sources** | **Digital Twins** | **Communication and Communication tools** | **Earth Observation/ Geospatial Tools** | **Mobile tools for Climate Adaptation** | **(Remote) Management Information Systems (R/MIS)** | **Internet of Things (IoT)** |
 |------------------|--------|--------|--------|--------|--------|--------|--------|--------|

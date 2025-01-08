@@ -4,9 +4,10 @@ comments: true
 
 # Challenges and limitations of urban digital solutions
 
-!!! info inline end "Work in progress"
+:::info[Work in progress]
 
-    This fact sheet is still being finalized. Soon you will will be able to read about the challenges and limitations of urban digital solutions.
+    This section is still being finalized. Soon you will will be able to read more about the use of digital tools for urban resilience. 
+:::
 
 **_Text in progress_**
 

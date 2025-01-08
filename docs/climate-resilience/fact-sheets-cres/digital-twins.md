@@ -4,9 +4,11 @@ comments: true
 
 # Digital Twins
 
-!!! info inline end "Work in progress"
 
-    This fact sheet is still being finalized. Soon you will will be able to read about the use of Digital twins for urban resilience.
+:::info[Work in progress]
+
+    This section is still being finalized. Soon you will will be able to read more about the use of digital tools for urban resilience. 
+:::
 
 ## Short overview
 

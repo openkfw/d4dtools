@@ -4,9 +4,10 @@ comments: true
 
 # Introduction to urban resilience
 
-!!! info inline end "Work in progress"
+:::info[Work in progress]
 
-    This page is still being finalized. Soon you will will be able to read about urban resilience.
+    This section is still being finalized. Soon you will will be able to read more about the use of digital tools for urban resilience. 
+:::
 
 **_Text in progress_**
 
