@@ -24,7 +24,7 @@ comments: true
 
 ## Application in different climate hazards
 
-### Flooding (coastal, river, flash)
+### Flooding
 
 **_Text in progress_**
 
@@ -36,23 +36,23 @@ comments: true
 
 **_Text in progress_**
 
-### Water scarcit/drought
+### Water Scarcity/ Drought
 
 **_Text in progress_**
 
-### Strong winds (storms, cyclones, hurricanes)
+### Strong Winds/ Storms
 
 **_Text in progress_**
 
-### Forest/ bush fires
+### Forest/ Bush Fires
 
 **_Text in progress_**
 
-### Extreme heat temperatures (heat and cold)
+### Extreme Temperatures
 
 **_Text in progress_**
 
-### Subwater penetration
+### Subwater Penetration
 
 **_Text in progress_**
 
@@ -62,21 +62,19 @@ comments: true
 
 **_Text in progress_**
 
-### Integrated coastal zone protection
+### Integrated Coastal Zone Protection
 
 **_Text in progress_**
 
-### Stormwater management
+### Stormwater Management
 
 **_Text in progress_**
 
-### waste management
+### Waste Management
 
 **_Text in progress_**
 
-## Implementation
-
-### Implementation example 1
+## Relevance Within the Project Cycle
 
 **_Text in progress_**
 
@@ -107,12 +105,43 @@ comments: true
 **_Text in progress_**
 
 ### Recommendations
+## Technology Requirements
 
 **_Text in progress_**
 
 ## Legal Aspects
 
-**_Text in progress_**
+***Text in progress***
+
+## Summary assessment
+
+### Overall Effectiveness
+
+***Text in progress***
+
+### Overall Efficiency
+
+***Text in progress***
+
+### Key Challenges and Limitations
+
+***Text in progress***
+
+### Recommendations to optimize the use of the digital tool
+
+***Text in progress***
+
+## Project Examples/ Use Cases
+
+***Text in progress***
+
+## Links to further sources
+
+***Text in progress***
+
+## Linkages to other Tool Types
+
+***Text in progress***
 
 ## Licence
 
