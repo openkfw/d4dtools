@@ -4,9 +4,11 @@ comments: true
 
 # Artificial Intelligence (AI)
 
-!!! info inline end "Work in progress"
+:::info[Work in progress]
 
-    This fact sheet is still being finalized. Soon you will will be able to read about the use of AI for urban resilience. 
+    This section is still being finalized. Soon you will will be able to read more about the use of digital tools for urban resilience. 
+
+:::
 
 ## Short overview
 
@@ -82,6 +84,11 @@ comments: true
 
 ***Text in progress***
 
+### Requirements
+
+***Text in progress***
+
+### Integration with other technologies
 ## Legal Aspects
 
 ***Text in progress***
@@ -104,6 +111,7 @@ comments: true
 
 ***Text in progress***
 
+## Legal Aspects
 ## Project Examples/ Use Cases
 
 ***Text in progress***

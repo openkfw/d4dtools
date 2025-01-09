@@ -5,9 +5,11 @@ hide:
 
 # Climate Resilience
 
-!!! info inline end "Work in progress"
+:::info[Work in progress]
 
     This section is still being finalized. Soon you will will be able to read more about the use of digital tools for urban resilience. 
+    
+:::
 
 In this section, you will find a thematic introduction to the use of digital tools for urban resilience. The description of the field is accompanied by fact sheets on each selected technology. Each covers definitions, aplication areas, implementation examples, integration with other technologies, effectiveness, efficiency, challenges/limitations and recommendations. Across each introductory text and factsheet, you will find links to research and further resources on the topic.
 
@@ -31,9 +33,9 @@ The identified key digital technologies are categorized into eight clusters pres
 - general assessment regarding the solution's effectiveness and efficiency
 - key challenges, limitations and recommendations to optimize the use of the technology
 
-The aim of these tables is to provide a comprehensive overview of available technologies and to assess their implementation in specific climate hazards and related measures. 
+The aim of these tables is to provide a comprehensive overview of available technologies and to assess their implementation in specific climate hazards and related measures.
 
-While the technologies are presented separately, they might be implemented as a set of measures. 
+While the technologies are presented separately, they might be implemented as a set of measures.
 
 The factsheets are the following:
 

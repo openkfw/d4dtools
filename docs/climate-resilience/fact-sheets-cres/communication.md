@@ -4,9 +4,11 @@ comments: true
 
 # Communication and collaboration tools
 
-!!! info inline end "Work in progress"
+:::info[Work in progress]
 
-    This fact sheet is still being finalized. Soon you will will be able to read about the use of Communication and collaboration tools for urban resilience. 
+    This section is still being finalized. Soon you will will be able to read more about the use of digital tools for urban resilience. 
+
+:::
 
 ## Short overview
 
@@ -58,7 +60,7 @@ comments: true
 
 ## Application in DRM/ CCA measures
 
-### Nature-based Solutions 
+### Nature-based solutions
 
 ***Text in progress***
 
@@ -82,6 +84,11 @@ comments: true
 
 ***Text in progress***
 
+### Requirements
+
+***Text in progress***
+
+### Integration with other technologies
 ## Legal Aspects
 
 ***Text in progress***
@@ -115,7 +122,7 @@ comments: true
 ## Linkages to other Tool Types
 
 ***Text in progress***
- 
+
 ## Licence
 
 ![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)

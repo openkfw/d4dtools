@@ -4,9 +4,11 @@ comments: true
 
 # Internet of Things (IoT)
 
-!!! info inline end "Work in progress"
+:::info[Work in progress]
 
-    This fact sheet is still being finalized. Soon you will will be able to read about the use of IoT for urban resilience. 
+    This section is still being finalized. Soon you will will be able to read more about the use of digital tools for urban resilience. 
+
+:::
 
 ## Short overview
 
@@ -58,7 +60,7 @@ comments: true
 
 ## Application in DRM/ CCA measures
 
-### Nature-based Solutions 
+### Nature-based solutions
 
 ***Text in progress***
 

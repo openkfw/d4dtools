@@ -4,9 +4,11 @@ comments: true
 
 # Digital Twins
 
-!!! info inline end "Work in progress"
 
-    This fact sheet is still being finalized. Soon you will will be able to read about the use of Digital twins for urban resilience. 
+:::info[Work in progress]
+
+    This section is still being finalized. Soon you will will be able to read more about the use of digital tools for urban resilience. 
+:::
 
 ## Short overview
 
@@ -82,6 +84,11 @@ comments: true
 
 ***Text in progress***
 
+### Requirements
+
+***Text in progress***
+
+### Integration with other technologies
 ## Legal Aspects
 
 ***Text in progress***
@@ -117,6 +124,7 @@ comments: true
 ***Text in progress***
 
 ## Licence
+
 ![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
