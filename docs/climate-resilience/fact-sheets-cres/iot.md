@@ -13,18 +13,18 @@ As described in [KfW Remote Management, Monitoring, & Verification (RMMV) Guideb
 
 ### Potential for Climate Change Adaptation
 
-IoT is often applied in the context of industry and smart city development, transportation, smart energy management in buildings or management of power networks, agriculture, waste management, or health care ([Nižetić et al., 2020](https://doi.org/10.1016/j.jclepro.2020.122877)). Either of them is prone to climate impacts and would benefit from climate change adaptation measures. That includes use of smart meters for reducing energy consumption in buildings or guiding urban traffic, among others. IoT applications can help to understand regional climate and climate change, as the data collected can be used to support climate change impact assessment as a basis for informed adaptation decisions ([Salam, 2024](https://doi.org/10.1007/978-3-031-62162-8_2)).
+IoT is often applied in the context of industry and smart city development, transportation, smart energy management in buildings or management of power networks, agriculture, waste management, or health care ([Nižetić et al. 2020](https://doi.org/10.1016/j.jclepro.2020.122877)). Either of them is prone to climate impacts and would benefit from climate change adaptation measures. That includes use of smart meters for reducing energy consumption in buildings or guiding urban traffic, among others. IoT applications can help to understand regional climate and climate change, as the data collected can be used to support climate change impact assessment as a basis for informed adaptation decisions ([Salam 2024](https://doi.org/10.1007/978-3-031-62162-8_2)).
 
 ### Potential for Disaster Risk Management
 
-IoT can support all along the DRM cycle, either before the disaster by increasing accuracy of forecast, or during the disaster by providing real time data and increasing communication among emergency responders. Overall, during the preparedness phase, IoT aids in monitoring and analysis. In the recovery phase, it assists by collecting environmental data (such as weather, chemicals, movement, and buildings), health data (including information on rescuers and stranded individuals), and position data to support rescue efforts (for those trapped, rescuers, and their vehicles) ([Zeng et al., 2023](https://doi.org/10.3390/s23177475)).
+IoT can support all along the DRM cycle, either before the disaster by increasing accuracy of forecast, or during the disaster by providing real time data and increasing communication among emergency responders. Overall, during the preparedness phase, IoT aids in monitoring and analysis. In the recovery phase, it assists by collecting environmental data (such as weather, chemicals, movement, and buildings), health data (including information on rescuers and stranded individuals), and position data to support rescue efforts (for those trapped, rescuers, and their vehicles) ([Zeng et al. 2023](https://doi.org/10.3390/s23177475)).
 
 ## Application in different climate hazards
 ------
 
 ### Flooding
 
-IoT solutions can increase accuracy of floods forecasts by using sensors such as rain gauges (rainfall), radar level sensors, ultrasonic sensors and force-sensitive resistors (water level), drifter and river drones (river flow velocity and water temperature), cameras (flood detection). Equally, IoT can be integrated into flood warning systems by estimating water discharge ([Ghanbari et al., 2024](https://doi.org/10.1007/s11600-023-01174-6)).
+IoT solutions can increase accuracy of floods forecasts by using sensors such as rain gauges (rainfall), radar level sensors, ultrasonic sensors and force-sensitive resistors (water level), drifter and river drones (river flow velocity and water temperature), cameras (flood detection). Equally, IoT can be integrated into flood warning systems by estimating water discharge ([Ghanbari et al. 2024](https://doi.org/10.1007/s11600-023-01174-6)).
 
 ### Sea level rise
 
@@ -32,46 +32,46 @@ IoT can deliver quantitative data on water parameters essential for monitoring s
 
 ### Landslide
 
-To detect landslides, sensors such as “inertial sensors, accelerometers, bar extensometers, borehole inclinometers, rainfall sensors (e.g., rain gauge), and displacement meters” can be used [(Zeng et al., 2023)](https://doi.org/10.3390/s23177475).
+To detect landslides, sensors such as “inertial sensors, accelerometers, bar extensometers, borehole inclinometers, rainfall sensors (e.g., rain gauge), and displacement meters” can be used [(Zeng et al. 2023)](https://doi.org/10.3390/s23177475).
 
 ### Water Scarcity/ Drought
 
-IoT and its variety of sensors can be used for drought forecast and monitoring and improve water management to combat water scarcity. UNEP DTU Partnership lists four options for cities to combat drought with IoT support: decrease water consumption, lessen the use of freshwater by encouraging alternative sources (e.g. reclaimed water), efficiently allocate water to areas of greatest need, and secure additional water sources and storage facilities [(UNEP DTU Partnership, 2021)](https://tech-action.unepccc.org/wp-content/uploads/sites/2/2021/10/2021-06-tna-cities-guidebook-web.pdf).
+IoT and its variety of sensors can be used for drought forecast and monitoring and improve water management to combat water scarcity. UNEP DTU Partnership lists four options for cities to combat drought with IoT support: decrease water consumption, lessen the use of freshwater by encouraging alternative sources (e.g. reclaimed water), efficiently allocate water to areas of greatest need, and secure additional water sources and storage facilities [(UNEP DTU Partnership 2021)](https://tech-action.unepccc.org/wp-content/uploads/sites/2/2021/10/2021-06-tna-cities-guidebook-web.pdf).
 
 ### Strong Winds/ Storms
 
-IoT can be used to increase accuracy of storms, cyclones and hurricanes forecast, for instance using cameras and image processing algorithms [(Zeng et al., 2023)](https://doi.org/10.3390/s23177475).
+IoT can be used to increase accuracy of storms, cyclones and hurricanes forecast, for instance using cameras and image processing algorithms [(Zeng et al. 2023)](https://doi.org/10.3390/s23177475).
 
 ### Forest/ Bush Fires
 
-IoT can support the early detection of fire. For data collection, a system can for instance rely on both WSN in the forest, satellite network, and UAV that collect real time images (data collection layer). WSN sends data to the gateway that sends it to the ThingSpeak IoT cloud that aggregates and analyses the data [(Sharma et al., 2020)](https://doi.org/10.1016/j.scs.2020.102332).
+IoT can support the early detection of fire. For data collection, a system can for instance rely on both WSN in the forest, satellite network, and UAV that collect real time images (data collection layer). WSN sends data to the gateway that sends it to the ThingSpeak IoT cloud that aggregates and analyses the data [(Sharma et al. 2020)](https://doi.org/10.1016/j.scs.2020.102332).
 
 ### Extreme Temperatures
 
-IoT can support the detection of extreme temperatures. For instance, a quality management system was applied to the smart Seoul data of things to gather additional data to be used by urban meteorological information services to forecast heat and cold waves at the urban area scale [(Park and Baek, 2023)](https://doi.org/10.3390/s23052384).
+IoT can support the detection of extreme temperatures. For instance, a quality management system was applied to the smart Seoul data of things to gather additional data to be used by urban meteorological information services to forecast heat and cold waves at the urban area scale [(Park and Baek 2023)](https://doi.org/10.3390/s23052384).
 
 ### Subwater Penetration
 
-Thanks to its various sensors, IoT enables real time monitoring of saltwater penetration [(Nishan et al., 2024)](https://doi.org/10.1007/s43832-024-00092-y), in particular for critical infrastructures affected by salt intrusion such as pipelines and reservoirs. It can also assist in evaluating the effectiveness of measures designed to adapt to salt penetration.
+Thanks to its various sensors, IoT enables real time monitoring of saltwater penetration [(Nishan et al. 2024)](https://doi.org/10.1007/s43832-024-00092-y), in particular for critical infrastructures affected by salt intrusion such as pipelines and reservoirs. It can also assist in evaluating the effectiveness of measures designed to adapt to salt penetration.
 
 ## Application in DRM/ CCA measures
 ------
 
 ### Nature-based solutions
 
-IoT can be used to create urban forest and biosphere maps, balance green and built-in spaces, and vegetation cover monitoring and management [(Belli et al., 2020)](https://doi.org/10.3390/smartcities3030052). It can also be used to manage green spaces in cities. For instance, the city of London used IoT sensors in parks to monitor the moisture level and adapt watering accordingly, which resulted in the reduction of water consumption of 30% [(Mourisard, 2023)](https://www.synox.io/en/smart-watering/how-does-iot-contribute-to-the-sustainable-city-by-improving-stormwater-management/).
+IoT can be used to create urban forest and biosphere maps, balance green and built-in spaces, and vegetation cover monitoring and management [(Belli et al. 2020)](https://doi.org/10.3390/smartcities3030052). It can also be used to manage green spaces in cities. For instance, the city of London used IoT sensors in parks to monitor the moisture level and adapt watering accordingly, which resulted in the reduction of water consumption of 30% [(Mourisard 2023)](https://www.synox.io/en/smart-watering/how-does-iot-contribute-to-the-sustainable-city-by-improving-stormwater-management/).
 
 ### Integrated Coastal Zone Protection
 
-IoT can be used to monitor coastal erosion by putting sensors along the coastline or other determinants of coastal erosion, but also to support decision making on how to manage coastal area. IoT have been used to monitor ocean, water quality, coral reef, marine fish farm, wave and current monitoring, as well as beach monitoring and crowd detection [(Girau et al., 2020)](https://doi.org/10.1109/JIOT.2019.2954202).
+IoT can be used to monitor coastal erosion by putting sensors along the coastline or other determinants of coastal erosion, but also to support decision making on how to manage coastal area. IoT have been used to monitor ocean, water quality, coral reef, marine fish farm, wave and current monitoring, as well as beach monitoring and crowd detection [(Girau et al. 2020)](https://doi.org/10.1109/JIOT.2019.2954202).
 
 ### Stormwater Management
 
-IoT can facilitate remote, real-time monitoring of water consumption, water levels and channel flows, allowing for use optimization, quality or management [(Mourisard, 2023)](https://www.synox.io/en/smart-watering/how-does-iot-contribute-to-the-sustainable-city-by-improving-stormwater-management/).  IoT can enhance monitoring by efficiently tracking rainfall, tank levels, water quality, and the status of valves and pumps ([Okoli & Kabaso, 2024](https://doi.org/10.3390/w16040557); [Alshami et al. 2024](https://ieeexplore.ieee.org/document/10506924))). This monitoring could allow more efficient rain water forecasting, harvesting and management. For instance, in Singapore, authorities have deployed an IoT-based real-time rainfall data collection system to predict flooding and improve water resource management [(Mourisard, 2023)](https://www.synox.io/en/smart-watering/how-does-iot-contribute-to-the-sustainable-city-by-improving-stormwater-management/). It can enhance water conservation by capturing it and storing water more efficiently or optimising its use [(Singh & Ahmed 2021)](https://doi.org/10.1016/j.matpr.2020.08.588). Sensors can sort water during collection, distinguishing between water suitable for household tasks or toilets and water that can be treated for drinking and cooking [(Bhuyan and Yasmin 2022)](https://doi.org/10.5281/zenodo.7215581).
+IoT can facilitate remote, real-time monitoring of water consumption, water levels and channel flows, allowing for use optimization, quality or management [(Mourisard 2023)](https://www.synox.io/en/smart-watering/how-does-iot-contribute-to-the-sustainable-city-by-improving-stormwater-management/).  IoT can enhance monitoring by efficiently tracking rainfall, tank levels, water quality, and the status of valves and pumps ([Okoli & Kabaso 2024](https://doi.org/10.3390/w16040557); [Alshami et al. 2024](https://ieeexplore.ieee.org/document/10506924))). This monitoring could allow more efficient rain water forecasting, harvesting and management. For instance, in Singapore, authorities have deployed an IoT-based real-time rainfall data collection system to predict flooding and improve water resource management [(Mourisard 2023)](https://www.synox.io/en/smart-watering/how-does-iot-contribute-to-the-sustainable-city-by-improving-stormwater-management/). It can enhance water conservation by capturing it and storing water more efficiently or optimising its use [(Singh & Ahmed 2021)](https://doi.org/10.1016/j.matpr.2020.08.588). Sensors can sort water during collection, distinguishing between water suitable for household tasks or toilets and water that can be treated for drinking and cooking [(Bhuyan and Yasmin 2022)](https://doi.org/10.5281/zenodo.7215581).
 
 ### Waste Management
 
-IoT can support more efficient waste management and recycling, including the shift towards a circular economy [(Nižetić et al., 2020)](https://doi.org/10.1016/j.jclepro.2020.122877). Several applications are currently used, from smart monitoring of waste bins, e.g. by bin filling level detection, waste temperature and fire detection, bin vibration occurrence and bin tilt, presence of waste operators, waste humidity, bin GPS location, to the smart coordination of waste trucks and the reduction of food waste [(Nižetić et al., 2020)](https://doi.org/10.1016/j.jclepro.2020.122877). IoT can also be used to detect illegal dump sites and track hazardous waste [(Belli et al., 2020)](https://doi.org/10.3390/smartcities3030052).
+IoT can support more efficient waste management and recycling, including the shift towards a circular economy [(Nižetić et al. 2020)](https://doi.org/10.1016/j.jclepro.2020.122877). Several applications are currently used, from smart monitoring of waste bins, e.g. by bin filling level detection, waste temperature and fire detection, bin vibration occurrence and bin tilt, presence of waste operators, waste humidity, bin GPS location, to the smart coordination of waste trucks and the reduction of food waste [(Nižetić et al. 2020)](https://doi.org/10.1016/j.jclepro.2020.122877). IoT can also be used to detect illegal dump sites and track hazardous waste [(Belli et al. 2020)](https://doi.org/10.3390/smartcities3030052).
 
 ## Relevance Within the Project Cycle
 ------
@@ -133,7 +133,7 @@ Moreover, IoT fosters effective post-disaster recovery and long-term urban plann
 
 IoT demonstrates versatility and can be used in very different context and to address different risks. Although the implementation of IoT requires substancial resources in terms of devices and infrastructure, the cost of operation might be deduced with savings that result from its application. IoT facilitates smarter resource management by collecting and analysing data on resource consumption and conditions, which leads to lower maintenance costs.
 
-As the price of IoT devices has become more acceptable [(Nižetić et al., 2020)](https://doi.org/10.1016/j.jclepro.2020.122877), IoT is also relatively affordable. It can have low energy usage and is able to operate in challenging environments, and is also relatively easy to install [(Zeng et al. 2023)](https://doi.org/10.3390/s23177475).
+As the price of IoT devices has become more acceptable [(Nižetić et al. 2020)](https://doi.org/10.1016/j.jclepro.2020.122877), IoT is also relatively affordable. It can have low energy usage and is able to operate in challenging environments, and is also relatively easy to install [(Zeng et al. 2023)](https://doi.org/10.3390/s23177475).
 
 ### Key Challenges and Limitations
 
