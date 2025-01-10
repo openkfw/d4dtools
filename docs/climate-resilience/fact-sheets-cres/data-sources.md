@@ -150,23 +150,23 @@ Open Data can provide information on waste management progress and disposal loca
 
 Big and Open Data can be helpful throughout all phases of project implementation.
 
-### Project Preparation
+**Project Preparation:**
  
-Big and Open Data enhance project preparation by improving risk assessment and fostering inclusive planning. Big Data helps to identify risks and guide infrastructure placement using environmental and population data.
+Big and Open Data enhance project preparation by improving risk assessment and fostering inclusive planning. Big Data helps to identify risks and guide infrastructure placement using environmental and population data. 
 
-### Project Implementation 
+**Project Implementation:** 
 
-Data sources can enable adaptive management and efficient resource allocation. Aggregated IoT sensor data can provide real-time monitoring, while data streams can guide dynamic resource distribution.
+Data sources can enable adaptive management and efficient resource allocation. Aggregated IoT sensor data can provide real-time monitoring, while data streams can guide dynamic resource distribution. Open data can promote transparency and stakeholder input
 
-### Verification and Project Progress
+**Verification and Project Progress:**
 
 Tracking consumption data and publishing milestones on Open Data platforms can enhance accountability and can measure project effectiveness, aligning progress with objectives. 
 
-### Final Project Review
+**Final Project Review:**
 
 Big and Open Data can enable thorough project reviews by assessing outcomes and promoting external evaluation. Aggregated satellite imagery and sensors can offer quantitative evidence of project impact, while open data can allow access for independent evaluations. 
 
-### Ex-Post Evaluation 
+**Ex-Post Evaluation:**
 
 Open Data from aggregated sensors and sensing tools can track resilience over time, providing insights into project effectiveness. Moreover, Open Data facilitates replication and scaling in other urban areas. 
 

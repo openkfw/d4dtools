@@ -12,7 +12,7 @@ In cities, the implementation of digital technologies is often summarized as sma
 
 In general, digital solutions can support the adaptation to different climatic hazards, across all phases of the disaster risk cycle ([UNDRR 2024](https://www.preventionweb.net/news/seven-promising-innovations-artificial-intelligence-across-drm-cycle)). Each of the phases needs different actions, with different timeframes and related actors, as described in below figure. Digital solutions however come with the potential to bridge between phases and align action, for example by establishing one data platform, a cross-sectoral monitoring system or by digital modelling of adaptation plans ([Zuccaro & Leone 2021](https://doi.org/10.3389/fenvs.2021.693319)). 
 
-IMAGE
+![](/img/resilience-cycle.jpg)
 
 ### Further readings
 

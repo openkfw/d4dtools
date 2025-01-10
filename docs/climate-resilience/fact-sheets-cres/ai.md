@@ -103,23 +103,22 @@ AI tools and applications span from route planification for waste trucks, to cla
 
 AI can be helpful throughout all phases of the project cycle.
 
-### Project Preparation
+**Project Preparation:**
+AI can enhance project preparation by modelling hazard impacts and predicting vulnerabilities. Models can analyse data from sensors and satellites to identify risks, informing resilient project designs. DL excels in processing unstructured data, detecting environmental patterns that traditional methods might miss, supporting adaptive planning.
 
-AI can support by analysing real-time data from IoT sensors and drones to track progress and monitor conditions. ML can hence optimize resource distribution, ensuring timely adjustments. 
-
-### Project Implementation
+**Project Implementation:**
  
 AI can support by analysing real-time data from IoT sensors and drones to track progress and monitor conditions. ML can hence optimize resource distribution, ensuring timely adjustments. 
 
-### Verification of Project Progress
+**Verification of Project Progress:**
 
 AI can verify project progress by analysing consumption and environmental data, providing comparisons of actual outcomes against projections. AI models can further detect anomalies and flag inconsistencies.
 
-### Final Project Review
+**Final Project Review:**
  
 AI can support assessing project outcomes by comparing results to benchmarks or alternative scenarios. It can thus highlight project impacts. For instance, DL can process geospatial and visual data, revealing subtle changes and refining evaluations.
 
-### Ex-Post Evaluation
+**Ex-Post Evaluation:**
 
 AI can support long-term monitoring using satellite imagery and sensors. By comparing post-project data to counterfactuals, it can inform future project designs.
 
