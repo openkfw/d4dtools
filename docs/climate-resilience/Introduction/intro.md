@@ -13,7 +13,6 @@ By 2050, almost 70% of the world population is projected to live in cities, whic
 Cities concentrate a great deal of economic, technical, and social potential for implementing the necessary measures for resilience building. The KfW defines urban climate resilience as “the ability of the ‘urban system’ to ‘adapt’ to the risks of climate change" (Hetz 2022), pointing at systemic approaches and the need to understand and increase abilities. In summary, climate resilience is essential for making cities more sustainable ([UN Habitat 2024](https://unhabitat.org/sites/default/files/2024/11/wcr2024_-_full_report.pdf)), and digital solutions have the potential to shift related trajectories ([Resilient Cities Network 2022](https://resilientcitiesnetwork.org/wp-content/uploads/2022/10/Digital_Solutions_For_Urban_Resilience_-Case-Studies.pdf)).  
 
 ## Further readings
-------
 
 - [IPCC: AR6 Synthesis report – Climate Change 2023](https://www.ipcc.ch/report/ar6/syr/)   
 - [Munich Re: Natural Disaster Risk – Rising trend in losses](https://www.munichre.com/en/risks/natural-disasters.html)   
