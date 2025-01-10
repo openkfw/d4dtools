@@ -4,12 +4,6 @@ comments: true
 
 # Data sources
 
-:::info[Work in progress]
-
-    Subsection on legal aspects is still being finalized. 
-    
-:::
-
 ## Short overview
 ------
 
@@ -203,7 +197,13 @@ For the use of Open Data both the physical infrastructure and expertise are cruc
 ## Legal Aspects
 ------
 
-***Text in progress***
+Data protection: The data sources must be managed in a manner that is in line with the principles of data minimization and proportionality. Any data (structured or unstructured) may contain or reveal personal information of individuals and hence harm their privacy rights if not managed adequately. No individual data should be collected without prior consent and no data should be published to outsiders without a level of aggregation that allows for anonymization of the provided information. An agreement about usage and publication rights should be always obtained with the data providers. Thus, only personal data strictly relevant for the project should be collected and processed. If initial data minimization is not possible, data must be anonymized (e.g., by redaction or pixelation). The collected data must be securely stored and protected. Flawed and inadequate data security puts the rights of individuals to enjoy robust data protection at risk (see [RMMV Guidebook, section 2.3.3](https://www.kfw-entwicklungsbank.de/Service/Publications-Videos/Publications-by-topic/Digitalisation/RMMV-Guidebook)). 
+
+Data security requirements can also arise from data protection regulations like the GDPR, which stipulate basic security requirements. Controllers of personal data must also have appropriate technical and organizational measures in place to satisfy data protection law. Business processes that handle personal data must be designed and implemented to meet security principles and provide adequate safeguards to protect personal data. Entities may be required under those rules to ensure the ongoing confidentiality, integrity, availability, and resilience of processing systems and services (see [RMMV Guidebook, Section 2.3](https://www.kfw-entwicklungsbank.de/Service/Publications-Videos/Publications-by-topic/Digitalisation/RMMV-Guidebook)). 
+
+If KfW (or persons acting on behalf of it) are (also) processing personal data, the privacy check in [RMMV Guidebook Section 2.3.1](https://www.kfw-entwicklungsbank.de/Service/Publications-Videos/Publications-by-topic/Digitalisation/RMMV-Guidebook) must be followed. 
+
+Before (re-)publishing information based on open data, you need to check its respective licence type: [https://opendatacommons.or](https://opendatacommons.or) 
 
 ## Summary Assessment
 ------
