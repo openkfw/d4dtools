@@ -31,6 +31,6 @@ This work is a product of the staff of KfW Development Bank with external contri
 
 Further contributors can be found [here](https://github.com/openkfw/d4dtools/graphs/contributors).
 
-## Other contributors of the first version
+## Other contributors:
 - Development Monitors LLC, Mainlevel Consulting AG, crisscrossed GmbH, Dentons, CUBE Agentur für Kommunikation. 
 - United Nations University - Institute for Environment and Human Security (UNU-EHS), Urban Futures and Sustainability Transformation Division (climate resilience tools)
