@@ -2,7 +2,7 @@
 hide:
   - toc
 ---
-
+fdhdfh
 # Climate Resilience
 
 In this section, you will find a thematic introduction to the use of digital tools for urban resilience. While they were developed primarily for KfW staff, project executing agencies, and project consultants they are also informative for a general audience.
