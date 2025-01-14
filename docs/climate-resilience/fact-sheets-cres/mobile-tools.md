@@ -38,7 +38,7 @@ Several apps have been developed to support disaster risk management in all its 
 
 However, mobile tools tend to be focused on one stage of DRM or one type of hazard, still falling short in addressing systemic risks or providing all the needs in terms of communication, especially considering areas with low coverage or power shortages ([de Corcuera et al. 2021](https://doi.org/10.1007/s10668-021-01697-2)).
 
-## Application in different climate hazards
+## Application in different Climate Hazards
 ------
 
 ### Flooding
@@ -47,7 +47,7 @@ Devices equipped with GPS and cameras can collect real-time data and citizens ca
 
 Maps generated with data from citizens can help emergency management to get an accurate picture of a flood situation, which is often lacking. People affected by a flood event use social media to share how they are affected and whether they need help ([Fohringer et al. 2015](https://doi.org/10.5194/nhess-15-2725-2015); [Huang et al. 2018](https://doi.org/10.1080/19475683.2018.1450787); [Karmegam et al. 2021](https://doi.org/10.1186/s40677-021-00195-x)). In doing so, they provide valuable information about the water level at their location. Since this information is not provided by sensors, individual observations must be considered unreliable, but multiple observations of a flood event increase the reliability of the information, according to the "wisdom of the crowd" principle ([Eilander et al. 2016](https://doi.org/10.1016/j.proeng.2016.07.441)).
 
-### Sea level rise
+### Sea Level Rise
 
 Communities can use crowdsourced data to monitor changes in sea levels and coastal environments ([Harley & Kinsela 2022](https://doi.org/10.1016/j.csr.2022.104796); [Papoutsoglou 2022](https://doi.org/10.1145/3487553.3524852)). 
 Awareness campaigns and community discussions about sea-level rise impacts and preparedness measures can be facilitated through social media.
@@ -62,7 +62,7 @@ Social media can also supplement traditional data acquisition methods for landsl
 
 Social media can be used to trigger warnings, raise awareness, share evacuation routes, and post updates on landslide-prone areas.
 
-### Water Scarcity/ Drought
+### Water Scarcity / Drought
 
 Farmers and local communities can use mobile apps to report water levels and soil conditions, aiding in drought monitoring ([Dennis & Dennis 2019](https://www.doi.org/10.2495/WS190101)). Information on water availability and usage can be crowdsourced to plan and manage water distribution or to identify vulnerable areas. 
 
@@ -70,11 +70,11 @@ Social media can have a positive effect on farmer’s adoption of resilience beh
 
 - **Crowdsourcing data**: enable citizens to report issues and contribute to corresponding efforts. Reporting leakages is an example.
 
-### Strong Winds/ Storms
+### Strong Winds / Storms
 
 Mobile tools can be used to track and document wind damage. Users can contribute near real-time data on strong winds conditions and damage reports, among other data regarding weather conditions ([Niforatos et al. 2015](https://doi.org/10.1145/2836041.2836056)). An example of the large-scale use of social media in disaster response is Hurricane Harvey, which hit the Gulf of Mexico in 2017. Thousands of rescue processionals helped the people affected by the hurricane through messages posted on social media asking for help ([Marzuoli & Liu 2018](https://doi.org/10.1109/BigData.2018.8622641); [Dong et al. 2021](https://doi.org/10.1007/s11069-021-04528-9); [Mangones 2024](https://preparecenter.org/topic/social-media-disasters/)).
 
-### Forest/ Bush Fires
+### Forest / Bush Fires
 
 Mobile devices can be used to map fire perimeters and document vegetation loss in real-time. Contributions from users can help identify the spread of fires and identify most vulnerable areas ([Lane et al. 2015](https://doi.org/10.1007/978-3-319-15994-2_15)). Social media can equally be used to detect and map wildfires. Social media posts can alert fire response units to forest or bush fires. Social media can be used to detect and map wildfires. Social media posts can alert fire response units to forest or bush fires ([Li et al. 2021](https://doi.org/10.1016/j.firesaf.2021.103480)).
 
@@ -86,14 +86,14 @@ The National Oceanic and Atmospheric Administration (NOAA) is using social media
 
 - **Crowdsourcing for data collection**: collect weather and temperature data to inform heatwave alerts and identify hotspots (also see [Meier et al. 2017](https://doi.org/10.1016/j.uclim.2017.01.006)).
 
-### Subwater Penetration
+### Saltwater Penetration
 
 No specific examples found.
 
-## Application in DRM/ CCA measures
+## Application in DRM / CCA measures
 ------
 
-### Nature-based solutions
+### Nature-based Solutions
 
 Mobile devices can be used to gather data on the effectiveness of nature-based solutions ([Hill et al. 2024](https://doi.org/10.1016/j.nbsj.2024.100120)). Devices with GPS help in mapping and monitoring changes in ecosystems, even in remote locations. Volunteers can use mobile apps to report on the condition of natural habitats, invasive species, or the success of nature-based solutions measures ([Graham et al. 2011](https://doi.org/10.1029/2011EO380002); [Adriaens et al. 2015](https://www.doi.org/10.3391/mbi.2015.6.2.12); [Howard et al. 2022](https://doi.org/10.3897/neobiota.71.79597)). Moreover, awareness campaigns about the benefits of nature-based solutions and community participation can be promoted through social media.
 
@@ -111,7 +111,7 @@ Mobile tools can monitor and collect data on rainfall and water quality ([Champa
 
 The utilisation of social media can facilitate the adoption of more environmentally conscious attitudes ([Wamuyu 2018](https://doi.org/10.1016/j.chb.2018.03.029)). Social networks have the potential to increase citizens’ environmental awareness and influence their behaviour by effectively promoting waste management services and recycling scheme ([Jiang et al. 2021](https://doi.org/10.1016/j.resconrec.2020.105146)). Waste management services can benefit from an increased public awareness and better recycling behaviour, making their operations more efficient.
 
-## Relevance Within the Project Cycle
+## Relevance within the Project Cycle
 ------
 
 Mobile tools can be most helpful during project implementation, verification and review phases.
@@ -167,7 +167,7 @@ Controllers of personal data must also apply appropriate technical and organizat
 
 In case **social media** are being used, the future deletion of the content, including any user data, after the end of the project should be explicitly planned and ensured so that this data cannot be misused later. This applies in particular to personal data but is not limited to it. See also [Crowdsourcing Tools](../../general/cst.md)
 
-## Summary assessment
+## Summary Assessment
 ------
 
 ### Overall Effectiveness
@@ -194,7 +194,7 @@ Despite their strengths, mobile tools face challenges that can limit their effic
 
 **Misinformation.** A major challenge in social media is the deliberate or unintentional spread of misinformation. Particularly in the case of a disaster event, misinformation can have devastating consequences, as it can mislead people impacted and provide an untrue portrayal of the situation for disaster response. Social media is often the only source of news for many disadvantaged people, who tend to have limited digital literacy. This increases the negative impacts of misinformation on them ([Cai and Marks 2021](https://doi.org/10.1016/j.uclim.2021.101019)) (For more comprehensive information see [Principles for Digital Development n.d.](https://digitalprinciples.org/), [UN Global Digital Compact n.d.](https://www.un.org/global-digital-compact/en) and [Mejias and Couldry (2024)](https://press.uchicago.edu/ucp/books/book/chicago/D/bo216184200.html)).
 
-### Recommendations to optimize the use of the digital tool
+### Recommendations to optimize the Use of the Digital Tool
 
 To maximize the potential of mobile tools, it is essential to address infrastructure gaps by ensuring reliable network coverage and access to power, particularly in remote or resource-limited areas. In areas with unreliable networks, integrating offline functionalities can help maintain data collection; however, this comes at the expense of real-time monitoring. Strategic investments in robust communication infrastructure, such as satellite-based connectivity or portable network solutions, can improve access in remote or disaster-affected regions.
 
@@ -202,12 +202,13 @@ Additionally, ensuring the quality and reliability of crowdsourced data is cruci
 
 In order to identify and mitigate such human rights risks within KfW-financed projects, we recommend to use the [KfW Human Rights Check for Financial Development Cooperation](https://digitalrights-check.bmz-digital.global/kfw/) during project preparation and implementation.
 
-## Project Examples/ Use Cases
+## Project Examples / Use Cases
+------
 
-- Citizen Science has gained track in areas relating mobile tools, data collection and monitoring schemes. CoastSnap, a citizen science program to monitor coastlines has shown significant results. It exploits smartphone technology and image processing techniques based on long-term optical remote sensing research ([Harley & Kinsela 2022](https://doi.org/10.1016/j.csr.2022.104796)). The program functions by engaging and harnessing citizens willing to contribute to said monitoring through strategically located cradles focused on the beach area to be monitored. It does not require training nor extensive engagement and thus provides a simpler solution to gather a scientifically rigorous dataset of shoreline development. To the date of the publication of its scientific article ([Harley & Kinsela 2022](https://doi.org/10.1016/j.csr.2022.104796)), there were 200 stations installed in 21 countries. Given the cost-effective nature of its geographic expansions, it can function as a mobile tool that engages citizens and helps authorities monitor coastal developments. 
+- Citizen Science has gained track in areas relating mobile tools, data collection and monitoring schemes. *CoastSnap*, a citizen science program to monitor coastlines has shown significant results. It exploits smartphone technology and image processing techniques based on long-term optical remote sensing research ([Harley & Kinsela 2022](https://doi.org/10.1016/j.csr.2022.104796)). The program functions by engaging and harnessing citizens willing to contribute to said monitoring through strategically located cradles focused on the beach area to be monitored. It does not require training nor extensive engagement and thus provides a simpler solution to gather a scientifically rigorous dataset of shoreline development. To the date of the publication of its scientific article ([Harley & Kinsela 2022](https://doi.org/10.1016/j.csr.2022.104796)), there were 200 stations installed in 21 countries. Given the cost-effective nature of its geographic expansions, it can function as a mobile tool that engages citizens and helps authorities monitor coastal developments. 
 - The Provincial Disaster Management Agency (BPBD) for Jakarta has implemented social media into their DRM strategy to enhance urban resilience. The project [*PetaJakarta.org*](https://icos.urenio.org/applications/petajakarta-org/) utilises social media data to gain real-time information. The project is based on the social media platform X (then Twitter), because of the speed of response to natural hazards on the platform and the high user density in the city. During the 2014-15 monsoon season, citizens participated in the project by reporting real-time information about flooding in their area via tagging a specific account. This allowed government agencies to triangulate the information to locate flooding and organise response to the events accordingly. The Provincial Disaster Management Agency for Jakarta also used a Twitter account to disseminate information on imminent disaster risk to the citizens. The project enabled citizens to share information on social media to help government agencies to better understand the situation on the ground and thus enable real-time disaster risk assessments ([Sitinjak et al. 2018](https://doi.org/10.1016/j.proeng.2018.01.029)).
 
-## Links to further sources
+## Links to further Sources
 ------
 
 - [GIZ (2022): Data Strategies for a Common Good-oriented Urban Development](https://www.smart-city-dialog.de/system/files/media/203/1689678242/Publication-Data-Strategies-for-Common-Good-oriented-Urban-Development-Int.pdf) 

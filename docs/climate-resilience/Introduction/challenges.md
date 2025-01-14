@@ -18,7 +18,7 @@ Finally, the utilisation of digital solutions can contribute to climate change a
 
 Digital technologies also require the use of limited resources and raw materials, water and chemicals, and cause e-waste, much of which is not yet recycled adequately ([Nižetić et al. 2020](https://doi.org/10.1016/j.jclepro.2020.122877)). Hence, the introduction of digital solutions needs to be well-planned to avoid them doing more harm than good. 
 
-For more comprehensive information on these challenges and limitations, see the [Principles for Digital Development](https://digitalprinciples.org/), the [Global Digital Compact](https://www.un.org/global-digital-compact/en), as well as [Mejias and Couldry 2024](https://press.uchicago.edu/ucp/books/book/chicago/D/bo216184200.html)).
+For more comprehensive information on these challenges and limitations, see the [Principles for Digital Development](https://digitalprinciples.org/), the [Global Digital Compact](https://www.un.org/global-digital-compact/en), as well as [Mejias and Couldry (2024)](https://press.uchicago.edu/ucp/books/book/chicago/D/bo216184200.html).
 
 In order to identify and mitigate such human rights risks within KfW-financed projects, KfW, GIZ and the Danish Institute for Human Rights have jointly developed the [KfW Human Rights Check for Financial Development Cooperation](https://digitalrights-check.bmz-digital.global/kfw/), which we highly recommend you to use during project preparation and implementation. 
 
