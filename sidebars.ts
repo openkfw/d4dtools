@@ -52,6 +52,7 @@ const sidebars: SidebarsConfig = {
             'climate-resilience/fact-sheets-cres/data-sources', 
             'climate-resilience/fact-sheets-cres/digital-twins', 
             'climate-resilience/fact-sheets-cres/communication', 
+            'climate-resilience/fact-sheets-cres/eot',
             'climate-resilience/fact-sheets-cres/mobile-tools',
             'climate-resilience/fact-sheets-cres/rmis-cres',
             'climate-resilience/fact-sheets-cres/iot', 

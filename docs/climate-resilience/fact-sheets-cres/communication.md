@@ -31,14 +31,14 @@ The complexity of disasters requires knowledge around the phases of disaster ris
 
 Also, digital collaboration tools can both be important instruments for building and exchanging related knowledge.
 
-## Application in different climate hazards
+## Application in different Climate Hazards
 ------
 
 ### Flooding
 
 Addressing the lack of knowledge and preparedness towards flood hazards, especially among highly vulnerable groups, such as children, is crucial. E-learning tools are able to provide target-focused, comparatively low-cost and portable education. The content of such e-learning modules may include general flood knowledge, information on flood warning and flood response ([How et al. 2020](https://doi.org/10.3389/fmars.2019.00404)). Coastal flooding is also a scenario used in UNDRR’s [Stop Disaster Game](https://www.stopdisastersgame.org/), an open-source online game using abstract scenarios, while the Lagos2199 game uses the case of Nigeria’s capital city ([Keys & Keys 2022](https://ecologyandsociety.org/vol27/iss3/art40/)).
 
-### Sea level rise
+### Sea Level Rise
 
 Coastal cities are at particular risk from water-induced disasters, and rising sea levels have immense impacts on livelihoods and urban layouts. Hence a number of virtual learning materials is focusing on coastal flooding and its present and future impact on cities. Materials include among others a course on [Green Infrastructure for Coastal Cities](https://www.learningfornature.org/en/courses/green-infrastructure/),  that follows a risk-based approach with adaptation options to address floods, landslides and mudflows. Other materials showcase and visualize community-level impacts of coastal flooding or sea level rise (e.g. the [NOAA Sea level Rise Viewer](https://coast.noaa.gov/digitalcoast/tools/slr.html) coming with learning materials) or focus on the consequences of coastal flooding and sea level rise, such as migration from and to cities, for instance in a course on Human Mobility in the Context of Climate Change. 
 
@@ -48,30 +48,30 @@ Modeling landslide risk is essential for risk mitigation and planning, hence ass
 
 Furthermore, E-conferencing as a form of virtual communication can contribute to identifying and closing research gaps on landslide disaster risk reduction and management ([Dias et al. 2020](https://doi.org/10.1007/978-3-030-60196-6_50)).
 
-### Water Scarcity/ Drought
+### Water Scarcity / Drought
 
 Collaborative learning networks provide peer-to-peer learning opportunities to increase drought resilience ([Elias et al. 2023](https://doi.org/10.1175/BAMS-D-22-0017.1)). This can be facilitated by sharing lessons learned from past events and documenting drought impacts and responses during current disasters. 
 
-### Strong Winds/ Storms
+### Strong Winds / Storms
 
 Collaboration of researchers amongst each other and with communities is essential for resilience-building and preparedness in the face of hazards, such as hurricanes. Especially information on risk and vulnerability from communities must be incorporated effectively. Virtual methods are able to overcome geographic barriers, link researchers and practitioners and enable shared responsibilities for team goals. This can build trust and support innovative engagement and ultimately contribute to data collection and autonomous community responses ([Stablein et al. 2022](https://doi.org/10.1016/j.gloenvcha.2022.102558)).
 
-### Forest/ Bush Fires
+### Forest / Bush Fires
 
 E-learning can be a vital instrument to raise awareness and learn on growing risks from forest and bush fires, including by knowledge exchange from areas where such risk has been high before. Target audiences are broad and include policy-makers, actors in climate action and risk reduction as well as students. For instance, a study found that video game technology could contribute to university education in disaster risk management related to wildfire response ([Jaime et al. 2019](https://www.inderscienceonline.com/doi/abs/10.1504/IJTEL.2019.100481)). There are also applications for citizens to foster individual action at home or work ([Country Fire Authority, n.d.](https://www.cfa.vic.gov.au/plan-prepare/your-local-area-info-and-advice/e-learning)), and improve urban planning, by adapting urban design for bushfire-resilient homes ([University of Melbourne, n.d.](https://study.unimelb.edu.au/find/microcredentials/urban-design-for-bushfire-resilient-homes/)). 
 
 ### Extreme Temperatures
 
-Extreme heat and urban heat islands are topics already taken up in various online learning and gaming formats, often applying design-based methodologies. Diverse formats and materials are geared towards different audiences, from raising citizen awareness (e.g. by games as presented by [Crisman et al. 2023](https://doi.org/10.1080/00958964.2023.2183173)) to informing urban planners (e.g. by mans of webinars such as from [UrbanShift](https://www.shiftcities.org/post/how-cities-are-beating-urban-heat)), or  teaching on related assessments (e.g. on [Satellite Remote Sensing for Measuring Urban Heat Islands and Constructing Heat Vulnerability Indices](https://appliedsciences.nasa.gov/get-involved/training/english/arset-satellite-remote-sensing-measuring-urban-heat-islands-and) by NASA). In addition, there are repositories with multiple digital materials and e-learning courses (e.g. from [Global Heat Health Information Network](https://ghhin.org/elearning-courses/)). 
+Extreme heat and urban heat islands are topics already taken up in various online learning and gaming formats, often applying design-based methodologies. Diverse formats and materials are geared towards different audiences, from raising citizen awareness (e.g. by games as presented by [Crisman et al. 2023](https://doi.org/10.1080/00958964.2023.2183173)) to informing urban planners (e.g. by means of webinars such as from [UrbanShift](https://www.shiftcities.org/post/how-cities-are-beating-urban-heat)), or  teaching on related assessments (e.g. on [Satellite Remote Sensing for Measuring Urban Heat Islands and Constructing Heat Vulnerability Indices](https://appliedsciences.nasa.gov/get-involved/training/english/arset-satellite-remote-sensing-measuring-urban-heat-islands-and) by NASA). In addition, there are repositories with multiple digital materials and e-learning courses (e.g. from [Global Heat Health Information Network](https://ghhin.org/elearning-courses/)). 
 
 ### Saltwater Penetration
 
 While salt water intrusion/penetration is a growing concern, including for urban areas, it has not yet been dealt with as much as with other hazards in communication and collaboration tools and e-learning. Available materials are often online publications (e.g. [IFRC/COCHAP 2024](https://preparecenter.org/wp-content/uploads/2024/01/4-Saltwater-Intrusion-COCHAP-fact-sheets.pdf)) or online repositories (such as from [USGS](https://www.usgs.gov/mission-areas/water-resources/science/saltwater-intrusion#overview) or [PSU](https://www.e-education.psu.edu/earth103/node/901)), not all with an exclusive focus on cities. Nevertheless, online tools and materials can be vital to inform about the current status and future scenarios impacting on water resources. 
 
-## Application in DRM/ CCA measures
+## Application in DRM / CCA Measures
 ------
 
-### Nature-based solutions
+### Nature-based Solutions
 
 E-learning tools and courses can educate how to implement NbS projects. They are able to provide a self-paced and accessible space for education and exchange on planning, design and implementation of NbS strategies. For example, the e-learning course of NCAI, GIZ and IUCN on ecosystem-based adaptation (EbA) ([https://ncai.iisd.org/eba-course/](https://ncai.iisd.org/eba-course/)) introduces each step of the EbA Mainstreaming Cycle and informs participants where and how biodiversity and ecosystem co-benefits may be integrated in the project phases ([IISD 2023](https://www.iisd.org/system/files/2023-06/biodiversity-co-benefits-nature-based-solutions.pdf)). Overall, there is a couple of e-learning courses available, including for practitioners, that have content on application of NbS for DRM and CCA including in urban areas, such as the [Certificate Course on Nature-based Solutions for Disaster and Climate Resilience](https://pedrr.org/mooc/) by UNEP or a course on [Green Infrastructure for Coastal Cities](https://www.learningfornature.org/en/courses/green-infrastructure/),  and the number of materials keeps growing.
 
@@ -89,7 +89,7 @@ In the context of Water, Sanitation and Hygiene (WASH), e-learning platforms hav
 
 E-learning platforms with the respective modules can inform on waste treatment, disposal and recycling. Thereby, crucial information and education are exchanged overcoming geographical and communication barriers. By including information on technologies and equipment practitioners can be provided with new information for further training ([O’Callaghan et al. 2011](http://archive.sciendo.com/STU/stu.2011.19.issue-1/v10228-011-0022-z/v10228-011-0022-z.pdf)). 
 
-## Relevance Within the Project Cycle
+## Relevance within the Project Cycle
 ------
 
 Digital communication and collaboration tools can be very helpful throughout all phases of the project cycle. E-learning can be very powerful particularly during preparation and implementation.  
@@ -135,7 +135,7 @@ The personal data of the students must only be collected and processed to the ex
 
 See also [Collaboration](../../general/collaboration.md) and [E-learning tools](../../general/elearning.md)
 
-## Summary assessment
+## Summary Assessment
 ------
 
 ### Overall Effectiveness
@@ -158,7 +158,7 @@ Besides, the implementation of e-learning requires stable and regular access to 
 
 For more comprehensive information on human rights-related challenges and limitations, see the [Principles for Digital Development](https://digitalprinciples.org/), the [Global Digital Compact](https://www.un.org/global-digital-compact/en), as well as [Mejias and Couldry (2024)](https://press.uchicago.edu/ucp/books/book/chicago/D/bo216184200.html). 
 
-### Recommendations to optimize the use of the digital tool
+### Recommendations to optimize the Use of the Digital Tool
 
 The following recommendations address the challenges above ([How et al. 2020](https://doi.org/10.3389/fmars.2019.00404); [Stablein et al. 2022](https://doi.org/10.1016/j.gloenvcha.2022.102558)): 
 
@@ -174,14 +174,14 @@ When developing your own materials or communication formats, these should be che
 
 In order to identify and mitigate technology-related human rights risks within KfW-financed projects, we recommend to use the [KfW Human Rights Check for Financial Development Cooperation](https://digitalrights-check.bmz-digital.global/kfw/) during project preparation and implementation. 
 
-## Project Examples/ Use Cases
+## Project Examples / Use Cases
 ------
 
 - Proactive adaptive measures are fundamental to drought resilience. Following a grave drought over the Colorado Plateau 2018, climate service organizations realized the potential of a network sharing successful drought responses and created the *Southwest Drought Learning Network* (DLN) together with resource managers and government representatives ([Elias et al., 2023](https://doi.org/10.1175/BAMS-D-22-0017.1); [Bernadt 2023](https://dln.swclimatehub.info/about)). The network aims to provide peer-to-peer learning and exchange opportunities. The network consists of at least 125 people representing around 40 organizations organised in five teams. They focus on building drought resilience by sharing case studies, hosting drought briefings, identifying information for management decisions, innovating monitoring technologies and incorporating indigenous communities. The resulting collaboration and partnerships enable leveraging the resources and strengths of individuals. The network ultimately works towards fostering drought resilience by transferring successful lessons learned between communities and improving responses to future droughts.
 
 - *CoastLearn* is an e-learning programme for Integrated Coastal Zone Management (ICZM) promoting education on ICZM principles, benefits, options and processes and facilitating international cooperation ([Ferreira et al. 2011](https://ypcc.eu/wp-content/uploads/2016/02/III-3-2-3.pdf)). It aims to transfer experiences and lessons learnt as well as to develop and test new technologies. The programme targets professionals in the public sector, planning institutes, NGOs and university-level students. While mainly created for European countries in transition, CoastLearn has proven to be of value for non-target countries worldwide too. It is available in multiple languages and consists of eight modules: Principles of ICZM, Policy Analysis, GIS, Planning, Environmental Risk Assessment, Sustainable Tourism, Public participation, Biodiversity. The programme is set to be further developed to improve its contribution to networks between practitioners and trainers.
 
-## Links to further sources
+## Links to further Sources
 ------
 
 - [UCLG Learning Community](https://learning.uclg.org/)  
