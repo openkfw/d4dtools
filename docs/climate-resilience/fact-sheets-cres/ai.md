@@ -6,8 +6,8 @@ comments: true
 
 :::info[Work in progress]
 
-    Subsection on legal aspects is still being finalized. 
-
+    The subsections on human rights, ethical and legal aspects are stll being finalized. 
+    
 :::
 
 ## Short overview
@@ -148,10 +148,17 @@ The application of AI depends on setting up the adequate context for its use, in
 - ***Interdisciplinary knowledge:*** incorporating domain-specific knowledge is utmost important for scoping and solving problems with AI.
 - ***Stakeholder engagement:*** engage relevant stakeholders during the development of AI to ensure results are practical and useful ([Donti et al. 2024](http://www.chatziva.com/PSCC2024Tutorial/5_PSCC2024_Tutorial_Donti.pdf)).
 
-## Legal Aspects
-------
+## Human Rights and Ethical AI Aspects (***Text in progress***)
 
-***Text in progress***
+We recommend utmost care in considering human rights and ethical aspects when designing, developing and/or using AI technologies. Due to the rapid evolvement of AI-powered tools, regulatory frameworks, ESG frameworks and related human rights risks, we cannot provide a final recommendation on human rights and ethical risks of AI at this stage. Once KfW will have published a KfW Tool Type Fact Sheet on AI, we will publish their recommendation here as well.  
+We however recommend considering the ([EU AI ACT 2024](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202401689#art_5)).
+
+## Legal Aspects related to Data Protection (***Text in progress***)
+
+**Data Protection**: The data sources must be managed in a manner that is in line with the principles of data minimization and proportionality. Any data (structured or unstructured) may contain or reveal personal information of individuals and hence harm their privacy rights if not managed adequately. No individual data should be processed without prior consent and no data should be published to outsiders without a level of aggregation that allows for anonymization of the provided information. An agreement about usage and publication rights should be always be obtained with the data providers. Thus, only personal data strictly relevant for the project should be collected and processed. If initial data minimization is not possible, data must be anonymized (e.g., by redaction or pixelation). The collected data must be securely stored and protected. Flawed and inadequate data security puts the rights of individuals to enjoy robust data protection at risk. 
+
+**Data Security Requirements** can also arise from data protection regulations like the GDPR, which stipulate basic security requirements. Controllers of personal data must also have appropriate technical and organizational measures in place to satisfy data protection law. Business processes that handle personal data must be designed and implemented to meet security principles and provide adequate safeguards to protect personal data. Entities may be required under those rules to ensure the ongoing confidentiality, integrity, availability, and resilience of processing systems and services.
+
 
 ## Summary Assessment
 ------
@@ -180,7 +187,7 @@ Finally, environmental considerations must be made about the use of AI and how i
 To implement effective AI systems that are properly integrated in urban CCA or DRM processes, it is crucial to consider their prerequisites. Effective resource allocation is vital, as AI infrastructure can be expensive to maintain and scale, especially with rented servers ([Ben Zvi 2022](https://towardsdatascience.com/another-deep-learning-hardware-guide-73a4c35d3e86); [Flinders and Smalley 2024](https://www.ibm.com/topics/ai-infrastructure)).
 Beyond these requirements, engaging with citizens and integrating results in social media and official government channels will enhance public engagement. As with any government initiative, legitimacy is key to its success or failure. If AI systems are perceived as legitimate, their results will be acknowledged, and recommendations will be implemented. Results need to be presented in non-technical language for the understanding of policymakers and a more general public. It is also important to understand that AI models have clear limitations that must be communicated. 
 Overall, AI faces similar hurdles as other technical systems at the city government level. Learning about how these systems have overcome issues, become legitimate and are integrated in decision-making processes is recommendable.
-In order to identify and mitigate AI-related human rights risks within KfW-financed projects, we recommend to use the [KfW Human Rights Check for Financial Development Cooperation](https://digitalrights-check.bmz-digital.global/kfw/) during project preparation and implementation.
+In order to identify and mitigate AI-related human rights risks within KfW-financed projects, we recommend to use the [KfW Digital Rights Check for Financial Development Cooperation](https://digitalrights-check.bmz-digital.global/kfw/) during project preparation and implementation.
 
 ## Project Examples / Use Cases
 ------
@@ -220,3 +227,5 @@ To this aim, [Tesfay Abraha et al. (2024)](https://doi.org/10.1038/s41545-024-00
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 [Disclaimer](../../disclaimer.md)
+
+
