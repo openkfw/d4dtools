@@ -174,25 +174,19 @@ The application of Big Data for urban resilience depends on establishing an adeq
 - ***Data collection mechanisms***: networks of sensors and devices (e.g., traffic cameras, air quality monitors)
 - ***Scalable storage systems***: robust, cloud-based storage solutions for large and extending data volumes ([IEC 2024](https://www.iec.ch/blog/new-international-standard-provides-process-framework-managing-big-data-analytics)).
 - ***High-performance computing resources***: powerful computing infrastructure for efficient data processing and analysis ([IEC 2024](https://www.iec.ch/blog/new-international-standard-provides-process-framework-managing-big-data-analytics)).
+- ***Open Data platforms***: user-friendly platforms for sharing data to diverse stakeholders ([UNSTAT 2020](https://unstats.un.org/unsd/statcom/51st-session/documents/BG-Item3v-Local-level_OD-E.pdf)). 
+- ***Data standardization tools***: tools to ensure data quality and oversee data sharing practices ([Moro and Page 2024](https://data.europa.eu/sites/default/files/report/2023%20Open%20Data%20Best%20Practice%20in%20Europe.pdf)). 
 
 **Expertise**
 
 - ***Data scientists and analysts***: skilled in data mining, machine learning and statistical analysis. 
 - ***IT and data management specialists***: maintain and optimize data systems ([IEC 2024](https://www.iec.ch/blog/new-international-standard-provides-process-framework-managing-big-data-analytics)). 
 - ***Security experts***: protect sensitive data and ensure privacy compliance ([Santos 2024](https://www.linkedin.com/pulse/importance-data-governance-regulatory-compliance-ensuring-santos-kcggf/)).
-
-For the use of Open Data both the physical infrastructure and expertise are crucial for yielding better results.
-
-**Physical Infrastructure**
-
-- ***Open Data platforms***: user-friendly platforms for sharing data to diverse stakeholders ([UNSTAT 2020](https://unstats.un.org/unsd/statcom/51st-session/documents/BG-Item3v-Local-level_OD-E.pdf)). 
-- ***Data standardization tools***: tools to ensure data quality and oversee data sharing practices ([Moro and Page 2024](https://data.europa.eu/sites/default/files/report/2023%20Open%20Data%20Best%20Practice%20in%20Europe.pdf)). 
-
-**Expertise**
-
 - ***Data governance professionals****: manage data policies, quality and sharing practices ([Radecki and Dieguez 2022](https://www.smart-city-dialog.de/system/files/media/203/1689678242/Publication-Data-Strategies-for-Common-Good-oriented-Urban-Development-Int.pdf)). 
 - ***Community engagement specialists***: promote open data use and gather feedback.
-- ***Developers and innovators***: create applications using open data to address urban challenges ([Moro and Page 2024](https://data.europa.eu/sites/default/files/report/2023%20Open%20Data%20Best%20Practice%20in%20Europe.pdf)).  
+- ***Developers and innovators***: create applications using open data to address urban challenges ([Moro and Page 2024](https://data.europa.eu/sites/default/files/report/2023%20Open%20Data%20Best%20Practice%20in%20Europe.pdf)).
+
+For the use of Open Data both the physical infrastructure and expertise are crucial for yielding better results.
 
 ## Legal Aspects
 ------
