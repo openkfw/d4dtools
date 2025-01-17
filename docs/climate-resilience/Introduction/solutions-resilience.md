@@ -2,7 +2,7 @@
 comments: true
 ---
 
-# Digital solutions to enhance urban Climate resilience
+# Digital solutions to enhance urban climate resilience
 
 Digital Solutions in the context of building urban (climate) resilience comprise devices, infrastructure and programs for digitally processing, storing and/or transferring information ([German Federal Ministry for Economic Cooperation and Development 2019](https://www.giz.de/expertise/downloads/Glossary%E2%80%93Digitalisation-in-Development-Cooperation.pdf), [IPCC 2022](https://www.ipcc.ch/report/ar6/wg2/chapter/annex-ii/)). They can contribute to more efficient urban management by bearing the potential of integrating urban systems components and related data. This shift towards digital solutions has accelerated in recent years as they become more widely available and affordable ([Arup & Resilient Cities Network 2023](https://www.arup.com/globalassets/downloads/insights/digital-cities-resilient-cities-delivering-urban-resilience-through-digital-solutions.pdf)). The widespread implementation of digital solutions can unlock the transformative potentials of cities, as it can enhance government efficiency, foster sectoral innovation as well as economic development and empower communities through digital inclusion ([Salehi et al. 2023](https://iclei.org/wp-content/uploads/2023/12/2022-Academy-Digitalization-Policy-Brief-ICLEI.pdf)).
 
