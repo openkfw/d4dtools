@@ -13,13 +13,13 @@ Education is increasingly promoting, using and including electronic and digital 
 
 ‘eLearning’ refers to the delivery of education and training through digital resources ([OHSC 2024](https://www.oxfordhomestudy.com/OHSC-Blog/what-is-elearning)), as opposed to in-person trainings. E-learning is an umbrella term for different ways of teaching and learning. The most common ones are synchronous learning in parallel with others and asynchronous or self-paced learning. Linking in-person to e-learning resources is known as blended learning, and could combine the benefits of both forms. E-learning also allows for the inclusion of web tools like YouTube videos or videogames ([Jaime et al. 2019](https://www.inderscienceonline.com/doi/abs/10.1504/IJTEL.2019.100481)) and establishing libraries other actors could contribute to, thereby further developing materials and case studies ([Catindig et al. 2020](https://dl.acm.org/doi/10.1145/3377571.3377629)). Online games like UNDRR’s [Stop Disasters Game](https://www.stopdisastersgame.org/) are a more playful way to learn about the effects of climate risks and how to combat them. Flooding is one of the natural hazards included as a scenario in this particular game, that “teaches adults and children how to build safer villages and cities against disasters”. 
 
-Virtual collaboration tools include email, videoconferencing, digital data sharing platforms and other tools facilitating working and collaborating with team members at distance ([Berente & Howlson 2019](https://link.springer.com/chapter/10.1007/978-3-030-20992-6_43)). Many of these are natural components of project work anyway. 
+Virtual collaboration tools include email, videoconferencing, digital data sharing platforms and other tools facilitating working and collaborating with team members at distance ([Berente & Howison 2019](https://link.springer.com/chapter/10.1007/978-3-030-20992-6_43)). Many of these are natural components of project work anyway. 
 
 E-conferencing as a form of virtual communication can contribute to identifying and closing research gaps on natural hazards, for example by supporting the development of conceptual frameworks, implementing cross-sectoral guidelines and humanitarian standards (e.g. in the case of landslides, see [Dias et al. 2020](https://doi.org/10.1007/978-3-030-60196-6_50)).
 
-Both, e-learning and virtual collaboration tools could be developed newly for any project, or existing materials can be applied in support of projects. 
+Both e-learning and virtual collaboration tools could be newly developed for any project, or existing materials can be applied in support of projects. 
 
-See also [Collaboration](https://openkfw.github.io/d4dtools/collaboration/) and [E-learning tools](https://openkfw.github.io/d4dtools/elearning/)  
+See also [Collaboration](https://openkfw.github.io/d4dtools/docs/general/collaboration/) and [E-learning tools](https://openkfw.github.io/d4dtools/docs/general/elearning/)  
 
 ### Potential for Climate Change Adaptation
 
@@ -131,7 +131,7 @@ Video transmissions should be made with end-to-end encryption. To keep unwanted 
 
 The chosen **license model of eLearning tools** must ensure sufficient access to the eLearning tool (ideally open-source). The license must also ensure that students may reasonably use the learning materials for private study. The PEA has to warrant that constraints of the respective license agreement are complied with - for example, that inadmissable copying of material is prevented ([RMMV Guidebook Section 2.2.2.](https://www.kfw-entwicklungsbank.de/Service/Publications-Videos/Publications-by-topic/Digitalisation/RMMV-Guidebook/)). 
 
-The personal data of the students must only be collected and processed to the extent necessary for the training purpose. The eLearning tool must have adequate **security to protect the collected personal data** of the students, such as their names and addresses. Flawed or inadequate data security puts the rights of participants at risk, who should enjoy robust data protection allowing them to freelyl use the eLearning tool without fear of negative personal consequences [RMMV Guidebook Section 2.3.1.](https://www.kfw-entwicklungsbank.de/Service/Publications-Videos/Publications-by-topic/Digitalisation/RMMV-Guidebook/) 
+The personal data of the students must only be collected and processed to the extent necessary for the training purpose. The eLearning tool must have adequate **security to protect the collected personal data** of the students, such as their names and addresses. Flawed or inadequate data security puts the rights of participants at risk, who should enjoy robust data protection allowing them to freely use the eLearning tool without fear of negative personal consequences [RMMV Guidebook Section 2.3.1.](https://www.kfw-entwicklungsbank.de/Service/Publications-Videos/Publications-by-topic/Digitalisation/RMMV-Guidebook/) 
 
 See also [Collaboration](../../general/collaboration.md) and [E-learning tools](../../general/elearning.md)
 
@@ -186,13 +186,13 @@ In order to identify and mitigate technology-related human rights risks within K
 
 - [UCLG Learning Community](https://learning.uclg.org/)  
 - [UNESCAP e-learning platform, providing multiple courses on urban topics](https://e-learning.unescap.org/thematicarea)   
-- [UN SDG:learn, providing multiple resources and courses oi urban topics](https://www.unsdglearn.org/learning/?tx=urban) 
+- [UN SDG:learn, providing multiple resources and courses on urban topics](https://www.unsdglearn.org/learning/?tx=urban) 
 
 ## Linkages to other Tool Types
 ------
 
 - **Artificial Intelligence (AI):** AI outputs can be integrated with the communication channels of a city administration and even automate them. Similarly, e-learning tools can benefit from AI through customization of learning, production and selection of new learning materials. 
-- **Data Sources:** Data stemming from communication channels such as social media can function as input for Big Data systems, for example from . As an example, data generated on usage patterns in e-learning platforms could be integrated with other datasets to personalize and enhance learning. 
+- **Data Sources:** Data stemming from communication channels such as social media can function as input for Big Data systems. As an example, data generated on usage patterns in e-learning platforms could be integrated with other datasets to personalize and enhance learning. 
 - **Digital Twins:** Digital twins and communication tools enable collaborative decision-making. Scenarios simulated can be shared easily and  be discussed to inform decision-making. In the context of e-learning, digital twins can support scenario-based learning. Furthermore,  project stakeholders can take advantage of e-learning and scenarios and train for specific events. See also [Building Information Modelling](../../general/bim.md).
 - **Communication and Collaboration Tools:** AI outputs can be integrated with the communication channels of a city administration and even automate them. Similarly, e-learning tools can benefit from AI through customization of learning, production and selection of new learning materials. See also [Collaboration](../../general/collaboration.md) and [E-learning tools](../../general/elearning.md). 
 - **Earth Observation/Geospatial Tools:** As with other technologies, earth observation tools are supported by communication channels and tools for dissemination, joint work and decision-making. For example, remote sensing data on phenomena such as heating islands or carbon emissions can be communicated effectively to citizens and stakeholders in real-time. Knowledge on the use of GIS and RS can be obtained through e-learning. See also [Geospatial tools and GIS](../../general/gis.md).
@@ -200,7 +200,7 @@ In order to identify and mitigate technology-related human rights risks within K
 - **(Remote) Management Information Systems (R/MIS):** R/MIS can serve as a way to share information and coordinate efforts among different stakeholders. E-learning on MIS can be used to build needed capacities. See also [Manaement Maintenance Systems (MMS)](../../general/mms.md) and [(Remote) Management Information Systems](../../general/rmis.md).  
 - **Internet of Things (IoT):** IoT can serve as a device for registering information, generating alerts and notifications to be communicated to citizens. Communication can also be further enhanced through IoT data made public. See also [Sensors / SmartMeters (Internet of Things)](../../general/sensors.md). 
 
-## License
+## Licence
 
 ![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 

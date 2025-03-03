@@ -197,7 +197,7 @@ Data security requirements can also arise from data protection regulations like 
 
 If KfW (or persons acting on behalf of it) are (also) processing personal data, the privacy check in [RMMV Guidebook Section 2.3.1](https://www.kfw-entwicklungsbank.de/Service/Publications-Videos/Publications-by-topic/Digitalisation/RMMV-Guidebook) must be followed. 
 
-Before (re-)publishing information based on open data, you need to check its respective licence type: [https://opendatacommons.or](https://opendatacommons.or) 
+Before (re-)publishing information based on open data, you need to check its respective licence type: [https://opendatacommons.org](https://opendatacommons.or) 
 
 ## Summary Assessment
 ------

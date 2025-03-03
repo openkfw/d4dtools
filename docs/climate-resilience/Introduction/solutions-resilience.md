@@ -14,6 +14,8 @@ In general, digital solutions can support the adaptation to different climatic h
 
 ![](/img/resilience-cycle.jpg)
 
+*Different digital solutions can be useful across the stages of the disaster management cycle.*
+
 ### Further readings
 
 - [Resilient Cities Network 2022: Digital Solutions for Urban Resilience in Latin America](https://resilientcitiesnetwork.org/wp-content/uploads/2022/10/Digital_Solutions_For_Urban_Resilience_-Case-Studies.pdf)  
