@@ -11,11 +11,11 @@ comments: true
 
 Management Information Systems (MIS) are web-based or desktop software system used to systematically collect, validate, store, manage, monitor, aggregate, process, analyze, visualize, and publish data for monitoring and management purposes ([Shaqiri 2014](https://www.richtmann.org/journal/index.php/ajis/article/view/2943); [Mishra 2013](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2307474)). Frequently, they use real-time indicators to facilitate decision-making. 
 
-R/MIS are usually associated with dashboards that present information for decision-making. **Dashboards** are a key component of R/MIS and enable the visualization of datasets managed within the system. They are the interface with which the user interacts, usually adjusted to their needs and capacities, presenting a selection of data that is relevant for the user or decision-maker. Dashboards can help making sense of large volumes of data and present information that facilitates decision-making [(Beuschel 2008)](https://www.igi-global.com/viewtitlesample.aspx?id=11247&ptid=348&t=dashboards+for+management). 
+R/MIS are usually associated with dashboards that present information for decision-making. **Dashboards** are a key component of R/MIS and enable the visualization of datasets managed within the system. They are the interface with which the user interacts, usually adjusted to their needs and capacities, presenting a selection of data that is relevant for the user or decision-maker. Dashboards can help make sense of large volumes of data and present information that facilitates decision-making [(Beuschel 2008)](https://www.igi-global.com/viewtitlesample.aspx?id=11247&ptid=348&t=dashboards+for+management). 
 
 ### Potential for Climate Change Adaptation
 
-In addition to facilitate project management, R/MIS also provide tools for analyzing, monitoring, and responding to climate-related risks [(Constable et al. 2022)](https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2022.754264/full), including: 
+In addition to facilitating project management, R/MIS also provide tools for analyzing, monitoring, and responding to climate-related risks [(Constable et al. 2022)](https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2022.754264/full), including: 
 
 - **Resource management.** The use of R/MIS can make the use of resources (financial, staff, material and others) and assets more efficient and sustainable.  
 - **Vulnerability assessment and scenario modelling.** Using different datasets in an integrated system can help to identify (climate) risk-prone areas and forecast future (climatic) conditions and impacts, allowing to conclude on needed adaptation action.  
